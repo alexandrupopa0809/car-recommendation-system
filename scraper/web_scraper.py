@@ -15,7 +15,7 @@ logger.setLevel(logging.INFO)
 URL = "https://www.autovit.ro/autoturisme?page={}"
 SCRIPT_ID = "__NEXT_DATA__"
 URL_PATTERN = r"https://www\.autovit\.ro/autoturisme/anunt/.*?\.html"
-NUM_PAGES = 500
+NUM_PAGES = 1000
 
 CAR_FEATURES = [
         "make",
@@ -66,7 +66,7 @@ def create_dataframe(data_list):
 
 if __name__ == "__main__":
     all_data = []
-    for page_number in range(901, 1001):
+    for page_number in range(1, NUM_PAGES + 1):
         response = requests.get(URL.format(page_number))
         if response.status_code == 200:
             logging.info(f"Scraping cars from autovit page {page_number}...")
