@@ -1,0 +1,1293 @@
+,title,price,make,model,year,mileage,fuel_type,engine_power,engine_capacity,transmission,pollution_standard,gearbox,body_type,country_origin,original_owner,no_accident
+0,Suzuki Ignis,12078,Suzuki,Ignis,2019,58 600 km,Benzina,90 CP,1 242 cm3,Fata,,Manuala,Masina de oras,,Da,Da
+1,Honda Civic 2.0 e:HEV E-CVT Sport,36440,Honda,Civic,2023,1 km,Hibrid,184 CP,1 993 cm3,Fata,Euro 6d-Temp,Automata,Compacta,Japonia,Da,Da
+2,Volkswagen Golf 1.6 TDI Trendline,8806,Volkswagen,Golf,2017,223 000 km,Diesel,115 CP,1 598 cm3,Fata,Euro 6,Manuala,Combi,,Da,Da
+3,Mercedes-Benz EQS,151583,Mercedes-Benz,EQS,2022,36 km,Electric,360 CP,,4x4 (automat),Euro 6,Automata,Sedan,,,
+4,Porsche Cayenne Tiptronic S,61900,Porsche,Cayenne,2018,65 414 km,Benzina,340 CP,2 995 cm3,4x4 (automat),,Automata,SUV,Cehia,,
+5,Volkswagen Beetle,3990,Volkswagen,Beetle,2006,137 000 km,Diesel,105 CP,1 896 cm3,Fata,,Manuala,Coupe,,,
+6,BMW X1 xDrive18d Aut. Sport Line,10500,BMW,X1,2013,246 000 km,Diesel,143 CP,1 995 cm3,4x4 (automat),Euro 5,Automata,SUV,Romania,,Da
+7,Skoda Octavia 1.5 TSI Ambition,15800,Skoda,Octavia,2018,68 426 km,Benzina,150 CP,1 495 cm3,Fata,,Manuala,Sedan,,,
+8,Toyota Avensis 2.0 D-4D,6999,Toyota,Avensis,2011,220 602 km,Diesel,126 CP,1 998 cm3,Fata,Euro 5,Manuala,Sedan,,,
+9,Volkswagen Golf,7000,Volkswagen,Golf,2014,312 344 km,Diesel,105 CP,1 598 cm3,Fata,Euro 6,Automata,Combi,,,Da
+10,Mercedes-Benz GLC Coupe 200 4Matic 9G-TRONIC Exclusive,49900,Mercedes-Benz,GLC Coupe,2021,32 000 km,Benzina,197 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+11,Fiat Doblo,2500,Fiat,Doblo,2008,216 000 km,Diesel,85 CP,1 248 cm3,Fata,,Manuala,Monovolum,,,
+12,Toyota Prius (Hybrid) Comfort,6800,Toyota,Prius,2011,170 000 km,Hibrid,99 CP,1 798 cm3,Fata,,Automata,Compacta,,,
+13,Renault Fluence 1.5 dCi Authentique,6250,Renault,Fluence,2014,198 700 km,Diesel,95 CP,1 461 cm3,Fata,Euro 5,Manuala,Sedan,Romania,,
+14,Renault Laguna,6200,Renault,Laguna,2013,222 000 km,Diesel,150 CP,1 995 cm3,Fata,,Manuala,Combi,Franta,,Da
+15,Mercedes-Benz C 220 (BlueTEC) d T 7G-TRONIC,22500,Mercedes-Benz,C,2015,205 000 km,Diesel,170 CP,2 143 cm3,Spate,Euro 6,Automata,Sedan,Franta,Da,Da
+16,Volkswagen Tiguan 2.0 TDI DPF,17990,Volkswagen,Tiguan,2017,220 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Manuala,SUV,Franta,Da,Da
+17,Peugeot 308 1.6 BlueHDi FAP STT EAT6,11990,Peugeot,308,2019,184 000 km,Diesel,120 CP,1 560 cm3,Fata,Euro 6,Automata,Combi,Franta,Da,Da
+18,Toyota Prius,7600,Toyota,Prius,2011,168 000 km,Hibrid,136 CP,1 800 cm3,,,Automata,Masina de oras,,,
+19,Peugeot 3008 BlueHDi 120 EAT6 Stop & Start,16990,Peugeot,3008,2017,173 000 km,Diesel,120 CP,1 560 cm3,Fata,Euro 6,Automata,SUV,Franta,Da,Da
+20,Renault Grand Scenic,13000,Renault,Grand Scenic,2017,197 180 km,Diesel,110 CP,1 461 cm3,,,Automata,Monovolum,,,
+21,Volkswagen Golf 1.6 TDI DSG Comfortline,12489,Volkswagen,Golf,2019,128 731 km,Diesel,115 CP,1 598 cm3,Fata,Euro 6,Automata,Combi,,Da,Da
+22,Volkswagen Beetle The 2.0 TDI DPF iBeetle Design,10490,Volkswagen,Beetle,2012,107 153 km,Diesel,140 CP,1 968 cm3,Fata,Euro 5,Manuala,Compacta,Germania,,Da
+23,Renault Megane dCi 110 FAP LIMITED,6950,Renault,Megane,2016,247 546 km,Diesel,110 CP,1 461 cm3,Fata,Euro 6,Manuala,Combi,,,
+24,Renault Koleos Blue dCi X-Tronic 4WD Initiale Paris,33799,Renault,Koleos,2021,46 000 km,Diesel,190 CP,1 995 cm3,4x4 (automat),,Automata,SUV,,,
+25,Ford Kuga 2.0 TDCi 4WD Powershift Titanium,15900,Ford,Kuga,2017,126 000 km,Diesel,150 CP,1 997 cm3,,,Automata,SUV,,,
+26,Bentley Bentayga,101150,Bentley,Bentayga,2017,133 000 km,Benzina,608 CP,5 990 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+27,Mercedes-Benz E 220 d 4Matic 9G-TRONIC AMG Line,34990,Mercedes-Benz,E,2019,152 000 km,Diesel,194 CP,1 950 cm3,4x4 (automat),Euro 6,Automata,Sedan,Franta,Da,Da
+28,Audi A4 Avant 2.0 TDI S tronic sport,17990,Audi,A4,2020,191 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Combi,Germania,Da,Da
+29,Kia Sportage 2.0 DSL 8AT HP 4x4 GT Line,25990,Kia,Sportage,2020,113 000 km,Diesel,185 CP,1 995 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+30,BMW X1 xDrive23d Aut.,9990,BMW,X1,2010,330 000 km,Diesel,204 CP,1 995 cm3,4x4 (automat),Euro 5,Automata,SUV,Germania,Da,Da
+31,Volkswagen Passat 2.0 TDI DSG 4Motion Highline,19900,Volkswagen,Passat,2017,180 000 km,Diesel,240 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Sedan,Romania,,
+32,Audi S3 2.0 TFSI quattro Stronic,23999,Audi,S3,2016,115 000 km,Benzina,300 CP,1 984 cm3,,,Automata,Sedan,,,
+33,Mercedes-Benz Sprinter 411 CDI 904.623,7990,Mercedes-Benz,Sprinter,2003,216 680 km,Diesel,109 CP,2 148 cm3,Spate,Euro 3,Manuala,Monovolum,Germania,Da,Da
+34,Volkswagen Caddy 1.6 TDI (7-Si.) BMT Maxi Roncalli,10290,Volkswagen,Caddy,2013,239 000 km,Diesel,102 CP,1 598 cm3,Fata,Euro 5,Manuala,Combi,Germania,Da,Da
+35,BMW X5 xDrive40e iPerformance,33915,BMW,X5,2016,123 787 km,Hibrid,245 CP,1 997 cm3,4x4 (automat),,Automata,SUV,,,
+36,Mercedes-Benz GLB 200 d 4MATIC Aut.,40900,Mercedes-Benz,GLB,2022,17 938 km,Diesel,150 CP,1 950 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+37,Volkswagen Passat 2.0 TDI DSG 4Motion Highline,19900,Volkswagen,Passat,2017,180 000 km,Diesel,240 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Sedan,Romania,,
+38,Skoda Octavia Combi 1.6 TDI Ambition,10490,Skoda,Octavia,2018,237 900 km,Diesel,115 CP,1 598 cm3,Fata,Euro 6,Manuala,Combi,Austria,,
+39,Volvo XC 40,21999,Volvo,XC 40,2019,181 117 km,Diesel,150 CP,1 969 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+40,Volkswagen Caddy 1.6 TDI (7-Si.) BMT Maxi Roncalli,10290,Volkswagen,Caddy,2013,239 000 km,Diesel,102 CP,1 598 cm3,Fata,Euro 5,Manuala,Combi,Germania,Da,Da
+41,Audi A8 3.0 TDI DPF clean diesel quattro tiptronic,17800,Audi,A8,2012,257 400 km,Diesel,250 CP,2 967 cm3,4x4 (manual),,Automata,Sedan,,,
+42,Mitsubishi ASX,7890,Mitsubishi,ASX,2011,120 000 km,Benzina,115 CP,1 590 cm3,Fata,Euro 4,Manuala,Compacta,,,Da
+43,Skoda RAPID 1.4 TDI Active,9250,Skoda,RAPID,2018,147 000 km,Diesel,90 CP,1 422 cm3,Fata,Euro 6,Manuala,Compacta,Romania,Da,Da
+44,Dacia Duster 1.5 Blue dCi 4WD Comfort,14500,Dacia,Duster,2019,93 640 km,Diesel,115 CP,1 461 cm3,4x4 (automat),,Manuala,SUV,,,
+45,Volkswagen Golf,14690,Volkswagen,Golf,2018,39 826 km,Benzina,110 CP,999 cm3,Fata,,Manuala,Compacta,,,
+46,Volkswagen Golf 1.6 TDI Comfortline,12750,Volkswagen,Golf,2019,128 000 km,Diesel,115 CP,1 598 cm3,Fata,Euro 6,Manuala,Combi,Romania,Da,Da
+47,Lexus Seria RX 450h Aut. Luxury (trapa panoramica),39999,Lexus,Seria RX,2016,117 000 km,Hibrid,262 CP,3 456 cm3,Fata,Euro 6,Automata,SUV,Romania,,Da
+48,Peugeot Partner Tepee HDi 75 Esplanade,4950,Peugeot,Partner,2012,145 134 km,Diesel,75 CP,1 560 cm3,Fata,Euro 5,Manuala,Monovolum,,,
+49,Ford Mondeo 2.0TDCi Ghia,1300,Ford,Mondeo,2005,310 000 km,Diesel,130 CP,1 998 cm3,Fata,,Manuala,Sedan,Austria,,
+50,Land Rover Defender,80000,Land Rover,Defender,2022,15 186 km,Hibrid,300 CP,2 997 cm3,4x4 (automat),,Automata,SUV,,,
+51,Volkswagen Tiguan 2.0 TDI 4Mot DSG Highline,22990,Volkswagen,Tiguan,2016,161 810 km,Diesel,150 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Franta,,Da
+52,Mercedes-Benz GLE 400 d 4MATIC,67900,Mercedes-Benz,GLE,2019,68 176 km,Diesel,330 CP,2 925 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+53,Nissan Navara 2.5 dCi King Cab XE,9999,Nissan,Navara,2010,249 000 km,Diesel,171 CP,2 488 cm3,4x4 (manual),Euro 4,Manuala,SUV,Suedia,Da,Da
+54,Alfa Romeo Tonale 1.5 VGT Hybrid,41550,Alfa Romeo,Tonale,2022,1 km,Hibrid,160 CP,1 469 cm3,Fata,Euro 6,Automata,SUV,,,Da
+55,Audi A4 2.0 TDI B8,9499,Audi,A4,2009,243 000 km,Diesel,143 CP,1 968 cm3,Fata,Euro 5,Manuala,Sedan,,Da,Da
+56,Ford Ka+,1350,Ford,Ka+,2004,75 000 km,Benzina,95 CP,1 600 cm3,,,Manuala,Masina mica,,,
+57,Opel Insignia 2.0 CDTI,3600,Opel,Insignia,2009,221 000 km,Diesel,110 CP,1 956 cm3,,,Manuala,Sedan,Germania,,Da
+58,Citroën C8 2.2 HDi 16V SX,1750,Citroën,C8,2006,270 000 km,Diesel,128 CP,2 179 cm3,,,Manuala,Monovolum,,,
+59,Audi A4 Avant 40 TDI S tronic,28550,Audi,A4,2019,68 100 km,Diesel,190 CP,1 968 cm3,,,Automata,Combi,,,
+60,Mercedes-Benz C 43 AMG 4MATIC Aut.,38800,Mercedes-Benz,C,2017,152 000 km,Benzina,367 CP,2 996 cm3,4x4 (automat),Euro 6,Automata,Sedan,Belgia,,Da
+61,Audi S5 Sportback 3.0 TFSI quattro tiptronic,31000,Audi,S5,2018,148 500 km,Benzina,354 CP,2 995 cm3,4x4 (manual),Euro 5a,Automata,Sedan,Germania,Da,Da
+62,Kia Sportage 1.6 T-GDI HEV 6AT 4x2 Style,33450,Kia,Sportage,2023,1 km,Hibrid,180 CP,1 598 cm3,Fata,,Automata,SUV,,,Da
+63,Mercedes-Benz CLA 250 e Coupe,54252,Mercedes-Benz,CLA,2021,10 000 km,Hibrid,160 CP,1 332 cm3,Fata,Euro 6d,Automata,Coupe,Germania,Da,Da
+64,Nissan Juke 1.5L dCI Stop/Start Acenta,7190,Nissan,Juke,2013,193 860 km,Diesel,110 CP,1 461 cm3,Fata,Euro 5,Manuala,SUV,,,
+65,Toyota C-HR 1.8 HSD 4x2 CVT C-enter,22490,Toyota,C-HR,2021,65 495 km,Hibrid,98 CP,1 798 cm3,Fata,Euro 6,Automata,SUV,Romania,Da,
+66,Mercedes-Benz GLC 220 d 4MATIC,25500,Mercedes-Benz,GLC,2016,190 000 km,Diesel,170 CP,2 143 cm3,,,Automata,SUV,,,
+67,Maserati Ghibli Hybrid Executive,69499,Maserati,Ghibli,2021,88 km,Benzina,330 CP,1 998 cm3,Spate,Euro 6,Automata,Sedan,Romania,Da,Da
+68,Mercedes-Benz GLC 250 4MATIC,35900,Mercedes-Benz,GLC,2019,65 893 km,Benzina,211 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+69,Tesla Model 3 Langstreckenbatterie Allradantrieb Dual Motor,40999,Tesla,Model 3,2022,19 221 km,Electric,497 CP,,,,Automata,Sedan,,,
+70,Suzuki Ignis 1.3i Elegant,2599,Suzuki,Ignis,2005,195 000 km,Benzina,94 CP,1 328 cm3,Fata,Euro 4,Manuala,Compacta,Germania,Da,Da
+71,Jeep Grand Cherokee 3.0 TD AT Limited,14999,Jeep,Grand Cherokee,2015,188 000 km,Diesel,250 CP,2 987 cm3,4x4 (automat),,Automata,SUV,,,
+72,Nissan Qashqai 1.6 DCI Start/Stop X-TRONIC Tekna,13600,Nissan,Qashqai,2017,176 000 km,Diesel,130 CP,1 598 cm3,Fata,Euro 6,Automata,SUV,Belgia,Da,Da
+73,Volkswagen Golf 1.6 TDI 4Motion BMT Trendline,9549,Volkswagen,Golf,2014,186 093 km,Diesel,105 CP,1 598 cm3,4x4 (automat),Euro 5,Manuala,Compacta,,,
+74,Mercedes-Benz C 200 7G-TRONIC AMG Line,23450,Mercedes-Benz,C,2015,75 367 km,Benzina,184 CP,1 991 cm3,4x4 (automat),,Automata,Coupe,Germania,,Da
+75,BMW X6 xDrive40d M Sport Edition,24500,BMW,X6,2014,116 000 km,Diesel,306 CP,2 993 cm3,4x4 (manual),Euro 4,Automata,SUV,Germania,,
+76,BMW Seria 4 440i xDrive AT Luxury Line,27990,BMW,Seria 4,2018,69 700 km,Benzina,326 CP,2 998 cm3,4x4 (automat),Euro 6,Automata,Sedan,Italia,Da,Da
+77,Skoda Kamiq 1.5 TSI Style,19750,Skoda,Kamiq,2020,50 000 km,Benzina,150 CP,1 498 cm3,Fata,Euro 6,Manuala,SUV,Romania,,Da
+78,Volkswagen Passat,22900,Volkswagen,Passat,2019,56 090 km,Diesel,149 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Sedan,Romania,,
+79,Volkswagen Passat 2.0 TDI DSG 4Motion Comfortline,23489,Volkswagen,Passat,2019,69 844 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Sedan,Romania,Da,Da
+80,Dacia Logan 1.5 Blue dCi SL Prestige PLUS,10299,Dacia,Logan,2019,86 526 km,Diesel,95 CP,1 461 cm3,Fata,Euro 6,Manuala,Sedan,Romania,Da,
+81,Nissan X-Trail 1.6L dCI Start/Stop XTRONIC Acenta Aut.,11999,Nissan,X-Trail,2015,176 000 km,Diesel,130 CP,1 598 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+82,Mercedes-Benz CLS 450 4MATIC Aut,49900,Mercedes-Benz,CLS,2018,98 000 km,Benzina,367 CP,2 999 cm3,4x4 (automat),,Automata,Coupe,Germania,,Da
+83,Volkswagen Passat Variant 2.0 TDI DSG,19900,Volkswagen,Passat,2018,150 216 km,Diesel,150 CP,1 968 cm3,,Euro 6,Automata,Combi,,,
+84,Nissan Qashqai 1.5 dCi TEKNA,8300,Nissan,Qashqai,2013,184 000 km,Diesel,110 CP,1 461 cm3,Fata,Euro 5,Manuala,SUV,,,Da
+85,Opel Insignia,7990,Opel,Insignia,2015,130 000 km,Diesel,140 CP,1 956 cm3,,Euro 5,Manuala,Sedan,,,
+86,Audi A4 Avant 3.0 TDI DPF quattro S line Sportpaket,10390,Audi,A4,2013,269 000 km,Diesel,245 CP,2 967 cm3,4x4 (manual),Euro 5,Manuala,Combi,Germania,,Da
+87,Skoda Fabia 1.2 TDI DPF Combi GreenLine,4500,Skoda,Fabia,2012,257 000 km,Diesel,75 CP,1 199 cm3,,,Manuala,Compacta,,,
+88,BMW X1,27000,BMW,X1,2019,75 000 km,Diesel,150 CP,1 995 cm3,Spate,,Automata,SUV,,,
+89,Citroën C-Elysée,6700,Citroën,C-Elysée,2018,160 000 km,Diesel,100 CP,1 560 cm3,,Euro 6,Manuala,Sedan,,,
+90,Mercedes-Benz E 220 d 9G-TRONIC Avantgarde,23999,Mercedes-Benz,E,2018,218 300 km,Diesel,194 CP,1 950 cm3,Spate,Euro 6,Automata,Sedan,Olanda,Da,Da
+91,Hyundai Santa Fe,8990,Hyundai,Santa Fe,2010,180 000 km,Diesel,197 CP,2 199 cm3,,Euro 5,Automata,SUV,,,
+92,Nissan Qashqai,5300,Nissan,Qashqai,2008,179 000 km,Diesel,115 CP,1 461 cm3,,,Manuala,SUV,,,
+93,Nissan Juke,7799,Nissan,Juke,2012,196 000 km,Diesel,110 CP,1 461 cm3,,,Manuala,SUV,,,Da
+94,BMW Seria 3,11200,BMW,Seria 3,2013,229 311 km,Diesel,184 CP,1 995 cm3,,,Automata,Sedan,,,
+95,Renault Kangoo,5400,Renault,Kangoo,2012,134 000 km,Benzina,106 CP,1 598 cm3,,Euro 5,Manuala,Monovolum,,,
+96,Porsche Cayenne E-Hybrid Tiptronic S Platinum Edition,40950,Porsche,Cayenne,2016,186 900 km,Hibrid,340 CP,2 995 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+97,Mazda CX-5 2.2 SKYACTIV-D AWD Sports-Line,12736,Mazda,CX-5,2014,250 515 km,Diesel,175 CP,2 191 cm3,4x4 (manual),Euro 6,Manuala,SUV,,,Da
+98,Volkswagen Polo,14900,Volkswagen,Polo,2019,37 501 km,Benzina,95 CP,999 cm3,,Euro 6,Manuala,Compacta,,,Da
+99,Hyundai Tucson 1.6 GDI 2WD 6MT Comfort,17500,Hyundai,Tucson,2019,76 110 km,Benzina,132 CP,1 591 cm3,Fata,,Manuala,SUV,,,
+100,Volkswagen Tiguan 2.0 TDI SCR 4MOTION BlueMotion Technology Highline,23990,Volkswagen,Tiguan,2017,163 048 km,Diesel,150 CP,1 968 cm3,4x4 (automat),Euro 6,Manuala,SUV,Franta,,Da
+101,Peugeot 3008 1.5 BlueHDI 130 S&S EAT8 GT Pack,30670,Peugeot,3008,2022,16 300 km,Diesel,130 CP,1 499 cm3,Fata,Euro 6d,Automata,SUV,Romania,Da,Da
+102,BMW Seria 5 535d AT,17898,BMW,Seria 5,2016,110 900 km,Diesel,313 CP,2 993 cm3,Spate,,Automata,Combi,,,
+103,BMW X1,12300,BMW,X1,2014,150 853 km,Diesel,143 CP,1 995 cm3,,,Automata,SUV,,,
+104,BMW Seria 3 318d AT MHEV,42989,BMW,Seria 3,2022,16 000 km,Diesel,150 CP,1 995 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+105,Alfa Romeo Tonale,38899,Alfa Romeo,Tonale,2022,10 500 km,Hibrid,160 CP,1 469 cm3,Fata,Euro 6,Automata,SUV,Romania,Da,Da
+106,Mercedes-Benz CLS 450 4MATIC Aut,54999,Mercedes-Benz,CLS,2019,58 000 km,Benzina,367 CP,2 999 cm3,4x4 (automat),,Automata,Coupe,,,
+107,BMW Seria 1,18550,BMW,Seria 1,2019,46 000 km,Diesel,150 CP,1 995 cm3,Spate,Euro 6,Automata,Compacta,,,Da
+108,BMW Seria 7 740d xDrive,37000,BMW,Seria 7,2017,94 000 km,Diesel,313 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,Sedan,Romania,,
+109,Mercedes-Benz GLC 300 d 4MATIC,56398,Mercedes-Benz,GLC,2022,32 700 km,Diesel,245 CP,1 950 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+110,Volkswagen Golf 2.0 TDI DPF Highline,6350,Volkswagen,Golf,2009,285 000 km,Diesel,140 CP,1 968 cm3,Fata,Euro 5,Manuala,Compacta,Germania,,Da
+111,Volvo V40 D3 RDesign,15499,Volvo,V40,2018,182 000 km,Diesel,150 CP,1 969 cm3,Fata,Euro 6,Manuala,Compacta,Romania,Da,Da
+112,Audi A4,7300,Audi,A4,2010,278 452 km,Diesel,136 CP,1 968 cm3,,,Manuala,Sedan,,,
+113,Mercedes-Benz X 350 d 4MATIC Aut. POWER EDITION,44999,Mercedes-Benz,X,2018,37 000 km,Diesel,258 CP,2 987 cm3,4x4 (automat),Euro 6d,Automata,SUV,,,Da
+114,Volkswagen Tiguan 2.0 TDI 4Motion DSG Track & Style,13550,Volkswagen,Tiguan,2014,179 308 km,Diesel,140 CP,1 968 cm3,4x4 (automat),,Automata,SUV,Germania,,
+115,BMW Seria 3 320d DPF Efficient Dynamics Edition,12799,BMW,Seria 3,2012,233 000 km,Diesel,163 CP,1 995 cm3,Spate,Euro 5,Manuala,Sedan,,Da,Da
+116,Opel Astra 1.7 CDTI Cosmo,3490,Opel,Astra,2009,221 900 km,Diesel,100 CP,1 686 cm3,Fata,,Manuala,Compacta,,,
+117,Volkswagen Tiguan 2.0 TDI 4Mot DSG Comfortline,15500,Volkswagen,Tiguan,2017,269 000 km,Diesel,150 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+118,Volvo V60 D4AWD Summum,15000,Volvo,V60,2013,66 543 km,Diesel,163 CP,2 400 cm3,4x4 (automat),Euro 5,Automata,Combi,Romania,,
+119,Peugeot 508 Hybrid 2.0 HDI 163cp + 37cp electric Feline,7800,Peugeot,508,2012,250 100 km,Hibrid,163 CP,1 997 cm3,4x4 (automat),,Automata,Compacta,,,
+120,Volvo V40 D2 DRIVe Momentum,8690,Volvo,V40,2015,208 925 km,Diesel,120 CP,1 969 cm3,Fata,Euro 6,Manuala,Compacta,Olanda,,
+121,BMW X6 M Competition,119000,BMW,X6 M,2022,9 900 km,Benzina,625 CP,4 395 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+122,Maserati Levante,38690,Maserati,Levante,2018,175 051 km,Diesel,275 CP,2 987 cm3,,Euro 6,Automata,SUV,Romania,,
+123,Nissan Qashqai 1.6 DCI Start/Stop 4X4-i Tekna,11950,Nissan,Qashqai,2015,204 000 km,Diesel,130 CP,1 598 cm3,,,Manuala,SUV,,,
+124,Skoda Octavia,16500,Skoda,Octavia,2019,94 951 km,Diesel,116 CP,1 598 cm3,Fata,,Automata,Sedan,,,
+125,Peugeot 2008 1.6 e-HDi FAP STT ETG Allure Aut.,8690,Peugeot,2008,2014,217 750 km,Diesel,92 CP,1 560 cm3,Fata,Euro 5,Automata,Compacta,Olanda,,Da
+126,Suzuki Across 2.5 Plug-in Hybrid,49600,Suzuki,Across,2023,1 km,Hibrid,185 CP,2 487 cm3,,,Automata,SUV,Japonia,,Da
+127,BMW X6 M Competition,119000,BMW,X6 M,2022,9 900 km,Benzina,625 CP,4 395 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+128,Ferrari Roma,221340,Ferrari,Roma,2021,18 918 km,Benzina,620 CP,3 855 cm3,Spate,,Automata,Coupe,,,Da
+129,Nissan Qashqai 1.6 DCI Start/Stop 4X4-i Tekna,11950,Nissan,Qashqai,2015,204 000 km,Diesel,130 CP,1 598 cm3,,,Manuala,SUV,,,
+130,Skoda Octavia,16500,Skoda,Octavia,2019,94 951 km,Diesel,116 CP,1 598 cm3,Fata,,Automata,Sedan,,,
+131,Audi A4 Allroad,14499,Audi,A4 Allroad,2013,231 000 km,Diesel,170 CP,1 968 cm3,4x4 (automat),Euro 5,Automata,Combi,,Da,
+132,BMW Seria 7 740d xDrive,59500,BMW,Seria 7,2020,49 000 km,Diesel,340 CP,2 993 cm3,4x4 (manual),Euro 6,Automata,Sedan,Germania,Da,Da
+133,Ford Focus 1.0 EcoBoost Titanium,16249,Ford,Focus,2020,75 196 km,Benzina,125 CP,999 cm3,Fata,Euro 6,Automata,Compacta,Romania,Da,
+134,Porsche Panamera,144300,Porsche,Panamera,2020,26 300 km,Benzina,550 CP,3 996 cm3,,Euro 6,Automata,Sedan,,,Da
+135,Skoda Kodiaq 2.0 TDI 4X4 DSG Style,24699,Skoda,Kodiaq,2018,127 117 km,Diesel,190 CP,1 968 cm3,4x4 (automat),,Automata,SUV,,,
+136,Mitsubishi Eclipse-Cross,19900,Mitsubishi,Eclipse-Cross,2018,58 606 km,Benzina,163 CP,1 499 cm3,4x4 (automat),,Automata,SUV,,,
+137,Mercedes-Benz GLC 220 d 4MATIC,33300,Mercedes-Benz,GLC,2018,61 000 km,Diesel,170 CP,2 143 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+138,Audi Q3 Sportback 2.0 40 TDI quattro S tronic W3 S Line,45900,Audi,Q3,2022,13 487 km,Diesel,200 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+139,Ford Focus 1.0 EcoBoost Start Stop Trend,5650,Ford,Focus,2014,152 609 km,Benzina,100 CP,999 cm3,Fata,Euro 5,Manuala,Compacta,Romania,Da,Da
+140,Skoda Fabia 1.0 TSI Ambition,14990,Skoda,Fabia,2022,47 015 km,Benzina,95 CP,999 cm3,Fata,Euro 6,Manuala,Masina de oras,Romania,Da,
+141,Volkswagen Transporter T6 DSG Kurz Plus Comfortline,15200,Volkswagen,Transporter,2015,216 000 km,Diesel,140 CP,1 968 cm3,Fata,Euro 5,Automata,Monovolum,,Da,Da
+142,Volvo S90,50500,Volvo,S90,2021,27 000 km,Hibrid,303 CP,1 969 cm3,4x4 (automat),Euro 6,Automata,Sedan,,Da,Da
+143,Mercedes-Benz C,45813,Mercedes-Benz,C,2021,14 852 km,Diesel,200 CP,1 993 cm3,Spate,Euro 6,Automata,Sedan,Germania,,Da
+144,BMW Seria 2 218i Active Tourer Aut.,19999,BMW,Seria 2,2020,23 000 km,Benzina,136 CP,1 499 cm3,Fata,Euro 6,Automata,Monovolum,Romania,,
+145,Ford Mondeo,18500,Ford,Mondeo,2019,103 361 km,Hibrid,140 CP,1 999 cm3,Fata,,Automata,Sedan,,,
+146,Opel Corsa Corsa-e Elegance,25590,Opel,Corsa,2022,2 km,Electric,136 CP,,Fata,,Automata,Masina de oras,,,Da
+147,Mercedes-Benz GLC 400 e 4Matic 9G-TRONIC AMG Line Advanced,93285,Mercedes-Benz,GLC,2023,1 km,Hibrid,252 CP,1 999 cm3,4x4 (manual),,Automata,SUV,,,Da
+148,BMW X1 xDrive25e Aut. xLine,28600,BMW,X1,2020,52 200 km,Hibrid,136 CP,1 499 cm3,4x4 (automat),Euro 6d,Automata,SUV,Germania,Da,Da
+149,Volkswagen Passat Variant 2.0 TDI DSG (BlueMotion Technology) Comfortline,15250,Volkswagen,Passat,2019,235 000 km,Diesel,150 CP,1 968 cm3,,Euro 6,Automata,Combi,Italia,Da,Da
+150,BMW X6,67500,BMW,X6,2021,51 900 km,Diesel,286 CP,2 993 cm3,4x4 (automat),,Automata,SUV,,,
+151,Dacia Logan Stepway TCe 100 GPL,8650,Dacia,Logan Stepway,2020,49 000 km,Benzina + GPL,100 CP,999 cm3,,,Manuala,Sedan,Romania,Da,
+152,Seat Altea XL,6999,Seat,Altea XL,2012,302 000 km,Diesel,105 CP,1 598 cm3,,,Manuala,Compacta,,,
+153,Mercedes-Benz E,26500,Mercedes-Benz,E,2018,197 240 km,Diesel,194 CP,1 950 cm3,Spate,Euro 6,Automata,Sedan,Germania,,
+154,Porsche Cayenne 3.0 L,29990,Porsche,Cayenne,2017,191 628 km,Diesel,262 CP,2 967 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+155,Opel Grandland,26390,Opel,Grandland,2022,247 km,Benzina,130 CP,1 199 cm3,,,Automata,Sedan,,,Da
+156,Mercedes-Benz GLS 350 d 4MATIC Aut.,43000,Mercedes-Benz,GLS,2017,139 000 km,Diesel,258 CP,2 987 cm3,4x4 (automat),Euro 5,Automata,SUV,Germania,,Da
+157,Mercedes-Benz S 350 d 4Matic 9G-TRONIC,29900,Mercedes-Benz,S,2017,76 378 km,Diesel,286 CP,2 925 cm3,4x4 (automat),Euro 6,Automata,Masina mica,Germania,Da,Da
+158,BMW X5 xDrive40e iPerformance,34250,BMW,X5,2016,189 000 km,Hibrid,245 CP,1 997 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+159,Land Rover Range Rover Evoque 2.0 D165 R-Dynamic MHEV SE,66205,Land Rover,Range Rover Evoque,2023,1 km,Diesel,163 CP,1 999 cm3,4x4 (automat),Euro 6d-Temp,Automata,SUV,Regatul Unit,,Da
+160,Mercedes-Benz GLC 300 e 4MATIC,86072,Mercedes-Benz,GLC,2023,5 km,Hibrid,204 CP,1 999 cm3,4x4 (automat),,Automata,SUV,,,Da
+161,Audi Q5 2.0 TFSI Quattro S-Tronic,14949,Audi,Q5,2012,185 000 km,Benzina,211 CP,1 984 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+162,Mercedes-Benz V 300 d Extralung Avantgarde,99946,Mercedes-Benz,V,2023,2 km,Diesel,239 CP,1 950 cm3,Spate,Euro 6,Automata,Monovolum,,,Da
+163,Volkswagen Golf 1.5 TSI BlueMotion ACT DSG Comfortline,17850,Volkswagen,Golf,2019,180 000 km,Benzina,130 CP,1 498 cm3,Fata,Euro 6,Automata,Compacta,Germania,Da,Da
+164,Audi Q3 35 TFSI S tronic advanced,30550,Audi,Q3,2019,72 203 km,Benzina,150 CP,1 498 cm3,Fata,,Automata,SUV,,,
+165,Ford Focus,19498,Ford,Focus,2022,1 km,Benzina,125 CP,999 cm3,,Euro 6,Manuala,Compacta,,Da,Da
+166,Skoda Octavia,13750,Skoda,Octavia,2018,115 383 km,Diesel,116 CP,1 598 cm3,Fata,,Manuala,Sedan,,,
+167,Mercedes-Benz E,46398,Mercedes-Benz,E,2021,17 424 km,Diesel,194 CP,1 950 cm3,,,Automata,Sedan,,,Da
+168,Mercedes-Benz GLC 200 4MATIC MHEV,59162,Mercedes-Benz,GLC,2023,4 000 km,Benzina,204 CP,1 999 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,
+169,Ford Mondeo 2.0 TDCi Powershift,15470,Ford,Mondeo,2018,139 900 km,Diesel,180 CP,1 997 cm3,Fata,Euro 6,Automata,Sedan,Romania,Da,Da
+170,Ford Fiesta 1.0 EcoBoost 7DCT mHEV Titanium X,22562,Ford,Fiesta,2023,1 km,Benzina,125 CP,999 cm3,Fata,Euro 6d-Temp,Automata,Masina de oras,Romania,,Da
+171,Peugeot Bipper Tepee HDi 75 Stop&Start Active,4950,Peugeot,Bipper,2012,145 134 km,Diesel,75 CP,1 248 cm3,Fata,Euro 5,Manuala,Monovolum,,,
+172,Mercedes-Benz GLC Coupe 63 AMG S 4MATIC,59500,Mercedes-Benz,GLC Coupe,2018,53 000 km,Benzina,510 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,
+173,BMW X7 xDrive30d,71990,BMW,X7,2019,72 676 km,Diesel,265 CP,2 993 cm3,4x4 (automat),,Automata,SUV,Germania,Da,Da
+174,Peugeot 207 CC 1.6 HTP Eclipse,4800,Peugeot,207,2009,230 000 km,Benzina,150 CP,1 598 cm3,Fata,Euro 4,Manuala,Cabrio,Olanda,Da,
+175,Mercedes-Benz GLC,35998,Mercedes-Benz,GLC,2020,74 636 km,Diesel,163 CP,1 950 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+176,Mercedes-Benz GLC 300 4Matic 9G-TRONIC AMG Line,36490,Mercedes-Benz,GLC,2018,127 000 km,Benzina,245 CP,1 991 cm3,4x4 (automat),,Automata,SUV,Germania,,Da
+177,Audi A6,15990,Audi,A6,2015,217 710 km,Diesel,190 CP,1 968 cm3,,,Automata,Combi,,,
+178,Volkswagen Passat 2.0 TDI DSG Comfortline,17450,Volkswagen,Passat,2017,84 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Romania,,Da
+179,Toyota RAV4 2.5 Hybrid VVT-iE 4x4 Luxury,37900,Toyota,RAV4,2020,39 300 km,Hibrid,178 CP,2 487 cm3,4x4 (automat),,Automata,SUV,Romania,Da,
+180,Ford Kuga,9500,Ford,Kuga,2014,138 000 km,Benzina,150 CP,1 596 cm3,,,Automata,SUV,,,Da
+181,Mercedes-Benz GLE Coupe 400 d 4MATIC,74999,Mercedes-Benz,GLE Coupe,2020,94 000 km,Diesel,330 CP,2 925 cm3,4x4 (automat),,Automata,SUV,,Da,
+182,Mini Cooper,16900,Mini,Cooper,2018,38 000 km,Benzina,136 CP,1 499 cm3,,,Automata,Compacta,,Da,Da
+183,Mazda CX-7 CD173 Challenge,5990,Mazda,CX-7,2010,180 000 km,Diesel,173 CP,2 184 cm3,4x4 (automat),Euro 6,Manuala,SUV,,,
+184,Kia Sportage 1.6 T-GDI 7DCT 4x4 GT Line,24500,Kia,Sportage,2018,58 600 km,Benzina,177 CP,1 591 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+185,BMW X5 xDrive25d,49500,BMW,X5,2022,24 850 km,Diesel,231 CP,1 995 cm3,4x4 (manual),Euro 6d,Automata,SUV,,Da,Da
+186,Ford Focus 1.0 EcoBoost MHEV Active X,25922,Ford,Focus,2023,1 km,Benzina,155 CP,999 cm3,Fata,Euro 6d-Temp,Automata,Compacta,Romania,,Da
+187,Skoda Superb 2.0 TDI 4x4 Active,9999,Skoda,Superb,2010,266 000 km,Diesel,170 CP,1 968 cm3,4x4 (automat),Euro 5,Manuala,Combi,,Da,Da
+188,Volkswagen Touran 2.0 TDI DPF BlueMotion Technology DSG Highline,9399,Volkswagen,Touran,2013,217 000 km,Diesel,140 CP,1 968 cm3,,Euro 5,Automata,Monovolum,Germania,,Da
+189,Mercedes-Benz A,54043,Mercedes-Benz,A,2023,2 km,Benzina,190 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,Masina de oras,,,Da
+190,Volkswagen Polo 1.6 TDI Comfortline,10900,Volkswagen,Polo,2018,138 500 km,Diesel,95 CP,1 598 cm3,Fata,Euro 6,Manuala,Masina de oras,Germania,,
+191,Volkswagen Multivan,19800,Volkswagen,Multivan,2013,301 844 km,Diesel,180 CP,1 968 cm3,4x4 (automat),Euro 5,Automata,Combi,,,
+192,Peugeot Boxer,4500,Peugeot,Boxer,2004,74 000 km,Diesel,101 CP,2 179 cm3,,,Manuala,Monovolum,,,
+193,Volkswagen Tiguan,13200,Volkswagen,Tiguan,2013,168 000 km,Diesel,140 CP,1 968 cm3,4x4 (automat),Euro 5,Automata,SUV,Germania,,Da
+194,Jeep Grand Cherokee 3.0 TD AT Overland,19300,Jeep,Grand Cherokee,2015,201 600 km,Diesel,250 CP,2 987 cm3,,,Automata,SUV,,,
+195,Ford Focus 1.6 TDCI DPF Ambiente,5700,Ford,Focus,2013,237 000 km,Diesel,95 CP,1 560 cm3,Fata,Euro 5,Manuala,Combi,Austria,,
+196,Audi A4 2.0 TDI 112g DPF Ambiente,11999,Audi,A4,2013,223 000 km,Diesel,136 CP,1 968 cm3,Fata,Euro 5,Manuala,Sedan,Germania,Da,
+197,Cupra Leon,35450,Cupra,Leon,2023,4 660 km,Benzina,190 CP,1 984 cm3,Fata,Euro 6,Automata,Compacta,Romania,Da,Da
+198,Volkswagen Tiguan 1.4 eHybrid OPF Elegance,45990,Volkswagen,Tiguan,2022,3 km,Hibrid,150 CP,1 395 cm3,Fata,Euro 6,Automata,SUV,,,Da
+199,Volvo XC 60 B4 D AWD Geartronic Momentum Pro,27799,Volvo,XC 60,2019,194 000 km,Diesel,197 CP,1 969 cm3,4x4 (automat),Euro 6d-Temp,Automata,SUV,,Da,Da
+200,Dacia Dokker 1.2 TCe Laureate,6700,Dacia,Dokker,2017,163 000 km,Benzina + GPL,115 CP,1 198 cm3,,,Manuala,Monovolum,,,
+201,Mercedes-Benz S Maybach Mercedes-Maybach 580 4MATIC MHEV Long,266799,Mercedes-Benz,S Maybach,2023,1 km,Benzina,503 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,Sedan,,,Da
+202,Mercedes-Benz SL AMG 63 4MATIC+,198898,Mercedes-Benz,SL,2022,1 km,Benzina,585 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,Cabrio,,,Da
+203,Volvo XC 60 B4 D AWD Geartronic Momentum Pro,27799,Volvo,XC 60,2019,194 000 km,Diesel,197 CP,1 969 cm3,4x4 (automat),Euro 6d-Temp,Automata,SUV,,Da,Da
+204,Toyota Avensis 2.2 D-CAT Luxury Aut,5900,Toyota,Avensis,2009,245 000 km,Diesel,150 CP,2 231 cm3,Fata,Euro 5a,Automata,Combi,Romania,,Da
+205,Mercedes-Benz S Maybach Mercedes-Maybach 580 4MATIC MHEV Long,266799,Mercedes-Benz,S Maybach,2023,1 km,Benzina,503 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,Sedan,,,Da
+206,Mercedes-Benz S 400 d 4MATIC Long Aut,149899,Mercedes-Benz,S,2022,6 500 km,Diesel,330 CP,2 925 cm3,4x4 (automat),Euro 6,Automata,Sedan,,Da,Da
+207,Mercedes-Benz SL AMG 63 4MATIC+,198898,Mercedes-Benz,SL,2022,1 km,Benzina,585 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,Cabrio,,,Da
+208,Audi A6,42800,Audi,A6,2019,95 964 km,Diesel,286 CP,2 967 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+209,Suzuki Jimny 1.5 ALLGRIP GL,23800,Suzuki,Jimny,2023,1 km,Benzina,102 CP,1 462 cm3,,,Manuala,SUV,,,Da
+210,Porsche Cayenne Coupe E-Hybrid Tiptronic S,93891,Porsche,Cayenne Coupe,2022,14 919 km,Hibrid,340 CP,2 995 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+211,Audi Q3 Sportback 2.0 40 TFSI quattro S tronic S Line,57775,Audi,Q3,2023,756 km,Benzina,190 CP,1 984 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+212,Ford Kuga 1.5 TDCi 2WD Powershift Titanium,26500,Ford,Kuga,2021,27 500 km,Diesel,120 CP,1 498 cm3,Fata,Euro 6,Automata,SUV,Romania,Da,Da
+213,Ford Puma,25300,Ford,Puma,2023,1 km,Benzina,155 CP,999 cm3,Fata,Euro 6,Automata,SUV,Romania,,Da
+214,Opel Astra Sports Tourer 1.7 CDTI,4990,Opel,Astra,2011,190 000 km,Diesel,125 CP,1 686 cm3,Fata,Euro 5,Manuala,Combi,,,
+215,Audi Q3,24500,Audi,Q3,2018,57 780 km,Diesel,150 CP,1 968 cm3,4x4 (automat),,Automata,SUV,,,
+216,Dacia Duster 1.5 dCi 4WD Comfort,13650,Dacia,Duster,2018,123 939 km,Diesel,109 CP,1 461 cm3,4x4 (automat),,Manuala,SUV,Romania,Da,
+217,Mercedes-Benz EQB,68622,Mercedes-Benz,EQB,2023,,Electric,228 CP,,4x4 (automat),,Automata,SUV,,,Da
+218,Porsche Cayenne Coupe Tiptronic S Platinum Edition,101150,Porsche,Cayenne Coupe,2021,50 000 km,Benzina,340 CP,2 995 cm3,4x4 (manual),Euro 6,Automata,SUV,Germania,Da,Da
+219,Opel Mokka,9700,Opel,Mokka,2015,127 000 km,Benzina,140 CP,1 364 cm3,,,Manuala,SUV,,,
+220,Dacia Lodgy 1.5 dCi Laureate,5950,Dacia,Lodgy,2012,225 000 km,Diesel,110 CP,1 461 cm3,Fata,Euro 5,Manuala,Monovolum,Germania,Da,Da
+221,Dacia Duster TCe 150 EDC Journey,20000,Dacia,Duster,2023,1 200 km,Benzina,150 CP,1 332 cm3,,,Automata,SUV,,,
+222,Opel Zafira Tourer 1.4 ECOTEC Edition,14200,Opel,Zafira,2012,112 000 km,Benzina,140 CP,1 362 cm3,Fata,Euro 6,Manuala,Monovolum,Romania,Da,Da
+223,Kia Sportage 1.6 GDI 2WD Dream-Team Edition,12990,Kia,Sportage,2015,160 750 km,Benzina,136 CP,1 591 cm3,Fata,Euro 5b,Manuala,SUV,Germania,,Da
+224,Mercedes-Benz E AMG 63 4Matic AMG Speedshift 9G-MCT,67990,Mercedes-Benz,E,2017,93 470 km,Benzina,571 CP,3 982 cm3,4x4 (manual),Euro 6,Automata,Sedan,Germania,Da,Da
+225,Audi A7 3.0 50 TDI quattro Tiptronic,94990,Audi,A7,2023,7 900 km,Diesel,286 CP,2 967 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+226,Mazda CX-5 G194 AT Revolution Top,33700,Mazda,CX-5,2022,26 500 km,Benzina,194 CP,2 488 cm3,4x4 (automat),Euro 6d-Temp,Automata,SUV,Romania,Da,Da
+227,Dacia Logan Stepway TCe 100 GPL,10500,Dacia,Logan Stepway,2020,50 900 km,Benzina + GPL,100 CP,999 cm3,Fata,Euro 6d,Manuala,Sedan,,Da,Da
+228,Bentley Flying Spur,244000,Bentley,Flying Spur,2023,15 600 km,Benzina,549 CP,3 996 cm3,,,Automata,Sedan,,,
+229,Nissan Qashqai,8199,Nissan,Qashqai,2012,224 000 km,Diesel,110 CP,1 461 cm3,Fata,,Manuala,SUV,,,Da
+230,BMW Seria 1 123d Coupe,7500,BMW,Seria 1,2007,235 000 km,Diesel,204 CP,1 995 cm3,Spate,Euro 4,Manuala,Coupe,Germania,,Da
+231,Mercedes-Benz V 250 (BlueTEC) d extralang 4Matic 7G-TRONIC,25000,Mercedes-Benz,V,2016,310 000 km,Diesel,190 CP,2 143 cm3,4x4 (automat),Euro 5,Automata,Monovolum,,,
+232,Mercedes-Benz A,18899,Mercedes-Benz,A,2018,91 000 km,Diesel,109 CP,1 461 cm3,Fata,Euro 6b,Automata,Compacta,,,Da
+233,Porsche Cayenne Coupe E-Hybrid Tiptronic S,93891,Porsche,Cayenne Coupe,2023,27 811 km,Hibrid,340 CP,2 995 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+234,Seat Arona,16250,Seat,Arona,2019,51 795 km,Benzina,115 CP,999 cm3,Fata,,Automata,SUV,,,
+235,Mercedes-Benz GLC,74576,Mercedes-Benz,GLC,2023,3 000 km,Hibrid,204 CP,1 999 cm3,4x4 (automat),Euro 6b,Automata,SUV,,,Da
+236,Volkswagen T-Cross 1.0 TSI DSG Life,23890,Volkswagen,T-Cross,2022,39 000 km,Benzina,110 CP,999 cm3,Fata,,Automata,SUV,Romania,,
+237,Volkswagen Amarok,44990,Volkswagen,Amarok,2023,500 km,Diesel,205 CP,1 996 cm3,4x4 (manual),Euro 6d-Temp,Automata,SUV,,,
+238,Audi Q5 2.0 TDI Quattro Stronic,16700,Audi,Q5,2014,171 000 km,Diesel,177 CP,1 968 cm3,4x4 (automat),Euro 5,Automata,SUV,,,
+239,SsangYong Korando,30070,SsangYong,Korando,2023,1 km,Benzina,163 CP,1 497 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+240,Nissan Qashqai+2 1.5 dCi DPF,8050,Nissan,Qashqai+2,2010,352 000 km,Diesel,106 CP,1 461 cm3,Fata,Euro 4,Manuala,SUV,Belgia,Da,Da
+241,Audi Q5 2.0 40 TDI quattro S tronic Sport,33000,Audi,Q5,2017,110 000 km,Diesel,190 CP,1 968 cm3,,,Automata,SUV,,,
+242,Audi Q5 2.0 TDI Quattro,13000,Audi,Q5,2011,153 000 km,Diesel,170 CP,1 968 cm3,4x4 (automat),Euro 5,Manuala,SUV,,,
+243,Mazda CX-5 G194 AWD AT Revolution Top,33700,Mazda,CX-5,2022,15 000 km,Benzina,194 CP,2 488 cm3,4x4 (automat),Euro 6d-Temp,Automata,SUV,Romania,Da,Da
+244,Volkswagen Golf Variant 1.6 TDI BlueMotion Technology DSG Comfortline,11500,Volkswagen,Golf,2015,180 000 km,Diesel,110 CP,1 598 cm3,Fata,Euro 6b,Automata,Monovolum,Germania,,Da
+245,Renault Megane 1.5 dCi Dynamique,5250,Renault,Megane,2013,245 000 km,Diesel,110 CP,1 461 cm3,Fata,,Manuala,Combi,,,
+246,BMW X1 xDrive20d Aut.,10000,BMW,X1,2011,213 858 km,Diesel,177 CP,1 995 cm3,4x4 (automat),,Automata,SUV,Olanda,,
+247,Audi A4 Avant 40 TDI S tronic,28450,Audi,A4,2019,69 809 km,Diesel,190 CP,1 968 cm3,,,Automata,Combi,,,
+248,Mercedes-Benz S 500 4Matic L 9G-TRONIC,216950,Mercedes-Benz,S,2023,100 km,Benzina,500 CP,2 999 cm3,4x4 (manual),,Automata,Sedan,Germania,Da,Da
+249,Mercedes-Benz GLE Coupe 350 d 4MATIC,49900,Mercedes-Benz,GLE Coupe,2018,106 613 km,Diesel,258 CP,2 987 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,,Da
+250,Peugeot 508 Hybrid 2.0 HDI 163cp + 37cp electric Feline,10999,Peugeot,508,2014,202 900 km,Hibrid,163 CP,1 997 cm3,,,Automata,Sedan,,,
+251,Alfa Romeo Stelvio,33500,Alfa Romeo,Stelvio,2021,15 800 km,Diesel,180 CP,2 143 cm3,,Euro 6,Automata,SUV,,,Da
+252,Mercedes-Benz E,5500,Mercedes-Benz,E,2007,313 010 km,Diesel,170 CP,2 148 cm3,Spate,Euro 4,Manuala,Sedan,,,
+253,Volvo V40 Cross Country D2,13999,Volvo,V40,2019,88 200 km,Diesel,120 CP,1 969 cm3,Fata,Euro 6,Manuala,Compacta,Belgia,,Da
+254,Renault Grand Scenic ENERGY dCi 130 INITIALE PARIS,6950,Renault,Grand Scenic,2012,219 400 km,Diesel,130 CP,1 598 cm3,Fata,Euro 5,Manuala,Monovolum,Franta,,
+255,"Nissan Qashqai+2 +2 1.6 dCi Stop&Start ""All Mode 4x4-i"" Acenta",9100,Nissan,Qashqai+2,2014,260 000 km,Diesel,130 CP,1 598 cm3,4x4 (manual),Euro 5,Manuala,SUV,Germania,,Da
+256,Mercedes-Benz GL 350 4MATIC BlueTec Aut.,28490,Mercedes-Benz,GL,2014,178 000 km,Diesel,258 CP,2 987 cm3,4x4 (automat),,Automata,SUV,Romania,Da,Da
+257,Land Rover Discovery Sport 2.0 D150 MHEV,33900,Land Rover,Discovery Sport,2021,113 000 km,Diesel,150 CP,1 999 cm3,4x4 (automat),,Automata,SUV,,,Da
+258,Volkswagen ID. Buzz Pro,67500,Volkswagen,ID. Buzz,2023,5 km,Electric,204 CP,,Spate,Euro 6d-Temp,Automata,Combi,Germania,,Da
+259,Volkswagen Touran 1.9 TDI DPF Blue Motion Highline,4999,Volkswagen,Touran,2009,249 999 km,Diesel,105 CP,1 896 cm3,,,Manuala,Monovolum,,,
+260,Volkswagen Passat Variant 2.0 TDI Comfortline DPF,4950,Volkswagen,Passat,2010,230 000 km,Diesel,140 CP,1 968 cm3,Fata,,Manuala,Combi,,,
+261,Toyota Aygo X 1.0l MT Dynamic,15999,Toyota,Aygo,2022,1 223 km,Benzina,72 CP,998 cm3,Fata,Euro 6,Manuala,Masina de oras,,,
+262,Nissan Qashqai 1.6 DCi ALL-MODE 4x4i TEKNA,9500,Nissan,Qashqai,2013,253 000 km,Diesel,130 CP,1 598 cm3,4x4 (manual),Euro 5,Manuala,SUV,,,Da
+263,Mercedes-Benz C,150,Mercedes-Benz,C,2002,200 000 km,Diesel,170 CP,2 987 cm3,,,Automata,Sedan,,,
+264,Audi A4 Avant 2.0 TDI quattro S tronic,14900,Audi,A4,2016,245 000 km,Diesel,190 CP,1 968 cm3,4x4 (automat),,Automata,Combi,Germania,,
+265,Alfa Romeo Stelvio 2.2 Diesel 16V AT8 Business,19999,Alfa Romeo,Stelvio,2019,135 800 km,Diesel,150 CP,2 143 cm3,Spate,Euro 6,Automata,SUV,Franta,Da,
+266,Mercedes-Benz E 220 d MHEV 4MATIC Aut.,80122,Mercedes-Benz,E,2023,5 km,Diesel,200 CP,1 950 cm3,4x4 (automat),Euro 6,Automata,Sedan,,,Da
+267,BMW Seria 5 530d xDrive,9500,BMW,Seria 5,2012,286 000 km,Diesel,258 CP,2 993 cm3,,,Automata,Sedan,,,
+268,Audi A3 Sportback 1.6 TDI Attraction,6500,Audi,A3,2010,223 659 km,Diesel,105 CP,1 598 cm3,Fata,Euro 5,Manuala,Compacta,,,
+269,Volkswagen Passat Variant 2.0 TDI DPF DSG Comfortline,8990,Volkswagen,Passat,2011,270 000 km,Diesel,140 CP,1 968 cm3,Fata,Euro 5,Automata,Combi,Germania,,Da
+270,Volkswagen Tiguan,19999,Volkswagen,Tiguan,2016,160 500 km,Diesel,150 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+271,Dacia Logan,9500,Dacia,Logan,2018,60 190 km,Benzina,73 CP,998 cm3,Fata,,Manuala,Sedan,,,
+272,Mercedes-Benz A,18900,Mercedes-Benz,A,2018,91 000 km,Diesel,109 CP,1 461 cm3,,,Automata,Compacta,,,
+273,Nissan X-Trail 1.6 DCi ALL-MODE 4x4i N-Connecta,18498,Nissan,X-Trail,2019,171 000 km,Diesel,130 CP,1 598 cm3,4x4 (automat),Euro 6,Manuala,SUV,,,Da
+274,Opel Crossland 1.2 Start/Stop Edition,15322,Opel,Crossland,2022,6 km,Benzina,83 CP,1 199 cm3,Fata,,Manuala,SUV,Franta,,Da
+275,Audi A4 40 TDI quattro S tronic S Line,52000,Audi,A4,2023,5 000 km,Diesel,204 CP,1 968 cm3,4x4 (automat),,Automata,Sedan,,,
+276,Hyundai Elantra 1.6 l 123 CP 6MT Highway,24204,Hyundai,Elantra,2023,5 km,Benzina,123 CP,1 598 cm3,Fata,Euro 6,Manuala,Sedan,,,Da
+277,Toyota C-HR 2.0 HSD 184 CP 4x2 CVT Classy Bi-Tone,31449,Toyota,C-HR,2022,10 335 km,Hibrid,152 CP,1 987 cm3,Fata,Euro 6,Automata,SUV,Romania,Da,
+278,Ford S-Max,24250,Ford,S-Max,2019,143 302 km,Diesel,190 CP,1 998 cm3,Fata,,Automata,Monovolum,,,
+279,BMW Seria 5,47900,BMW,Seria 5,2022,32 505 km,Benzina,252 CP,1 998 cm3,4x4 (automat),,Automata,Sedan,,,
+280,Volkswagen ID.3 58 kWh Pro Performance,34000,Volkswagen,ID.3,2023,1 km,Electric,204 CP,,,,Automata,Compacta,,Da,Da
+281,BMW Seria 5 530i xDrive AT,39151,BMW,Seria 5,2019,83 213 km,Benzina,252 CP,1 998 cm3,4x4 (automat),Euro 6,Automata,Sedan,Romania,Da,Da
+282,BMW X4 xDrive30i AT MHEV,74698,BMW,X4,2023,1 km,Benzina,245 CP,1 998 cm3,4x4 (automat),,Automata,SUV,,,Da
+283,Dacia Logan 1.0 SCe Prestige,7324,Dacia,Logan,2018,75 500 km,Benzina,73 CP,998 cm3,Fata,Euro 6,Manuala,Sedan,Romania,Da,Da
+284,Mercedes-Benz EQV,74999,Mercedes-Benz,EQV,2023,5 987 km,Electric,204 CP,,4x4 (automat),,Automata,Monovolum,Spania,Da,Da
+285,Toyota Corolla,19500,Toyota,Corolla,2019,91 386 km,Hibrid,98 CP,1 798 cm3,Fata,,Manuala,Sedan,,,
+286,Ford Focus,33653,Ford,Focus,2020,18 000 km,Benzina,280 CP,2 261 cm3,,,Manuala,Sedan,,,
+287,Mercedes-Benz E 220 d Aut.,25900,Mercedes-Benz,E,2018,217 000 km,Diesel,194 CP,1 950 cm3,Spate,Euro 6,Automata,Sedan,Germania,,
+288,Audi Q3 35 TDI S tronic,34500,Audi,Q3,2020,61 500 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,SUV,Germania,,Da
+289,Renault Scenic ENERGY dCi 110 S&S Expression,3499,Renault,Scenic,2012,242 000 km,Diesel,110 CP,1 461 cm3,Fata,Euro 5,Manuala,Monovolum,Italia,,Da
+290,Audi Q7 3.0 55 TFSIe quattro Tiptronic S Line,74000,Audi,Q7,2022,21 000 km,Hibrid,340 CP,2 995 cm3,4x4 (automat),,Automata,SUV,,,
+291,Audi A7,78990,Audi,A7,2022,20 588 km,Hibrid,340 CP,2 995 cm3,,,Automata,Sedan,,,
+292,Mercedes-Benz GLB 220 d 4MATIC Aut.,45000,Mercedes-Benz,GLB,2021,40 500 km,Diesel,190 CP,1 950 cm3,4x4 (automat),,Automata,SUV,,,
+293,Mercedes-Benz GLE 400 d 4MATIC,82000,Mercedes-Benz,GLE,2021,42 450 km,Diesel,330 CP,2 925 cm3,4x4 (automat),,Automata,SUV,,,
+294,Toyota Aygo X 1.0l MT Dynamic,15899,Toyota,Aygo,2022,2 041 km,Benzina,72 CP,998 cm3,Fata,Euro 6,Manuala,Masina de oras,,,
+295,Ford Mondeo 2.0 HEV Vignale,17999,Ford,Mondeo,2019,69 000 km,Hibrid,187 CP,1 999 cm3,,,Automata,Sedan,,,
+296,Dacia Duster TCe 125 4x2 Blackshadow,12750,Dacia,Duster,2017,141 856 km,Benzina,125 CP,1 199 cm3,Fata,Euro 6,Manuala,SUV,Germania,,Da
+297,Mercedes-Benz GLC 250 d 4MATIC,23000,Mercedes-Benz,GLC,2016,259 547 km,Diesel,204 CP,2 143 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,,
+298,Suzuki SX4 S-Cross 1.4 Boosterjet Mild Hybrid AllGrip Passion,22354,Suzuki,SX4 S-Cross,2023,2 km,Benzina,129 CP,1 373 cm3,4x4 (manual),Euro 6,Manuala,SUV,,,Da
+299,Renault Megane Grandtour dCi 160 FAP GT,5999,Renault,Megane,2010,256 000 km,Diesel,160 CP,1 995 cm3,Fata,Euro 5,Manuala,Combi,Franta,,Da
+300,Ford Mondeo 2.0 HEV Vignale,19299,Ford,Mondeo,2018,91 120 km,Hibrid,187 CP,1 999 cm3,Fata,Euro 6,Automata,Sedan,,,Da
+301,Volkswagen Phaeton 3.0 V6 TDI DPF 4Motion Tipt.,7000,Volkswagen,Phaeton,2010,381 000 km,Diesel,240 CP,2 967 cm3,4x4 (automat),,Automata,Sedan,,Da,Da
+302,Opel Combo Life 1.5 L2H1 Start/Stop Elegance Life XL sarcina utila marita,18990,Opel,Combo,2019,77 000 km,Diesel,130 CP,1 499 cm3,Fata,Euro 6,Automata,Monovolum,Romania,Da,Da
+303,Mercedes-Benz Vito,33900,Mercedes-Benz,Vito,2019,45 000 km,Diesel,136 CP,2 143 cm3,Spate,Euro 6,Automata,Monovolum,,,Da
+304,Mercedes-Benz S 500 Long Aut.,138040,Mercedes-Benz,S,2021,55 000 km,Benzina,435 CP,2 999 cm3,4x4 (automat),Euro 6,Automata,Sedan,,Da,Da
+305,Mercedes-Benz Vito,16184,Mercedes-Benz,Vito,2015,161 905 km,Diesel,136 CP,2 143 cm3,Spate,Euro 5,Manuala,Monovolum,Germania,Da,Da
+306,Jeep Wrangler Unlimited 2.8 CRD AT Sahara,26500,Jeep,Wrangler,2012,168 000 km,Diesel,200 CP,2 776 cm3,4x4 (automat),Euro 5,Automata,SUV,Germania,Da,Da
+307,Volkswagen Touareg 3.0 V6 TDI Aut.,3690,Volkswagen,Touareg,2005,291 888 km,Diesel,225 CP,2 967 cm3,4x4 (automat),Euro 4,Automata,SUV,Germania,,
+308,Dacia Logan MCV 1.5 Blue dCi Prestige,9877,Dacia,Logan,2020,122 000 km,Diesel,95 CP,1 461 cm3,,,Manuala,Combi,,,
+309,Mitsubishi ASX 1.6 2WD Diamant Edition,9990,Mitsubishi,ASX,2016,209 000 km,Benzina,117 CP,1 590 cm3,Fata,,Manuala,SUV,Danemarca,Da,
+310,Lamborghini URUS Standard,329989,Lamborghini,URUS,2022,12 857 km,Benzina,650 CP,3 996 cm3,4x4 (manual),,Automata,SUV,Germania,,
+311,Skoda Octavia,15000,Skoda,Octavia,2018,89 020 km,Diesel,116 CP,1 598 cm3,Fata,Euro 6,Manuala,Sedan,Romania,Da,
+312,Dacia Duster dCi 110 4WD Comfort,16024,Dacia,Duster,2018,98 535 km,Diesel,109 CP,1 461 cm3,4x4 (manual),,Manuala,SUV,,,
+313,BMW Seria 5 540d xDrive MHEV,57969,BMW,Seria 5,2022,68 000 km,Diesel,340 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+314,BMW Seria 5 520d xDrive MHEV,45980,BMW,Seria 5,2022,21 035 km,Diesel,190 CP,1 995 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+315,Mercedes-Benz E 220 d Aut.,36500,Mercedes-Benz,E,2018,135 740 km,Diesel,194 CP,1 950 cm3,Spate,,Automata,Sedan,,,
+316,Volkswagen Golf Alltrack 2.0 TDI DSG 4Motion,24000,Volkswagen,Golf,2018,40 405 km,Diesel,184 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Combi,Romania,Da,
+317,Toyota Camry 2.5 Hybrid Exclusive,26447,Toyota,Camry,2019,101 000 km,Hibrid,178 CP,2 487 cm3,Fata,Euro 6,Automata,Sedan,Romania,Da,Da
+318,Hyundai I30,20039,Hyundai,I30,2023,11 km,Benzina,160 CP,1 482 cm3,,Euro 6,Manuala,Compacta,,Da,Da
+319,Mercedes-Benz EQS 450 4MATIC,137713,Mercedes-Benz,EQS,2023,10 km,Electric,360 CP,,4x4 (automat),,Automata,SUV,Statele Unite ale Americii,,Da
+320,Dacia Duster 1.5 Blue dCi 4WD Prestige,13950,Dacia,Duster,2019,68 000 km,Diesel,115 CP,1 461 cm3,4x4 (manual),Euro 6,Manuala,SUV,Romania,Da,Da
+321,Mercedes-Benz Vito,43000,Mercedes-Benz,Vito,2021,7 000 km,Diesel,163 CP,2 143 cm3,,,Automata,Monovolum,,,
+322,Volkswagen Tiguan Allspace 2.0 TDI SCR 4Motion DSG Highline,32900,Volkswagen,Tiguan,2019,138 698 km,Diesel,240 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,
+323,Kia Sorento 2.2 CRDi 4WD Aut. Vision,11900,Kia,Sorento,2011,250 000 km,Diesel,197 CP,2 199 cm3,4x4 (manual),,Automata,SUV,,,
+324,Audi Q5 2.0 TFSI Quattro Tiptronic,23700,Audi,Q5,2016,82 000 km,Benzina,225 CP,1 984 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+325,Volkswagen Touareg 3.0 V6 TDI 4Motion DPF Automatik Atmosphere,50000,Volkswagen,Touareg,2019,75 000 km,Diesel,286 CP,2 967 cm3,,,Automata,SUV,Germania,,Da
+326,Opel Astra,899,Opel,Astra,2005,365 000 km,Benzina,105 CP,1 598 cm3,,,Manuala,Coupe,,,
+327,BMW Seria 5 540i xDrive Aut. Sport Line,39800,BMW,Seria 5,2018,74 900 km,Benzina,340 CP,2 998 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,,
+328,Hyundai I30,15249,Hyundai,I30,2023,15 500 km,Benzina,110 CP,1 498 cm3,Fata,Euro 6d-Temp,Manuala,Compacta,Romania,Da,Da
+329,Mercedes-Benz EQA 300 4MATIC,52157,Mercedes-Benz,EQA,2023,3 000 km,Electric,228 CP,,4x4 (automat),,Automata,SUV,,,Da
+330,Volkswagen Golf 2.0 TDI DSG Sound,14950,Volkswagen,Golf,2018,182 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Compacta,Germania,Da,Da
+331,Mercedes-Benz C,22750,Mercedes-Benz,C,2017,99 850 km,Diesel,170 CP,2 143 cm3,Spate,Euro 6,Automata,Sedan,Romania,Da,
+332,Toyota C-HR 2.0 HSD 184 CP 4x2 CVT Classy Bi-Tone,31449,Toyota,C-HR,2022,8 950 km,Hibrid,152 CP,1 987 cm3,Fata,Euro 6,Automata,SUV,Romania,Da,
+333,Mercedes-Benz EQA 250,45021,Mercedes-Benz,EQA,2023,1 km,Electric,190 CP,,Fata,,Automata,SUV,,,Da
+334,BMW X1 xDrive23i Aut.,51051,BMW,X1,2022,15 300 km,Benzina,204 CP,1 998 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+335,BMW X5,12500,BMW,X5,2010,175 000 km,Diesel,235 CP,2 993 cm3,,Euro 5,Automata,SUV,,,
+336,Volkswagen Multivan,22000,Volkswagen,Multivan,2013,165 000 km,Diesel,177 CP,2 000 cm3,4x4 (automat),Euro 5,Automata,Monovolum,,,
+337,Volkswagen ARTEON,28900,Volkswagen,ARTEON,2019,81 183 km,Diesel,190 CP,1 968 cm3,4x4 (automat),,Automata,Sedan,,,
+338,Skoda Octavia 2.0 TDI 4x4 DSG Ambition,19000,Skoda,Octavia,2019,220 000 km,Diesel,150 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Sedan,,,
+339,Mercedes-Benz GLE 350 d 4MATIC,65438,Mercedes-Benz,GLE,2020,85 676 km,Diesel,272 CP,2 925 cm3,4x4 (automat),Euro 6,Automata,Sedan,,Da,Da
+340,BMW Seria 7,77338,BMW,Seria 7,2019,87 700 km,Diesel,319 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,Sedan,,Da,Da
+341,Lexus Seria RX,16490,Lexus,Seria RX,2011,169 000 km,Hibrid,249 CP,3 456 cm3,4x4 (automat),,Automata,SUV,,Da,Da
+342,Volkswagen Tiguan 2.0 TDI 4Mot DSG Highline,26899,Volkswagen,Tiguan,2019,118 808 km,Diesel,150 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+343,Kia Niro,19450,Kia,Niro,2018,50 978 km,Hibrid,105 CP,1 580 cm3,Fata,Euro 6,Automata,SUV,Romania,,
+344,BMW Seria 5 525d Aut.,12019,BMW,Seria 5,2011,359 000 km,Diesel,204 CP,2 993 cm3,Spate,Euro 5,Automata,Sedan,Belgia,,Da
+345,Cupra Formentor,43900,Cupra,Formentor,2023,10 km,Benzina,190 CP,1 984 cm3,,,Automata,SUV,,,
+346,Mercedes-Benz EQA,62494,Mercedes-Benz,EQA,2023,,Electric,228 CP,,4x4 (automat),,Automata,SUV,,,Da
+347,Renault Megane 1.5 dCi Dynamique,6800,Renault,Megane,2013,265 235 km,Diesel,110 CP,1 461 cm3,,,Manuala,Sedan,,,
+348,BMW X5 xDrive40d,35105,BMW,X5,2016,142 410 km,Diesel,313 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+349,Mercedes-Benz E,45900,Mercedes-Benz,E,2020,48 000 km,Hibrid,194 CP,1 950 cm3,Spate,Euro 6,Automata,Combi,,,
+350,Mazda CX-30,26239,Mazda,CX-30,2023,2 km,Benzina,150 CP,1 998 cm3,,Euro 6,Manuala,SUV,,,Da
+351,Skoda Superb 1.8 TSI Comfort,6499,Skoda,Superb,2009,220 000 km,Benzina,160 CP,1 798 cm3,Fata,Euro 4,Manuala,Sedan,Suedia,Da,Da
+352,Renault Captur MHEV 140 Techno,23490,Renault,Captur,2022,10 km,Benzina,140 CP,1 333 cm3,Fata,Euro 6,Manuala,SUV,Romania,Da,Da
+353,Renault Arkana E-Tech Hybrid Zen,27500,Renault,Arkana,2022,10 km,Hibrid,145 CP,1 598 cm3,Fata,Euro 6,Automata,SUV,Romania,Da,Da
+354,Jaguar E-Pace D150 AWD R-Dynamic Base,30950,Jaguar,E-Pace,2018,38 316 km,Diesel,150 CP,1 999 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,
+355,Volkswagen Polo,3600,Volkswagen,Polo,2008,89 652 km,Benzina,69 CP,1 198 cm3,,,Manuala,Masina de oras,,Da,Da
+356,Toyota Hilux 2.4D 150CP 4x4 Double Cab AT Executive,42900,Toyota,Hilux,2022,1 700 km,Diesel,150 CP,2 393 cm3,,,Automata,SUV,Romania,Da,Da
+357,Volvo XC 60,31700,Volvo,XC 60,2019,153 898 km,Diesel,235 CP,1 969 cm3,4x4 (automat),,Automata,SUV,,,
+358,Land Rover Range Rover Evoque,39900,Land Rover,Range Rover Evoque,2020,35 545 km,Diesel,240 CP,1 999 cm3,4x4 (automat),,Automata,SUV,,,
+359,Mercedes-Benz E 220 d 4Matic 9G-TRONIC Avantgarde,38990,Mercedes-Benz,E,2018,84 500 km,Diesel,194 CP,1 950 cm3,,,Automata,Coupe,,,
+360,Seat Leon 1.6 TDI Style,8000,Seat,Leon,2013,164 500 km,Diesel,105 CP,1 598 cm3,Fata,Euro 6,Manuala,Compacta,Romania,Da,Da
+361,Volvo S60 DRIVe Start-Stop Rdesign,8999,Volvo,S60,2011,206 001 km,Diesel,115 CP,1 560 cm3,,,Manuala,Sedan,,,
+362,Mitsubishi Outlander,25900,Mitsubishi,Outlander,2020,69 100 km,Benzina,150 CP,1 998 cm3,,,Automata,SUV,,,
+363,BMW Seria 5,10500,BMW,Seria 5,2011,295 000 km,Diesel,183 CP,1 995 cm3,,,Automata,Sedan,,,
+364,Renault Koleos 2.0 Energy dCi X-TRONIC Intens,22500,Renault,Koleos,2017,69 760 km,Diesel,175 CP,1 995 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,,Da
+365,Toyota Auris 1.8 VVT-i Hybrid Automatik Comfort,12500,Toyota,Auris,2017,220 000 km,Hibrid,99 CP,1 798 cm3,Fata,Euro 6b,Automata,Combi,Belgia,Da,Da
+366,Skoda Octavia,18799,Skoda,Octavia,2021,143 938 km,Diesel,116 CP,1 598 cm3,,,Manuala,Sedan,Romania,Da,Da
+367,Volkswagen Passat Alltrack 2.0 TDI SCR 4Motion DSG,23950,Volkswagen,Passat Alltrack,2016,122 613 km,Diesel,240 CP,1 968 cm3,4x4 (manual),,Automata,Combi,,,
+368,Seat Ateca,15290,Seat,Ateca,2018,164 700 km,Diesel,115 CP,1 598 cm3,Fata,Euro 6,Manuala,SUV,,,Da
+369,Porsche Cayenne,81422,Porsche,Cayenne,2021,25 400 km,Hibrid,462 CP,2 995 cm3,,,Automata,SUV,,,
+370,BMW X1 xDrive20d Aut.,9500,BMW,X1,2010,167 148 km,Diesel,177 CP,1 995 cm3,,,Automata,Masina de oras,,,
+371,Opel Antara 2.0 Cosmo,4700,Opel,Antara,2008,160 000 km,Diesel,150 CP,1 991 cm3,,,Manuala,SUV,,,
+372,Volkswagen Golf 2.0 TSI DSG GTI,35500,Volkswagen,Golf,2021,21 500 km,Benzina,245 CP,1 984 cm3,Fata,Euro 6,Automata,Compacta,Romania,,Da
+373,Skoda Scala 1.0 TSI Ambition,10899,Skoda,Scala,2019,211 598 km,Benzina,115 CP,999 cm3,Fata,,Manuala,Compacta,Romania,Da,
+374,Volkswagen Golf R 2.0 TSI Motion,18000,Volkswagen,Golf,2010,76 350 km,Benzina,270 CP,1 984 cm3,4x4 (automat),,Manuala,Sedan,Romania,,
+375,Skoda Octavia Combi Diesel 1.6 TDI DSG Ambition,11800,Skoda,Octavia,2018,228 000 km,Diesel,116 CP,1 598 cm3,,,Automata,Combi,,,
+376,Volkswagen Golf 2.0 TDI DSG Life,25750,Volkswagen,Golf,2023,4 452 km,Diesel,116 CP,1 968 cm3,Fata,Euro 6,Automata,Compacta,Romania,Da,Da
+377,Mercedes-Benz C 200 MHEV 4MATIC,45899,Mercedes-Benz,C,2021,32 018 km,Benzina,204 CP,1 496 cm3,4x4 (automat),Euro 6,Automata,Sedan,Romania,,
+378,Skoda Octavia,13500,Skoda,Octavia,2018,153 448 km,Diesel,116 CP,1 598 cm3,Fata,,Manuala,Sedan,,,
+379,Mercedes-Benz EQA 350 4MATIC,66851,Mercedes-Benz,EQA,2023,8 km,Electric,292 CP,,4x4 (automat),,Automata,SUV,,,Da
+380,Mercedes-Benz C 180 9G-TRONIC AMG Line,54728,Mercedes-Benz,C,2022,8 000 km,Benzina,170 CP,1 496 cm3,,Euro 6d,Automata,Sedan,,Da,Da
+381,Volkswagen Touareg,23000,Volkswagen,Touareg,2016,185 000 km,Diesel,245 CP,2 967 cm3,,,Automata,SUV,,,
+382,Skoda Octavia Combi 1.6 TDI DPF Classic,4999,Skoda,Octavia,2011,290 440 km,Diesel,105 CP,1 598 cm3,Fata,Euro 5,Manuala,Combi,,,
+383,Volkswagen Tiguan,23300,Volkswagen,Tiguan,2018,162 000 km,Diesel,190 CP,1 984 cm3,4x4 (automat),Euro 6b,Automata,SUV,Germania,Da,Da
+384,Audi A6,4400,Audi,A6,2006,419 000 km,Diesel,240 CP,2 967 cm3,4x4 (automat),,Manuala,Sedan,,,Da
+385,BMW X3,14950,BMW,X3,2012,157 000 km,Diesel,184 CP,1 995 cm3,4x4 (automat),,Automata,SUV,Romania,,Da
+386,Nissan Qashqai 1.7D 150CP ALL MODE 4X4-I N-Connecta,18949,Nissan,Qashqai,2019,85 200 km,Diesel,149 CP,1 749 cm3,4x4 (manual),Euro 6,Manuala,SUV,Romania,Da,
+387,Skoda Octavia 2.0 TDI (Green tec) DSG Joy,13685,Skoda,Octavia,2018,171 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Combi,Danemarca,Da,Da
+388,Mazda CX-5 G165 4x4 AT,28000,Mazda,CX-5,2019,29 450 km,Benzina,165 CP,1 998 cm3,,,Automata,SUV,,,
+389,Ford Fiesta,9450,Ford,Fiesta,2018,13 000 km,Benzina,85 CP,999 cm3,,Euro 6,Manuala,Compacta,,,
+390,Dacia Duster 1.5 dCi 4x4 Laureate,12350,Dacia,Duster,2018,136 000 km,Diesel,110 CP,1 461 cm3,4x4 (automat),,Manuala,SUV,,,
+391,Kia Sportage 2.0 CRDI 184 AWD Aut. Platinum Edition,13999,Kia,Sportage,2016,137 000 km,Diesel,184 CP,1 995 cm3,4x4 (automat),Euro 5,Automata,SUV,Germania,Da,Da
+392,Skoda Superb 2.0 TDI Elegance DSG,6399,Skoda,Superb,2009,286 000 km,Diesel,170 CP,1 968 cm3,Fata,,Automata,Sedan,Romania,Da,
+393,Ford Transit Custom,12300,Ford,Transit Custom,2015,263 000 km,Diesel,125 CP,2 198 cm3,,Euro 5,Manuala,Monovolum,Germania,Da,
+394,Hyundai Santa Fe,13900,Hyundai,Santa Fe,2016,198 000 km,Diesel,197 CP,2 199 cm3,,Euro 5,Automata,SUV,,Da,
+395,Mazda CX-60 e-Skyactiv PHEV Homura,48999,Mazda,CX-60,2022,14 900 km,Hibrid,192 CP,2 488 cm3,4x4 (automat),,Automata,SUV,Japonia,Da,Da
+396,Ford Kuga 2.5 Duratec PHEV ST Line X,28538,Ford,Kuga,2020,52 100 km,Hibrid,152 CP,2 488 cm3,Fata,Euro 6,Automata,SUV,,,
+397,Ford Transit Custom,11900,Ford,Transit Custom,2014,249 000 km,Diesel,125 CP,2 198 cm3,,Euro 5,Manuala,Monovolum,,Da,
+398,Ford Tourneo Courier 1.5 TDCi Titanium,12349,Ford,Tourneo Courier,2019,106 000 km,Diesel,95 CP,1 498 cm3,Fata,Euro 6,Manuala,Monovolum,Romania,Da,
+399,Dacia Sandero Stepway ECO-G 100 MT6 Expression,16999,Dacia,Sandero Stepway,2023,1 km,Benzina + GPL,100 CP,999 cm3,Fata,Euro 6b,Manuala,Masina de oras,,,Da
+400,Mercedes-Benz EQE 500 4MATIC,137617,Mercedes-Benz,EQE,2023,1 km,Electric,408 CP,,4x4 (automat),,Automata,SUV,,,Da
+401,Nissan Qashqai 1.6 DCi ACENTA,12500,Nissan,Qashqai,2014,164 179 km,Diesel,130 CP,1 598 cm3,Fata,,Manuala,SUV,,,
+402,Volkswagen Golf 2.0 TDI Comfortline,6490,Volkswagen,Golf,2009,189 000 km,Diesel,140 CP,1 968 cm3,Fata,Euro 5,Manuala,Compacta,Franta,Da,Da
+403,Mercedes-Benz CLA 200 MHEV SB Aut.,44899,Mercedes-Benz,CLA,2022,6 444 km,Benzina,163 CP,1 332 cm3,Fata,,Automata,Coupe,,,
+404,Mercedes-Benz GLE Coupe AMG 53 4Matic AMG Speedshift TCT 9G,91500,Mercedes-Benz,GLE Coupe,2020,22 610 km,Benzina,435 CP,2 999 cm3,4x4 (automat),Euro 6d,Automata,SUV,,,
+405,Seat Leon 1.2 TSI Style,8600,Seat,Leon,2015,162 452 km,Benzina,105 CP,1 197 cm3,,,Manuala,Masina de oras,,,
+406,Fiat Tipo 1.4 Pop,10600,Fiat,Tipo,2018,27 044 km,Benzina,95 CP,1 368 cm3,Fata,,Manuala,Combi,,,
+407,Mercedes-Benz E 220 d 4MATIC Aut.,30000,Mercedes-Benz,E,2017,159 830 km,Diesel,194 CP,1 950 cm3,4x4 (automat),,Automata,Sedan,,,
+408,Mercedes-Benz C,100545,Mercedes-Benz,C,2022,2 km,Benzina,408 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,Sedan,,,Da
+409,Mercedes-Benz EQA 300 4MATIC,62735,Mercedes-Benz,EQA,2022,6 000 km,Electric,228 CP,,4x4 (automat),Euro 6,Automata,SUV,,,Da
+410,Dacia Logan 1.5 Blue dCi SL PLUS,7650,Dacia,Logan,2019,167 000 km,Diesel,75 CP,1 461 cm3,,Euro 6,Manuala,Combi,Romania,Da,Da
+411,Dacia Logan MCV 0.9 TCe 90 CP Prestige,6350,Dacia,Logan,2014,129 619 km,Benzina,90 CP,898 cm3,Fata,Euro 5,Manuala,Combi,Germania,Da,
+412,BMW Seria 3 318d DPF Touring,7200,BMW,Seria 3,2012,285 000 km,Diesel,143 CP,1 995 cm3,Spate,,Manuala,Combi,,,
+413,Audi A4 2.0 TDI Multitronic Avant,8900,Audi,A4,2010,277 000 km,Diesel,143 CP,1 968 cm3,,,Automata,Combi,,,
+414,Toyota Auris 1.8 L VVT-i Hybrid Sol +,18202,Toyota,Auris,2018,57 754 km,Hibrid,99 CP,1 798 cm3,Fata,Euro 6,Automata,Combi,,,
+415,Audi Q5 2.0 TDI Quattro S-Tronic,13299,Audi,Q5,2011,235 400 km,Diesel,170 CP,1 968 cm3,,,Automata,SUV,,,
+416,Skoda Superb,11500,Skoda,Superb,2015,235 000 km,Diesel,170 CP,1 968 cm3,4x4 (automat),Euro 5,Automata,Combi,Germania,,Da
+417,BMW Seria 3 320d xDrive AT,24850,BMW,Seria 3,2019,183 000 km,Diesel,190 CP,1 995 cm3,,,Automata,Sedan,Franta,,Da
+418,Dodge Challenger,101150,Dodge,Challenger,2021,20 000 km,Benzina,800 CP,6 166 cm3,Spate,,Automata,Coupe,,Da,Da
+419,Land Rover Defender 90 5.0 V8,133082,Land Rover,Defender,2022,5 400 km,Benzina,525 CP,5 000 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+420,BMW Seria 5 520d,12300,BMW,Seria 5,2012,286 000 km,Diesel,184 CP,1 995 cm3,,,Automata,Sedan,,,
+421,Dacia Logan ECO-G 100 MT5 Expression,16500,Dacia,Logan,2023,10 km,Benzina + GPL,100 CP,999 cm3,Fata,Euro 6,Manuala,Sedan,Romania,,Da
+422,BMW X1,24500,BMW,X1,2017,78 000 km,Diesel,163 CP,1 995 cm3,4x4 (automat),Euro 5,Automata,SUV,,Da,Da
+423,BMW Seria 7 730d,38980,BMW,Seria 7,2018,126 900 km,Diesel,265 CP,2 993 cm3,Spate,Euro 6,Automata,Sedan,Germania,,Da
+424,Volkswagen Golf Variant 1.6 TDI BlueMotion Technology DSG Lounge,8200,Volkswagen,Golf,2015,229 300 km,Diesel,110 CP,1 598 cm3,Fata,Euro 6,Automata,Combi,Germania,,Da
+425,Skoda Octavia 1.4 Ambiente,4199,Skoda,Octavia,2012,155 505 km,Benzina,80 CP,1 390 cm3,Fata,,Manuala,Compacta,,,
+426,Audi A4 35 TFSI S tronic Basic,34900,Audi,A4,2023,1 km,Benzina,150 CP,1 984 cm3,Fata,Euro 6,Automata,Sedan,,,Da
+427,Peugeot 206 2.0E S16,1650,Peugeot,206,2003,180 000 km,Benzina,135 CP,1 997 cm3,Fata,Euro 4,Manuala,Cabrio,Austria,Da,
+428,Mercedes-Benz CLA,31200,Mercedes-Benz,CLA,2022,7 200 km,Benzina,163 CP,1 332 cm3,Fata,Euro 6d-Temp,Automata,Combi,Germania,,Da
+429,Ford Focus 1.0 EcoBoost Trend Edition,13490,Ford,Focus,2019,87 700 km,Benzina,125 CP,999 cm3,Fata,Euro 6,Manuala,Sedan,Romania,Da,
+430,BMW Seria 3 320td compact,2750,BMW,Seria 3,2003,340 000 km,Diesel,150 CP,1 995 cm3,Spate,,Manuala,Combi,,,
+431,Chatenet CH46,15500,Chatenet,CH46,2021,26 000 km,Diesel,8 CP,480 cm3,,,Automata,Masina de oras,,,
+432,Audi A6 2.4 Avant quattro,3500,Audi,A6,2008,177 203 km,Benzina,177 CP,2 393 cm3,Fata,,Manuala,Sedan,,,
+433,Dacia Sandero 1.6 MPI Preference,4100,Dacia,Sandero,2011,103 000 km,Benzina,90 CP,1 598 cm3,Fata,Euro 5,Manuala,Masina de oras,Romania,Da,Da
+434,Mercedes-Benz V 300 d Lung,60785,Mercedes-Benz,V,2019,97 618 km,Diesel,239 CP,1 950 cm3,Spate,Euro 6,Automata,Monovolum,Germania,,Da
+435,Mercedes-Benz GLC 200 d 4Matic 9G-TRONIC AMG Line,46980,Mercedes-Benz,GLC,2020,64 343 km,Diesel,163 CP,1 950 cm3,4x4 (manual),Euro 6,Automata,SUV,Belgia,,Da
+436,Land Rover Range Rover 3.0 I6 D350 MHEV HSE,150684,Land Rover,Range Rover,2022,14 609 km,Diesel,350 CP,2 997 cm3,4x4 (automat),,Automata,SUV,,,
+437,Suzuki Vitara,28479,Suzuki,Vitara,2023,2 km,Hibrid,127 CP,1 490 cm3,,Euro 6,Automata,SUV,,,Da
+438,Toyota RAV4 2.5 Hybrid VVT-iE 4x4 Dynamic,39899,Toyota,RAV4,2022,10 000 km,Hibrid,222 CP,2 487 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+439,Opel Crossland 1.2 Automatik Business Edition,16993,Opel,Crossland,2022,5 km,Benzina,130 CP,1 199 cm3,Fata,Euro 6,Automata,SUV,,,Da
+440,Renault Kadjar Blue dCi EDC Intens,28157,Renault,Kadjar,2022,10 km,Diesel,116 CP,1 461 cm3,Fata,Euro 6,Automata,SUV,,Da,Da
+441,Audi A4 Avant 2.0 40 TDI S tronic Advanced,26001,Audi,A4,2020,132 900 km,Diesel,190 CP,1 968 cm3,Fata,,Automata,Combi,,,
+442,BMW X4 xDrive20d Aut.,39600,BMW,X4,2018,93 404 km,Diesel,190 CP,1 995 cm3,4x4 (manual),Euro 6,Automata,SUV,Germania,Da,Da
+443,Mercedes-Benz AMG GT-S 63 4MATIC+,134922,Mercedes-Benz,AMG GT-S,2018,53 900 km,Benzina,639 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,Coupe,Cehia,,Da
+444,BMW X5 xDrive30d AT MHEV,117215,BMW,X5,2023,20 km,Diesel,298 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+445,Land Rover Range Rover 3.0 I TDV6 Autobiography,41900,Land Rover,Range Rover,2014,74 256 km,Diesel,258 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,
+446,Mazda 2,1450,Mazda,2,2010,110 000 km,Diesel,90 CP,1 560 cm3,,,Manuala,Sedan,,,
+447,Audi Q7 3.0 45 TDI quattro Tiptronic,72900,Audi,Q7,2020,60 578 km,Diesel,231 CP,2 967 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+448,Opel Astra Caravan 1.6 Enjoy,3590,Opel,Astra,2007,130 252 km,Benzina,115 CP,1 598 cm3,Fata,Euro 4,Manuala,Compacta,Romania,Da,
+449,Volvo S90 T6 AWD Inscription,48500,Volvo,S90,2021,51 000 km,Benzina,310 CP,1 969 cm3,4x4 (automat),,Automata,Masina mica,,,
+450,Dacia Logan 1.5 DCI Ambition,3300,Dacia,Logan,2008,266 241 km,Diesel,65 CP,1 461 cm3,,,Manuala,Combi,,,
+451,Renault Megane Estate TCe GPF Life,12000,Renault,Megane,2019,35 000 km,Benzina,116 CP,1 332 cm3,Fata,Euro 6,Manuala,Sedan,,,Da
+452,Skoda Kodiaq 2.0 TDI DSG Style,22610,Skoda,Kodiaq,2018,133 406 km,Diesel,150 CP,1 968 cm3,Fata,,Automata,SUV,Franta,,Da
+453,BMW Seria 3 318d xDrive,16000,BMW,Seria 3,2015,82 000 km,Diesel,143 CP,1 995 cm3,4x4 (manual),,Manuala,Sedan,,Da,Da
+454,Ford Mondeo Turnier 2.0 TDCi Viva Trend,1495,Ford,Mondeo,2008,204 000 km,Diesel,140 CP,1 997 cm3,,,Manuala,Combi,,,
+455,BMW X6 xDrive30d xLine,81000,BMW,X6,2020,38 000 km,Diesel,265 CP,2 993 cm3,4x4 (manual),,Automata,SUV,,,
+456,Mercedes-Benz GLC 300 de 4MATIC,91150,Mercedes-Benz,GLC,2023,1 km,Hibrid,197 CP,1 993 cm3,4x4 (automat),,Automata,SUV,,,Da
+457,Toyota Avensis 2.0 D-4D Executive,6800,Toyota,Avensis,2011,244 000 km,Diesel,126 CP,1 998 cm3,Fata,,Manuala,Combi,Germania,,Da
+458,Nissan Qashqai 1.5 dCi ACENTA,6700,Nissan,Qashqai,2011,237 327 km,Diesel,110 CP,1 461 cm3,Fata,,Manuala,SUV,,,
+459,Volkswagen Tiguan Allspace 2.0 TDI SCR 4Motion DSG Highline,23999,Volkswagen,Tiguan,2018,199 000 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+460,Land Rover Range Rover 3.0 I6 D350 MHEV HSE,156999,Land Rover,Range Rover,2022,8 142 km,Diesel,350 CP,2 997 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+461,Mercedes-Benz C 220 d T 9G-TRONIC,24395,Mercedes-Benz,C,2019,150 000 km,Diesel,194 CP,1 950 cm3,Spate,Euro 6,Automata,Sedan,Germania,Da,Da
+462,Volkswagen Crafter,17499,Volkswagen,Crafter,2019,205 000 km,Diesel,102 CP,1 968 cm3,Fata,Euro 6,Manuala,Monovolum,Germania,Da,Da
+463,Lamborghini URUS,260000,Lamborghini,URUS,2020,28 900 km,Benzina,650 CP,3 996 cm3,4x4 (manual),Euro 6,Automata,SUV,Germania,Da,Da
+464,Opel Astra 1.9 CDTI Elegance,2350,Opel,Astra,2008,200 211 km,Diesel,120 CP,1 910 cm3,,,Manuala,Combi,Germania,,Da
+465,Fiat Doblo,21455,Fiat,Doblo,2022,13 km,Diesel,90 CP,1 598 cm3,,Euro 6,Manuala,Monovolum,,Da,Da
+466,Fiat 500,13899,Fiat,500,2018,12 500 km,Benzina,69 CP,1 242 cm3,,Euro 6,Manuala,Masina mica,,Da,Da
+467,Alfa Romeo Tonale,43355,Alfa Romeo,Tonale,2022,5 km,Hibrid,160 CP,1 469 cm3,,Euro 6,Automata,SUV,,Da,Da
+468,Kia Niro,45699,Kia,Niro,2023,5 km,Electric,204 CP,,,,Automata,SUV,,,Da
+469,Kia Rio,16957,Kia,Rio,2022,15 km,Benzina,,1 197 cm3,,Euro 6,Manuala,Masina de oras,,,Da
+470,Renault Megane,1900,Renault,Megane,2005,323 000 km,Diesel,100 CP,1 461 cm3,,,Manuala,Combi,,,
+471,Toyota Yaris,8700,Toyota,Yaris,2014,194 000 km,Hibrid,75 CP,1 497 cm3,Fata,,Automata,Masina de oras,,,
+472,Ford Focus,12199,Ford,Focus,2019,120 000 km,Benzina,125 CP,999 cm3,,Euro 6,Manuala,Sedan,,,Da
+473,Volkswagen Golf 2.0 TDI DSG Comfortline,17700,Volkswagen,Golf,2019,81 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Germania,Da,Da
+474,Lexus Seria RX 450h AWD Luxury Panorama,54449,Lexus,Seria RX,2019,98 000 km,Hibrid,262 CP,3 456 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+475,Renault Megane,6650,Renault,Megane,2013,226 590 km,Diesel,130 CP,1 598 cm3,,,Manuala,Combi,,,
+476,Opel Astra 1.2 Turbo Edition,25632,Opel,Astra,2022,5 km,Benzina,130 CP,1 199 cm3,Fata,Euro 6,Manuala,Compacta,,,Da
+477,BMW X5 3.0d Aut.,9350,BMW,X5,2008,224 976 km,Diesel,235 CP,2 993 cm3,4x4 (automat),Euro 4,Automata,SUV,,,
+478,Lexus Seria RX 450h AWD Luxury Panorama,54449,Lexus,Seria RX,2019,98 000 km,Hibrid,262 CP,3 456 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+479,BMW X5 xDrive40d AT MHEV,116620,BMW,X5,2023,22 km,Diesel,340 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+480,Opel Astra 1.2 Turbo Edition,25632,Opel,Astra,2022,5 km,Benzina,130 CP,1 199 cm3,Fata,Euro 6,Manuala,Compacta,,,Da
+481,Audi A4 Avant 2.0 TDI quattro S tronic Design,17990,Audi,A4,2018,193 000 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6d,Automata,Combi,Germania,,
+482,Jeep Wrangler Unlimited 2.2 CRD AT8 Rubicon,57850,Jeep,Wrangler,2020,39 000 km,Diesel,200 CP,2 143 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+483,Ford Focus 1.6 TDCi DPF Titanium,4700,Ford,Focus,2011,250 000 km,Diesel,115 CP,1 560 cm3,Fata,,Manuala,Coupe,,,
+484,Audi A4 35 TFSI S tronic Advanced,35000,Audi,A4,2022,28 307 km,Benzina,150 CP,1 984 cm3,Fata,,Automata,Sedan,,,Da
+485,Mercedes-Benz B 180 CDI,3900,Mercedes-Benz,B,2007,180 000 km,Diesel,109 CP,1 991 cm3,,,Manuala,Monovolum,,,
+486,Mercedes-Benz A,36000,Mercedes-Benz,A,2021,5 702 km,Diesel,116 CP,1 950 cm3,Fata,Euro 6,Automata,Compacta,,,
+487,Lexus Seria RX 450h (hybrid) Limited Edition,18999,Lexus,Seria RX,2013,189 000 km,Hibrid,249 CP,3 456 cm3,,,Automata,SUV,,,
+488,Renault Kadjar 1.5 DCI Life,13990,Renault,Kadjar,2015,155 854 km,Diesel,110 CP,1 461 cm3,Fata,Euro 6,Manuala,SUV,,,
+489,Hyundai Tucson,17999,Hyundai,Tucson,2018,143 731 km,Benzina,177 CP,1 591 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,,
+490,Ford Mondeo 2.0 TDCi Start-Stopp Business Edition,13900,Ford,Mondeo,2018,155 000 km,Diesel,150 CP,1 997 cm3,Fata,Euro 6,Manuala,Combi,Germania,,Da
+491,Opel Corsa Corsa-e Edition,25506,Opel,Corsa,2022,5 km,Electric,136 CP,,Fata,,Automata,Masina de oras,Spania,,Da
+492,Skoda Octavia 1.6 TDI DSG Style,11999,Skoda,Octavia,2018,221 925 km,Diesel,115 CP,1 598 cm3,Fata,Euro 6,Automata,Combi,Olanda,,Da
+493,Renault Laguna,2850,Renault,Laguna,2006,300 000 km,Diesel,149 CP,1 995 cm3,Fata,,Manuala,Sedan,Franta,,
+494,Mercedes-Benz B 180 CDI BlueEFFICIENCY Edition,7699,Mercedes-Benz,B,2013,149 500 km,Diesel,109 CP,1 461 cm3,Fata,Euro 5,Manuala,Monovolum,Germania,,Da
+495,Ford Focus,8190,Ford,Focus,2017,229 000 km,Diesel,95 CP,1 499 cm3,Fata,Euro 6,Manuala,Combi,Olanda,Da,Da
+496,Ford Mondeo 2.0 TDCi Start-Stopp PowerShift-Aut Business Edition,11400,Ford,Mondeo,2017,212 000 km,Diesel,150 CP,1 997 cm3,Fata,Euro 6,Automata,Sedan,Austria,,
+497,Citroën C1,4350,Citroën,C1,2017,136 000 km,Benzina,72 CP,998 cm3,Fata,,Manuala,Compacta,,,
+498,Mercedes-Benz GLE 400 e 4MATIC,117760,Mercedes-Benz,GLE,2023,10 km,Hibrid,252 CP,1 999 cm3,4x4 (automat),,Automata,SUV,,,Da
+499,Audi A3 Sportback 1.9 TDI Attraction,3700,Audi,A3,2006,223 000 km,Diesel,105 CP,1 896 cm3,Fata,Euro 4,Manuala,Masina de oras,Austria,Da,Da
+500,Fiat Fiorino,5300,Fiat,Fiorino,2014,181 725 km,Diesel,75 CP,1 248 cm3,Fata,Euro 5,Manuala,Combi,Romania,Da,
+501,Nissan Navara 2.3 dCi Double Cab Visia,17998,Nissan,Navara,2017,209 000 km,Diesel,163 CP,2 298 cm3,4x4 (manual),Euro 6,Manuala,SUV,Romania,Da,Da
+502,Volkswagen Passat Variant 1.6 TDI BlueMotion,6999,Volkswagen,Passat,2011,218 000 km,Diesel,105 CP,1 598 cm3,Fata,,Manuala,Combi,,,
+503,Skoda Kodiaq 2.0 TDI 4X4 DSG Style,35590,Skoda,Kodiaq,2021,48 653 km,Diesel,200 CP,1 968 cm3,4x4 (automat),Euro 6d,Automata,SUV,Romania,,Da
+504,Opel Corsa 1.2i Easytronic Cosmo,4550,Opel,Corsa,2008,200 000 km,Benzina,80 CP,1 229 cm3,Fata,,Automata,Masina de oras,Germania,Da,Da
+505,Audi A3 1.4 TFSI Ambiente,6790,Audi,A3,2010,178 000 km,Benzina,125 CP,1 395 cm3,Fata,,Manuala,Compacta,,,
+506,Audi A4 35 TFSI S tronic Advanced,35485,Audi,A4,2023,7 445 km,Benzina,150 CP,1 984 cm3,Fata,Euro 6d-Temp,Automata,Sedan,Romania,Da,Da
+507,BMW X5 xDrive30d,25990,BMW,X5,2016,216 000 km,Diesel,258 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+508,Ford Focus,6190,Ford,Focus,2013,203 000 km,Diesel,115 CP,1 560 cm3,Fata,Euro 5,Manuala,Combi,Germania,,
+509,Ford Focus 1.5 EcoBlue Start-Stopp-System TITANIUM,8490,Ford,Focus,2016,198 000 km,Diesel,120 CP,1 499 cm3,Fata,Euro 6,Manuala,Combi,Germania,,Da
+510,Volkswagen Tiguan 2.0 TDI SCR DSG R-Line,23800,Volkswagen,Tiguan,2019,175 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,SUV,Germania,Da,Da
+511,Mercedes-Benz EQC 400 4MATIC,63414,Mercedes-Benz,EQC,2020,22 187 km,Electric,408 CP,,4x4 (automat),,Automata,SUV,,,
+512,Dacia Dokker 1.5 Blue dCi Ambiance,10800,Dacia,Dokker,2019,74 490 km,Diesel,75 CP,1 461 cm3,Fata,Euro 6,Manuala,Monovolum,Romania,Da,
+513,Opel Corsa Corsa-e Edition,25506,Opel,Corsa,2022,5 km,Electric,136 CP,,Fata,,Automata,Masina de oras,Spania,,Da
+514,Volkswagen Golf 2.0 TSI GTI,9990,Volkswagen,Golf,2011,196 204 km,Benzina,210 CP,1 984 cm3,Fata,,Manuala,Compacta,,,
+515,Volkswagen Tiguan 2.0 TDI 4Mot DSG Comfortline,23400,Volkswagen,Tiguan,2018,136 961 km,Diesel,150 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+516,Renault Laguna,2850,Renault,Laguna,2006,300 000 km,Diesel,149 CP,1 995 cm3,Fata,,Manuala,Sedan,Franta,,
+517,Mercedes-Benz B 180 CDI BlueEFFICIENCY Edition,7699,Mercedes-Benz,B,2013,149 500 km,Diesel,109 CP,1 461 cm3,Fata,Euro 5,Manuala,Monovolum,Germania,,Da
+518,Ford Mondeo 2.0 TDCi Start-Stopp PowerShift-Aut Business Edition,11400,Ford,Mondeo,2017,212 000 km,Diesel,150 CP,1 997 cm3,Fata,Euro 6,Automata,Sedan,Austria,,
+519,Volkswagen Phaeton 3.0 V6 TDI DPF 4MOTION Automatik (5 Sitzer),9299,Volkswagen,Phaeton,2012,260 000 km,Diesel,240 CP,2 967 cm3,4x4 (automat),Euro 5,Automata,Sedan,Austria,,Da
+520,Mercedes-Benz GLE 400 e 4MATIC,117760,Mercedes-Benz,GLE,2023,10 km,Hibrid,252 CP,1 999 cm3,4x4 (automat),,Automata,SUV,,,Da
+521,Audi A3 Sportback 1.9 TDI Attraction,3700,Audi,A3,2006,223 000 km,Diesel,105 CP,1 896 cm3,Fata,Euro 4,Manuala,Masina de oras,Austria,Da,Da
+522,Ford Focus 1.5 TDCi Trend,6750,Ford,Focus,2016,203 475 km,Diesel,120 CP,1 498 cm3,Fata,Euro 6,Manuala,Combi,,,
+523,Skoda Kodiaq 2.0 TDI 4X4 DSG Style,35590,Skoda,Kodiaq,2021,48 653 km,Diesel,200 CP,1 968 cm3,4x4 (automat),Euro 6d,Automata,SUV,Romania,,Da
+524,Audi A3 1.4 TFSI Ambiente,6790,Audi,A3,2010,178 000 km,Benzina,125 CP,1 395 cm3,Fata,,Manuala,Compacta,,,
+525,Land Rover Range Rover LWB 3.0 I TDV6 Autobiography,85000,Land Rover,Range Rover,2018,164 000 km,Diesel,258 CP,2 993 cm3,,,Automata,SUV,,,
+526,Mercedes-Benz GLS,49990,Mercedes-Benz,GLS,2016,229 207 km,Diesel,258 CP,2 987 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+527,Ford B-Max 1.5 TDCi DPF Titanium,6700,Ford,B-Max,2015,132 000 km,Diesel,75 CP,1 498 cm3,,,Manuala,Monovolum,,,
+528,Volkswagen Passat Variant 1.6 TDI BlueMotion Technology Business Edition,7450,Volkswagen,Passat,2012,239 000 km,Diesel,105 CP,1 598 cm3,Fata,Euro 5,Manuala,Combi,,,
+529,BMW X5 xDrive30d,25990,BMW,X5,2016,216 000 km,Diesel,258 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+530,Dacia Duster dCi 110 FAP 4x4 Celebration,11690,Dacia,Duster,2017,199 786 km,Diesel,109 CP,1 461 cm3,4x4 (manual),Euro 6,Manuala,SUV,Germania,,
+531,Skoda Karoq 1.5 TSI DSG Ambition,32237,Skoda,Karoq,2023,5 km,Benzina,150 CP,1 498 cm3,Fata,Euro 6,Automata,SUV,Romania,Da,Da
+532,Volkswagen Tiguan 2.0 TDI SCR DSG R-Line,23800,Volkswagen,Tiguan,2019,175 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,SUV,Germania,Da,Da
+533,Dacia Dokker 1.5 Blue dCi Ambiance,10800,Dacia,Dokker,2019,74 490 km,Diesel,75 CP,1 461 cm3,Fata,Euro 6,Manuala,Monovolum,Romania,Da,
+534,Mercedes-Benz S 400 d 4Matic L 9G-TRONIC,146251,Mercedes-Benz,S,2023,7 000 km,Diesel,330 CP,2 925 cm3,4x4 (automat),Euro 6d,Automata,Sedan,,Da,Da
+535,Suzuki SX4 S-Cross,27719,Suzuki,SX4 S-Cross,2023,2 km,Hibrid,113 CP,1 490 cm3,,Euro 6,Automata,SUV,,,Da
+536,Skoda Octavia 1.6 Combi Tour,2650,Skoda,Octavia,2008,210 000 km,Benzina,102 CP,1 595 cm3,Fata,Euro 4,Manuala,Sedan,Romania,Da,
+537,Volkswagen Tiguan Allspace 2.0 TDI SCR 4Motion DSG Highline,28900,Volkswagen,Tiguan,2020,79 000 km,Diesel,240 CP,1 968 cm3,,,Automata,SUV,,,
+538,Dacia Logan 0.9 TCe Laureate,7100,Dacia,Logan,2016,96 840 km,Benzina,90 CP,898 cm3,Fata,Euro 6,Manuala,Compacta,Romania,,Da
+539,Dacia Duster,14900,Dacia,Duster,2019,146 695 km,Diesel,115 CP,1 461 cm3,4x4 (manual),Euro 6,Manuala,SUV,Romania,,Da
+540,Mercedes-Benz ML 320 CDI Aut,7500,Mercedes-Benz,ML,2008,210 000 km,Diesel,224 CP,2 987 cm3,,,Automata,SUV,Romania,,
+541,Mercedes-Benz C 220 d Coupe 4MATIC Aut.,28000,Mercedes-Benz,C,2018,73 000 km,Diesel,170 CP,2 143 cm3,4x4 (automat),,Automata,Coupe,,,
+542,Volkswagen Golf 1.6 TDI DPF BlueMotion Technology Comfortline,7700,Volkswagen,Golf,2014,245 000 km,Diesel,105 CP,1 598 cm3,Fata,Euro 5,Manuala,Combi,,,
+543,Mercedes-Benz S 350 (BlueTEC) d 7G-TRONIC,31903,Mercedes-Benz,S,2013,186 000 km,Diesel,258 CP,2 987 cm3,Spate,Euro 6,Automata,Sedan,Italia,,
+544,Dacia Sandero 1.5 DCI Laureate,7990,Dacia,Sandero,2018,96 976 km,Diesel,75 CP,1 461 cm3,Fata,Euro 6,Manuala,Compacta,Romania,Da,Da
+545,Audi A4 2.0 TDI Avant,3850,Audi,A4,2006,254 399 km,Diesel,140 CP,1 984 cm3,Fata,,Manuala,Combi,,,
+546,Volkswagen Passat 2.0 Blue TDI DSG SCR Exclusive,7999,Volkswagen,Passat,2013,273 000 km,Diesel,140 CP,1 968 cm3,Fata,Euro 5,Automata,Sedan,,,
+547,Mercedes-Benz C,30904,Mercedes-Benz,C,2019,86 135 km,Diesel,160 CP,1 598 cm3,Spate,Euro 6d,Automata,Sedan,Romania,,Da
+548,Volkswagen Caddy Maxi 1.6 TDI BlueMotion,7200,Volkswagen,Caddy,2015,188 000 km,Diesel,102 CP,1 598 cm3,Fata,Euro 6,Manuala,Monovolum,Romania,Da,Da
+549,Mercedes-Benz EQE 500 5MATIC,138950,Mercedes-Benz,EQE,2023,10 km,Electric,408 CP,,4x4 (automat),,Automata,SUV,,,Da
+550,BMW X3 xDrive20d AT M Sport,48800,BMW,X3,2020,26 500 km,Diesel,190 CP,1 995 cm3,,,Automata,SUV,,,
+551,Volkswagen Tiguan 1.4 TSI BMT,13985,Volkswagen,Tiguan,2014,189 306 km,Benzina,122 CP,1 390 cm3,,Euro 5,Manuala,SUV,Belgia,,
+552,Volkswagen Golf 1.5 eTSI ACT DSG MHEV Style,24500,Volkswagen,Golf,2020,57 000 km,Benzina,150 CP,1 498 cm3,,,Automata,Compacta,,,
+553,Opel Insignia 1.6 CDTI ECOTEC Cosmo Aut.,4850,Opel,Insignia,2017,190 000 km,Diesel,136 CP,1 598 cm3,,,Automata,Combi,Germania,Da,
+554,Opel Astra 2.0 CDTI ECOTEC Aut. Cosmo,6499,Opel,Astra,2012,249 999 km,Diesel,165 CP,1 956 cm3,,,Automata,Combi,,Da,
+555,Volkswagen Golf,14990,Volkswagen,Golf,2016,153 627 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Combi,Germania,Da,Da
+556,Ford Kuga 2.0 TDCi Powershift 4WD Titanium,11400,Ford,Kuga,2013,186 000 km,Diesel,163 CP,1 997 cm3,4x4 (automat),Euro 5,Automata,SUV,Germania,,Da
+557,Renault Clio,5300,Renault,Clio,2007,26 000 km,Benzina,75 CP,1 149 cm3,Fata,Euro 4,Manuala,Compacta,Romania,Da,Da
+558,BMW X4 xDrive20d Aut. xLine,27300,BMW,X4,2017,184 000 km,Diesel,190 CP,1 995 cm3,4x4 (automat),Euro 6b,Automata,SUV,Belgia,,Da
+559,Opel Astra 1.5 D Start/Stop Sports Tourer,10948,Opel,Astra,2021,118 576 km,Diesel,105 CP,1 496 cm3,Fata,Euro 6,Manuala,Combi,Belgia,Da,Da
+560,Ford Focus 1.5 EcoBlue Start-Stopp-System ACTIVE,11900,Ford,Focus,2021,153 021 km,Diesel,120 CP,1 499 cm3,Fata,Euro 6,Manuala,Combi,Belgia,Da,Da
+561,Opel Astra 1.6 CDTI DPF ecoFLEX Sports TourerStart/Stop Edition,7497,Opel,Astra,2017,198 405 km,Diesel,110 CP,1 598 cm3,Fata,Euro 6,Manuala,Combi,Belgia,Da,Da
+562,Opel Insignia Grand Sport 1.6 Diesel Innovation,12138,Opel,Insignia,2018,178 316 km,Diesel,136 CP,1 598 cm3,Fata,Euro 6,Manuala,Sedan,Belgia,Da,Da
+563,Altul Altul,5390,Altul,Altul,2011,24 750 km,Electric,34 CP,,,,Automata,Masina de oras,Germania,,Da
+564,Citroën C3,9200,Citroën,C3,2019,94 000 km,Benzina,82 CP,1 199 cm3,,,Manuala,Masina de oras,,,
+565,BMW Seria 3 335d Touring xDrive Aut.,22950,BMW,Seria 3,2017,114 209 km,Diesel,313 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,Combi,Germania,Da,Da
+566,Volkswagen Tiguan 2.0 TDI DPF 4Motion Aut. Trend&Fun,10500,Volkswagen,Tiguan,2009,136 586 km,Diesel,140 CP,1 968 cm3,4x4 (automat),,Automata,SUV,,,
+567,Mitsubishi Colt 1.3 Invite +,3500,Mitsubishi,Colt,2007,66 200 km,Benzina,95 CP,1 332 cm3,Fata,Euro 4,Manuala,Masina de oras,Romania,Da,Da
+568,BMW X5 xDrive30d,53950,BMW,X5,2019,171 502 km,Diesel,265 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,
+569,Ford Focus 1.6 TDCi DPF Start-Stopp-System Business,5200,Ford,Focus,2012,198 320 km,Diesel,115 CP,1 560 cm3,Fata,Euro 5,Manuala,Combi,Germania,Da,Da
+570,Nissan Navara Standard,8900,Nissan,Navara,2007,198 000 km,Diesel,174 CP,2 488 cm3,4x4 (manual),,Manuala,SUV,,,Da
+571,Volkswagen Transporter,17800,Volkswagen,Transporter,2012,192 000 km,Diesel,140 CP,1 968 cm3,,,Automata,Monovolum,,,
+572,BMW X5 xDrive30d,31892,BMW,X5,2018,225 000 km,Diesel,258 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+573,BMW X6 xDrive40d,29250,BMW,X6,2016,249 000 km,Diesel,313 CP,2 993 cm3,4x4 (automat),,Automata,SUV,,,
+574,Skoda Octavia 2.0 TDI (Green tec) DSG Style,14990,Skoda,Octavia,2018,199 000 km,Diesel,150 CP,1 968 cm3,,,Automata,Sedan,,,
+575,Volkswagen Golf 1.6 Comfortline,6550,Volkswagen,Golf,2009,145 000 km,Benzina,102 CP,1 595 cm3,Fata,Euro 5,Manuala,Compacta,Germania,Da,Da
+576,Kia Ceed 1.4 CVVT Vision,6850,Kia,Ceed,2012,139 000 km,Benzina,90 CP,1 396 cm3,Fata,Euro 5,Manuala,Compacta,Germania,Da,Da
+577,Smart Fortwo,3100,Smart,Fortwo,2009,121 632 km,Benzina,71 CP,999 cm3,Spate,,Automata,Monovolum,,,Da
+578,Audi Q2,24990,Audi,Q2,2021,49 211 km,Benzina,150 CP,1 498 cm3,Fata,,Automata,SUV,,,
+579,Volvo XC 60 D4 AWD Geartronic RDesign,26900,Volvo,XC 60,2018,203 000 km,Diesel,190 CP,1 969 cm3,4x4 (automat),Euro 6d,Automata,SUV,Belgia,Da,Da
+580,Renault Scenic,13990,Renault,Scenic,2020,181 000 km,Diesel,120 CP,1 749 cm3,Fata,Euro 6,Automata,Monovolum,,,Da
+581,Mercedes-Benz GLB 220 d 4MATIC Aut.,67521,Mercedes-Benz,GLB,2023,10 km,Diesel,190 CP,1 950 cm3,4x4 (automat),,Automata,SUV,,,Da
+582,Skoda Karoq 2.0 TDI 4X4 DSG Style,20490,Skoda,Karoq,2018,151 306 km,Diesel,150 CP,1 968 cm3,4x4 (automat),,Automata,SUV,,,
+583,Renault Kangoo dCi 70 Campus,3999,Renault,Kangoo,2009,250 000 km,Diesel,68 CP,1 461 cm3,Fata,,Manuala,Monovolum,,,
+584,BMW Seria 7 740Ld xDrive,58900,BMW,Seria 7,2019,86 300 km,Diesel,320 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,Sedan,Romania,,Da
+585,Audi A4 1.9 TDI Avant,5000,Audi,A4,2005,253 000 km,Diesel,100 CP,1 896 cm3,,,Manuala,Sedan,,,
+586,Audi A4,18790,Audi,A4,2018,179 000 km,Diesel,190 CP,1 968 cm3,Fata,Euro 6,Manuala,Sedan,Germania,Da,Da
+587,Dacia Duster 1.5 dCi 4x4 Laureate,12450,Dacia,Duster,2018,114 370 km,Diesel,110 CP,1 461 cm3,4x4 (manual),Euro 6,Manuala,SUV,Romania,,
+588,BMW Seria 3,1450,BMW,Seria 3,2003,370 000 km,Diesel,150 CP,1 995 cm3,Spate,,Manuala,Combi,,,
+589,Peugeot 208 1.2 L PureTech STT Active,13900,Peugeot,208,2023,3 km,Benzina,75 CP,1 199 cm3,Fata,Euro 6,Manuala,Masina de oras,Romania,,Da
+590,Renault Scenic,5900,Renault,Scenic,2012,242 000 km,Diesel,130 CP,1 598 cm3,Fata,Euro 5,Manuala,Monovolum,,Da,Da
+591,Skoda Fabia 1.6 TDI Active,4400,Skoda,Fabia,2013,240 000 km,Diesel,90 CP,1 598 cm3,Fata,,Manuala,Combi,,,
+592,Mitsubishi Outlander 2.2 DI-D 4WD Automatik Diamant Edition+,10500,Mitsubishi,Outlander,2015,301 000 km,Diesel,150 CP,2 268 cm3,,,Automata,SUV,,,
+593,Audi A4,4150,Audi,A4,2006,224 000 km,Diesel,115 CP,1 896 cm3,Fata,,Manuala,Sedan,,,
+594,Toyota RAV4 2.5 Hybrid VVT-iE 4x4 Luxury,33950,Toyota,RAV4,2020,47 000 km,Hibrid,178 CP,2 487 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+595,Land Rover Range Rover Sport 3.0 SDV6 SE,15300,Land Rover,Range Rover Sport,2012,180 000 km,Diesel,256 CP,2 993 cm3,4x4 (automat),,Automata,SUV,,,
+596,Skoda Octavia,3190,Skoda,Octavia,2006,224 000 km,Diesel,140 CP,1 984 cm3,,,Manuala,Combi,,,
+597,Renault Trafic 1.9 dCi L1H1,4299,Renault,Trafic,2005,290 000 km,Diesel,100 CP,1 870 cm3,Fata,,Manuala,Monovolum,,,
+598,Hyundai Altul,39999,Hyundai,Altul,2022,2 750 km,Benzina + CNG,265 CP,1 598 cm3,4x4 (automat),Euro 6d,Automata,SUV,Romania,Da,Da
+599,Land Rover Range Rover Sport 3.0 SDV6 HSE,12800,Land Rover,Range Rover Sport,2013,15 000 km,Diesel,256 CP,2 993 cm3,4x4 (automat),,Automata,SUV,,,Da
+600,Audi A3,21900,Audi,A3,2019,80 311 km,Benzina,150 CP,1 498 cm3,Fata,Euro 6,Manuala,Sedan,,,
+601,Volkswagen Passat CC 2.0 Blue TDI DSG,7950,Volkswagen,Passat CC,2009,278 000 km,Diesel,140 CP,1 968 cm3,Fata,,Automata,Sedan,,,
+602,Audi Q5 2.0 TDI Quattro Stronic,14800,Audi,Q5,2014,297 865 km,Diesel,177 CP,1 968 cm3,,,Automata,SUV,,,
+603,Renault Megane,2350,Renault,Megane,2007,197 000 km,Diesel,106 CP,1 461 cm3,Fata,Euro 4,Manuala,Masina de oras,Germania,Da,Da
+604,Volkswagen Passat CC 2.0 TDI BlueMotion Technology DSG,13799,Volkswagen,Passat CC,2013,196 000 km,Diesel,170 CP,1 968 cm3,Fata,Euro 5,Automata,Sedan,Germania,,Da
+605,BMW Seria 4 430d Cabrio Aut. M Sport,30000,BMW,Seria 4,2020,26 000 km,Diesel,258 CP,2 993 cm3,Spate,Euro 6,Automata,Cabrio,Italia,Da,Da
+606,BMW Seria 3 318d DPF Touring Aut. Edition Lifestyle,9900,BMW,Seria 3,2014,230 000 km,Diesel,143 CP,1 995 cm3,Spate,,Automata,Combi,,,
+607,Volkswagen Touareg 3.0 V6 TDI Blue Motion DPF Automatik,12500,Volkswagen,Touareg,2013,290 000 km,Diesel,245 CP,2 967 cm3,4x4 (manual),Euro 5,Automata,SUV,Germania,Da,Da
+608,Dacia Logan Van,2990,Dacia,Logan Van,2010,105 000 km,Diesel,75 CP,1 461 cm3,Fata,Euro 4,Manuala,Monovolum,Germania,,Da
+609,Mercedes-Benz AMG,330000,Mercedes-Benz,AMG,2022,11 000 km,Benzina,559 CP,3 982 cm3,,,Automata,SUV,,Da,
+610,Audi A5 Sportback 2.0 TDI Multitronic,13450,Audi,A5,2014,260 000 km,Diesel,177 CP,1 968 cm3,Fata,,Automata,Cabrio,,,
+611,BMW Seria 2 225d Coupe Aut. M Sport,20990,BMW,Seria 2,2018,233 000 km,Diesel,224 CP,1 995 cm3,Spate,Euro 6,Automata,Coupe,Germania,,
+612,Smart Fortwo,3400,Smart,Fortwo,2010,161 000 km,Benzina,71 CP,999 cm3,,Euro 5a,Automata,Masina mica,,Da,
+613,Skoda Octavia 1.6 TDI DPF DSG Elegance,11000,Skoda,Octavia,2014,300 000 km,Diesel,105 CP,1 598 cm3,,,Automata,Sedan,,,
+614,Audi A4 2.0 TDI B8,7490,Audi,A4,2012,208 000 km,Diesel,143 CP,1 968 cm3,Fata,Euro 5,Manuala,Sedan,Franta,,
+615,Audi e-tron Sportback 55 quattro,93888,Audi,e-tron,2022,11 330 km,Electric,408 CP,,4x4 (automat),,Automata,SUV,Germania,Da,Da
+616,Renault Megane II Sedan 1.5 dCi Pack Authentique,2200,Renault,Megane,2005,213 500 km,Diesel,82 CP,1 461 cm3,Fata,,Manuala,Sedan,Romania,,Da
+617,Ford Kuga 2.0 TDCi 4WD Titanium,10000,Ford,Kuga,2012,170 729 km,Diesel,140 CP,1 997 cm3,4x4 (manual),,Manuala,SUV,,,
+618,Mercedes-Benz C,19900,Mercedes-Benz,C,2016,155 000 km,Diesel,136 CP,1 598 cm3,Spate,Euro 6,Automata,Sedan,,Da,Da
+619,Opel Antara 2.0 Cosmo,6490,Opel,Antara,2010,161 600 km,Diesel,150 CP,1 991 cm3,4x4 (automat),Euro 5,Manuala,SUV,,Da,Da
+620,Hyundai ix35,10499,Hyundai,ix35,2011,159 000 km,Diesel,184 CP,1 995 cm3,,,Automata,SUV,,Da,Da
+621,Dodge Challenger,54728,Dodge,Challenger,2022,10 km,Benzina,309 CP,3 604 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+622,Ford Focus 1.6 TDCi DPF Start-Stopp-System,5499,Ford,Focus,2011,284 000 km,Diesel,115 CP,1 560 cm3,Fata,Euro 5,Manuala,Combi,Germania,Da,Da
+623,Ford Focus 1.6 TDCi DPF Start-Stopp-System Titanium,5490,Ford,Focus,2012,279 500 km,Diesel,115 CP,1 560 cm3,,,Manuala,Combi,,,
+624,BMW Seria 5 530e Touring Aut. Luxury Line,33600,BMW,Seria 5,2019,104 000 km,Hibrid,184 CP,1 998 cm3,,,Automata,Sedan,Germania,,Da
+625,Volvo V40 Cross Country D3,17000,Volvo,V40,2018,73 000 km,Diesel,150 CP,1 969 cm3,,,Manuala,Compacta,,,
+626,BMW Seria 3 318d,5500,BMW,Seria 3,2009,262 000 km,Diesel,143 CP,1 995 cm3,Spate,Euro 5,Manuala,Sedan,,,
+627,Dacia Logan MCV 1.0 SCe SL PLUS,7996,Dacia,Logan,2019,100 000 km,Benzina,73 CP,998 cm3,Fata,Euro 6,Manuala,Combi,Romania,Da,Da
+628,Opel Astra 1.6 CDTI DPF ecoFLEX Sports TourerStart/Stop Selection,6500,Opel,Astra,2015,204 000 km,Diesel,110 CP,1 598 cm3,Fata,Euro 6,Manuala,Combi,Germania,,Da
+629,Ford Ranger,43435,Ford,Ranger,2023,1 km,Diesel,213 CP,1 996 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+630,Volkswagen Sharan 2.0 TDI DPF Exclusive Edition,4750,Volkswagen,Sharan,2009,256 788 km,Diesel,140 CP,1 968 cm3,,,Manuala,Monovolum,,,
+631,Volkswagen Touareg 3.0 V6 TDI Blue Motion DPF Automatik,15900,Volkswagen,Touareg,2014,149 000 km,Diesel,245 CP,2 967 cm3,4x4 (manual),Euro 5,Automata,SUV,Germania,,
+632,Dacia Dokker dCi 75 Ambiance,7500,Dacia,Dokker,2019,133 000 km,Diesel,75 CP,1 461 cm3,Fata,Euro 6,Manuala,Monovolum,,,
+633,Volvo XC 40 T4 AWD Geartronic R-Design,35000,Volvo,XC 40,2020,60 000 km,Benzina,190 CP,1 969 cm3,4x4 (automat),Euro 6,Automata,SUV,Belgia,Da,Da
+634,Toyota Avensis 2.0 D-4D,4000,Toyota,Avensis,2007,167 000 km,Diesel,126 CP,1 998 cm3,Fata,,Manuala,Sedan,,,
+635,BMW X6 xDrive40d,33490,BMW,X6,2015,258 544 km,Diesel,313 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+636,Toyota Corolla 2.0 Hybrid Team Deutschland,20999,Toyota,Corolla,2019,76 000 km,Hibrid,152 CP,1 987 cm3,,,Automata,Masina de oras,,,
+637,BMW Seria 3 316d Touring Edition Luxury Line Purity,11499,BMW,Seria 3,2013,248 000 km,Diesel,116 CP,1 995 cm3,,,Manuala,Sedan,,Da,
+638,Hyundai Santa Fe 2.0 CRDi 4WD,1500,Hyundai,Santa Fe,2003,250 000 km,Diesel,112 CP,1 991 cm3,4x4 (automat),,Manuala,SUV,,,
+639,BMW Seria 6 640d xDrive M Sport Edition,27700,BMW,Seria 6,2014,215 300 km,Diesel,313 CP,2 993 cm3,4x4 (automat),Euro 5,Automata,Sedan,,,Da
+640,Ford Focus 1.6 TDCi DPF Trend,6550,Ford,Focus,2012,205 000 km,Diesel,95 CP,1 560 cm3,Fata,,Manuala,Sedan,Romania,Da,Da
+641,Ford C-Max 1.0 EcoBoost Start-Stopp-System Business Edition,7490,Ford,C-Max,2013,134 236 km,Benzina,125 CP,998 cm3,Fata,Euro 5,Manuala,Monovolum,Germania,Da,Da
+642,Renault Clio IV TCe Life Evo,8990,Renault,Clio,2019,26 700 km,Benzina,75 CP,898 cm3,Fata,Euro 6,Manuala,Compacta,Romania,Da,
+643,Land Rover Discovery Sport 2.0 P200 MHEV,39500,Land Rover,Discovery Sport,2020,26 000 km,Benzina,200 CP,1 997 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+644,Volkswagen Golf 2.0 FSI GTI,5350,Volkswagen,Golf,2005,257 831 km,Benzina,200 CP,1 984 cm3,Fata,,Manuala,Compacta,Germania,Da,Da
+645,BMW X2 xDrive20d AT Advantage,31990,BMW,X2,2020,45 000 km,Diesel,190 CP,1 995 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,
+646,Opel Astra 1.7 CDTI DPF Sport,5998,Opel,Astra,2010,171 300 km,Diesel,125 CP,1 686 cm3,Fata,Euro 5,Manuala,Compacta,,,
+647,Land Rover Range Rover Sport 3.0 I TDV6 HSE,14500,Land Rover,Range Rover Sport,2015,213 000 km,Diesel,258 CP,2 993 cm3,,Euro 6,Automata,SUV,,,Da
+648,Opel Astra Sports Tourer 1.6,4200,Opel,Astra,2013,340 000 km,Benzina + GPL,116 CP,1 598 cm3,Fata,Euro 5,Manuala,Combi,Ungaria,,
+649,Volkswagen Touran 1.9 TDI Conceptline,4290,Volkswagen,Touran,2008,247 000 km,Diesel,105 CP,1 896 cm3,Fata,,Manuala,Monovolum,,,
+650,Mercedes-Benz CLS 350 (BlueTEC) d 9G-TRONIC,25000,Mercedes-Benz,CLS,2014,147 000 km,Diesel,258 CP,2 987 cm3,Spate,,Automata,Coupe,,,
+651,Ford Focus 1.5 TDCi,18200,Ford,Focus,2019,185 000 km,Diesel,120 CP,1 498 cm3,,,Automata,Combi,,,
+652,Renault Scenic 1.5dCi Expression,4490,Renault,Scenic,2011,275 000 km,Diesel,110 CP,1 461 cm3,Fata,,Manuala,Monovolum,,,
+653,Ferrari 458 Italia,140000,Ferrari,458,2011,88 000 km,Benzina,570 CP,4 499 cm3,Spate,Euro 5,Automata,Coupe,Franta,,
+654,Ford EcoSport 1.0 Ecoboost Titanium,12990,Ford,EcoSport,2019,59 688 km,Benzina,100 CP,999 cm3,Fata,Euro 6,Manuala,SUV,Romania,Da,Da
+655,Audi S8 4.0 TFSI quattro Tiptronic,35900,Audi,S8,2014,217 000 km,Benzina,520 CP,3 993 cm3,4x4 (automat),Euro 5,Automata,Sedan,Germania,Da,
+656,Kia Ceed 1.4 CVVT Attract,4490,Kia,Ceed,2012,211 000 km,Benzina,90 CP,1 396 cm3,Fata,,Manuala,Combi,,,
+657,Porsche Panamera,59999,Porsche,Panamera,2017,185 000 km,Diesel,422 CP,3 956 cm3,4x4 (automat),Euro 6,Automata,Compacta,Romania,,
+658,Audi A4 2.0 TDI S tronic Design,21300,Audi,A4,2016,76 500 km,Diesel,150 CP,1 968 cm3,Fata,,Automata,Sedan,,,
+659,Hyundai ix35 2.0 CRDi 4WD Automatik Trend,9300,Hyundai,ix35,2013,144 000 km,Diesel,136 CP,1 995 cm3,4x4 (automat),Euro 5,Automata,SUV,Germania,,Da
+660,Porsche 911,165000,Porsche,911,2015,19 500 km,Benzina,520 CP,3 800 cm3,Spate,Euro 6,Automata,Coupe,,Da,
+661,Opel Vectra,1700,Opel,Vectra,2007,285 000 km,Diesel,184 CP,2 958 cm3,Fata,,Automata,Combi,,,
+662,Land Rover Range Rover Vogue,80000,Land Rover,Range Rover Vogue,2019,76 960 km,Diesel,275 CP,2 997 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+663,Volkswagen Polo 1.6 TDI Blue Motion Style,5150,Volkswagen,Polo,2011,220 000 km,Diesel,90 CP,1 598 cm3,,,Manuala,Masina de oras,,,
+664,Volkswagen Transporter Kombi T6 2.0 TDI 110 kW LR,17450,Volkswagen,Transporter,2016,310 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6b,Manuala,Monovolum,Germania,Da,
+665,Ford Fiesta 1.5 TDCi Titanium,4400,Ford,Fiesta,2013,165 000 km,Diesel,95 CP,1 498 cm3,Fata,,Manuala,Compacta,,,
+666,Opel Crossland X 1.6 CDTI Innovation,12480,Opel,Crossland,2019,65 000 km,Diesel,101 CP,1 560 cm3,Fata,Euro 6b,Manuala,SUV,Spania,,Da
+667,Skoda Octavia 2.0 TDI DSG Style,13150,Skoda,Octavia,2017,191 000 km,Diesel,149 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Romania,Da,
+668,Land Rover Range Rover Evoque,17800,Land Rover,Range Rover Evoque,2015,195 000 km,Diesel,150 CP,2 179 cm3,4x4 (automat),,Automata,SUV,,,
+669,BMW X5 xDrive40d Edition Exclusive,13499,BMW,X5,2010,241 233 km,Diesel,306 CP,2 993 cm3,,,Automata,SUV,,,
+670,Porsche Cayenne Turbo,199801,Porsche,Cayenne,2023,1 km,Benzina,550 CP,3 996 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+671,Mercedes-Benz GLE Coupe 450 d 4Matic 9G-TRONIC AMG Line Advanced Plus,121261,Mercedes-Benz,GLE Coupe,2023,10 km,Diesel,367 CP,2 989 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+672,BMW Seria 4 418d Gran Coupe Advantage,17255,BMW,Seria 4,2017,173 122 km,Diesel,150 CP,1 995 cm3,Fata,Euro 6,Manuala,Sedan,Belgia,,
+673,Skoda Superb 2.0 TDI DSG Ambition,20600,Skoda,Superb,2017,95 000 km,Diesel,150 CP,1 968 cm3,,,Automata,Sedan,,,
+674,Nissan Qashqai 1.5 DCI Start/Stop Acenta,10500,Nissan,Qashqai,2015,250 000 km,Diesel,110 CP,1 461 cm3,,,Manuala,SUV,,,
+675,Renault Scenic,6550,Renault,Scenic,2012,142 000 km,Diesel,110 CP,1 461 cm3,,,Automata,Monovolum,Austria,Da,Da
+676,Dacia Duster 1.6 16V 105 4x2 Laureate,6500,Dacia,Duster,2011,190 000 km,Benzina,105 CP,1 598 cm3,,,Manuala,SUV,,,
+677,Jeep Grand Cherokee,5950,Jeep,Grand Cherokee,2004,214 000 km,Diesel,163 CP,2 685 cm3,,,Automata,SUV,,,
+678,Daihatsu Feroza,3100,Daihatsu,Feroza,1990,79 852 km,Benzina,95 CP,1 600 cm3,,,Manuala,SUV,,,
+679,BMW Seria 3 320d DPF Touring Aut. Edition Fleet Exclusive,5390,BMW,Seria 3,2007,254 100 km,Diesel,163 CP,1 995 cm3,Spate,Euro 4,Automata,Combi,Germania,,
+680,Skoda Superb 1.6 TDI GreenLine,6650,Skoda,Superb,2013,193 800 km,Diesel,105 CP,1 598 cm3,Fata,,Manuala,Combi,,,
+681,Mercedes-Benz CLA 200 d 7G-DCT UrbanStyle Edition,18390,Mercedes-Benz,CLA,2017,176 000 km,Diesel,136 CP,2 143 cm3,,,Automata,Sedan,Italia,,Da
+682,Mercedes-Benz B,10950,Mercedes-Benz,B,2013,190 658 km,Diesel,136 CP,1 796 cm3,Fata,Euro 5,Automata,Monovolum,Germania,,Da
+683,Skoda Octavia 2.0 TDI DSG Drive,15000,Skoda,Octavia,2018,182 425 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Germania,,Da
+684,Volkswagen Tiguan,29799,Volkswagen,Tiguan,2020,93 000 km,Diesel,191 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+685,BMW Seria 3 318i Touring,1299,BMW,Seria 3,2002,200 000 km,Benzina,143 CP,1 995 cm3,,,Manuala,Sedan,,,
+686,BMW M6 Coupe,38000,BMW,M6,2015,146 000 km,Benzina,560 CP,4 395 cm3,Spate,,Automata,Coupe,Germania,,Da
+687,Porsche Macan S Diesel PDK,33990,Porsche,Macan,2015,212 000 km,Diesel,258 CP,2 967 cm3,4x4 (automat),Euro 5,Automata,SUV,Franta,Da,Da
+688,Nissan Navara Standard,7200,Nissan,Navara,2008,260 000 km,Diesel,171 CP,2 488 cm3,4x4 (manual),Euro 4,Manuala,SUV,,,
+689,Nissan Navara Standard,7200,Nissan,Navara,2008,260 000 km,Diesel,171 CP,2 488 cm3,4x4 (manual),Euro 4,Manuala,SUV,,,
+690,BMW X1 xDrive20d AT,34000,BMW,X1,2021,34 000 km,Diesel,190 CP,1 995 cm3,4x4 (automat),,Automata,SUV,,,
+691,Dacia Logan 1.4,3000,Dacia,Logan,2008,65 000 km,Benzina,75 CP,1 390 cm3,Fata,,Manuala,Sedan,,,
+692,Volvo S60 D2,13000,Volvo,S60,2017,133 000 km,Diesel,120 CP,1 969 cm3,,,Manuala,Sedan,,,
+693,Toyota Auris 2.0 D-4D Edition,6350,Toyota,Auris,2012,239 500 km,Diesel,126 CP,1 998 cm3,,,Manuala,Compacta,,,
+694,Fiat Ducato Maxi Cabinato CD 2.3 Mjet 140 E6D L5 H1,19950,Fiat,Ducato,2021,387 616 km,Diesel,140 CP,2 287 cm3,Fata,,Manuala,Monovolum,Romania,,
+695,Mercedes-Benz S AMG 63 Coupe 4Matic AMG Speedshift 7G-MCT,128980,Mercedes-Benz,S,2017,63 000 km,Benzina,585 CP,5 461 cm3,4x4 (automat),Euro 6,Automata,Coupe,,,Da
+696,Mercedes-Benz GLE Coupe 43 AMG 4MATIC,52955,Mercedes-Benz,GLE Coupe,2018,112 000 km,Benzina,367 CP,2 996 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,
+697,Audi Q7,86979,Audi,Q7,2020,58 721 km,Hibrid,340 CP,2 995 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+698,Citroën C4 Cactus VTi 82 Feel,7250,Citroën,C4 Cactus,2016,168 735 km,Benzina,82 CP,1 199 cm3,Fata,Euro 6,Manuala,SUV,,,
+699,Mercedes-Benz B 180 (CDI) d 7G-DCT,15000,Mercedes-Benz,B,2016,177 000 km,Diesel,109 CP,1 461 cm3,Fata,,Automata,Masina de oras,Germania,,Da
+700,Hyundai I30 1.4 100CP 5DR M/T Classic,13999,Hyundai,I30,2020,20 000 km,Benzina,100 CP,1 368 cm3,,Euro 6,Manuala,Compacta,Romania,Da,
+701,Volkswagen Golf 1.9 TDI Comfortline,4890,Volkswagen,Golf,2009,213 126 km,Diesel,105 CP,1 896 cm3,Fata,Euro 5,Manuala,Masina mica,,Da,Da
+702,Volkswagen Passat Variant 2.0 TDI (BlueMotion Technology) Highline,14290,Volkswagen,Passat,2020,179 900 km,Diesel,150 CP,1 968 cm3,,Euro 6,Manuala,Combi,Germania,Da,Da
+703,Audi A4 35 TDI S tronic S Line,20390,Audi,A4,2021,158 600 km,Diesel,163 CP,1 968 cm3,,,Automata,Sedan,,,
+704,Renault Kadjar 1.5 DCI EDC Intens,15000,Renault,Kadjar,2016,160 000 km,Diesel,110 CP,1 461 cm3,Fata,Euro 6,Automata,SUV,Olanda,,Da
+705,Audi A1 1.6 TDI Sportback Attraction,7490,Audi,A1,2013,167 120 km,Diesel,105 CP,1 598 cm3,Fata,Euro 5,Manuala,Masina de oras,Germania,,Da
+706,Ford Mondeo 2.0 TDCi Business,7500,Ford,Mondeo,2016,300 000 km,Diesel,150 CP,1 997 cm3,Fata,Euro 6,Manuala,Combi,Germania,,Da
+707,Fiat Tipo,18354,Fiat,Tipo,2020,1 km,Benzina,100 CP,999 cm3,Fata,Euro 6,Manuala,Compacta,,Da,Da
+708,Ford Kuga 2.0L TDCi DPF Titanium,7790,Ford,Kuga,2009,221 327 km,Diesel,136 CP,1 997 cm3,4x4 (automat),Euro 5,Manuala,SUV,,Da,Da
+709,Audi A4 1.9 TDI,3800,Audi,A4,2006,221 000 km,Diesel,115 CP,1 896 cm3,,,Manuala,Sedan,,,
+710,Mercedes-Benz GLE,55500,Mercedes-Benz,GLE,2020,139 447 km,Diesel,272 CP,2 925 cm3,,,Automata,SUV,,,Da
+711,Dacia Spring Cargo Electric 45 (33kW),9800,Dacia,Spring,2022,19 000 km,Electric,45 CP,,Fata,,Automata,Masina de oras,,,
+712,Land Rover Range Rover Evoque,15990,Land Rover,Range Rover Evoque,2012,154 900 km,Diesel,190 CP,2 179 cm3,4x4 (automat),Euro 5,Automata,SUV,,Da,Da
+713,Toyota Camry 2.5 Hybrid Business,40488,Toyota,Camry,2023,9 000 km,Hibrid,178 CP,2 487 cm3,Fata,Euro 6d,Automata,Sedan,Romania,,
+714,Skoda Fabia 1.4 TDI Classic,3199,Skoda,Fabia,2009,250 087 km,Diesel,80 CP,1 422 cm3,Fata,Euro 4,Manuala,Compacta,Franta,,Da
+715,Bentley Bentayga,344900,Bentley,Bentayga,2023,4 500 km,Benzina,550 CP,3 996 cm3,4x4 (automat),Euro 6d,Automata,SUV,Romania,,
+716,Mercedes-Benz GLC Coupe 250 d 4MATIC,42349,Mercedes-Benz,GLC Coupe,2017,63 195 km,Diesel,204 CP,2 143 cm3,4x4 (automat),Euro 6d,Automata,Coupe,Romania,,
+717,Fiat 500 1.2 8V Lounge,6300,Fiat,500,2014,93 000 km,Benzina,69 CP,1 242 cm3,,,Manuala,Masina de oras,,,
+718,BMW X5 xDrive40i,63000,BMW,X5,2019,88 000 km,Benzina,340 CP,2 998 cm3,4x4 (automat),,Automata,SUV,,,
+719,BMW Seria 2 218i Gran Coupe Aut. M Sport,23990,BMW,Seria 2,2020,160 000 km,Benzina,140 CP,1 499 cm3,Fata,Euro 6d-Temp,Automata,Sedan,Germania,,Da
+720,BMW X3,14490,BMW,X3,2011,220 000 km,Diesel,184 CP,1 995 cm3,4x4 (automat),Euro 5,Automata,SUV,Germania,,Da
+721,Nissan Juke,7750,Nissan,Juke,2013,221 000 km,Diesel,110 CP,1 461 cm3,,,Manuala,SUV,,,
+722,Toyota Land Cruiser 3.0 TD-4D Aut Executive,15000,Toyota,Land Cruiser,2008,351 000 km,Diesel,173 CP,2 982 cm3,4x4 (automat),,Automata,SUV,,,Da
+723,Audi A6 Avant 2.0 TDI DPF multitronic,12800,Audi,A6,2014,322 000 km,Diesel,177 CP,1 968 cm3,,,Automata,Combi,,,
+724,BMW Seria 5,3900,BMW,Seria 5,2004,246 000 km,Diesel,177 CP,2 497 cm3,Spate,,Automata,Sedan,,,
+725,Audi Q8,66730,Audi,Q8,2019,97 322 km,Diesel,286 CP,2 967 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+726,Land Rover Range Rover Evoque,33490,Land Rover,Range Rover Evoque,2019,90 870 km,Diesel,180 CP,1 999 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+727,Hyundai i20,4000,Hyundai,i20,2010,204 000 km,Benzina,78 CP,1 248 cm3,Fata,,Manuala,Masina de oras,Germania,,Da
+728,Mercedes-Benz GLA 250 4MATIC Aut.,53485,Mercedes-Benz,GLA,2023,10 km,Benzina,224 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+729,Volkswagen T-ROC 2.0 TDI DSG Style,19990,Volkswagen,T-ROC,2020,184 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,SUV,Franta,Da,Da
+730,Renault Kadjar Energy dCi 130 LIMITED,12250,Renault,Kadjar,2016,180 000 km,Diesel,130 CP,1 598 cm3,Fata,Euro 6,Manuala,SUV,Italia,,
+731,Volkswagen Tiguan,10690,Volkswagen,Tiguan,2013,170 000 km,Benzina,160 CP,1 390 cm3,4x4 (manual),Euro 5,Manuala,SUV,Germania,Da,Da
+732,Toyota Land Cruiser,8500,Toyota,Land Cruiser,1999,369 000 km,Diesel,125 CP,3 000 cm3,4x4 (automat),,Manuala,SUV,,,Da
+733,BMW Seria 3 320d,5300,BMW,Seria 3,2008,280 000 km,Diesel,177 CP,1 995 cm3,Spate,Euro 5,Manuala,Masina de oras,Germania,,
+734,Opel Astra 1.6 Cosmo,3450,Opel,Astra,2009,218 000 km,Benzina,116 CP,1 598 cm3,,,Manuala,Combi,,,
+735,Opel Astra 1.4 Turbo Cosmo,5700,Opel,Astra,2011,188 000 km,Benzina,140 CP,1 364 cm3,,,Manuala,Combi,,,
+736,Mercedes-Benz CLS 400 d 4Matic 9G-TRONIC AMG Line,55000,Mercedes-Benz,CLS,2020,121 000 km,Diesel,340 CP,2 925 cm3,4x4 (manual),Euro 6,Automata,Coupe,Germania,Da,Da
+737,Hyundai Santa Fe 2.2 DSL VGT 7 SEATS 4WD FULL,3900,Hyundai,Santa Fe,2007,213 998 km,Diesel,150 CP,2 188 cm3,4x4 (manual),Euro 4,Manuala,SUV,Romania,Da,Da
+738,Audi A1 1.4 TDI (ultra) Sportback,10980,Audi,A1,2018,173 600 km,Diesel,90 CP,1 422 cm3,Fata,Euro 6,Manuala,Masina mica,Olanda,,Da
+739,Peugeot 3008 1.5 BlueHDI S&S EAT8 Allure,21490,Peugeot,3008,2018,135 200 km,Diesel,130 CP,1 499 cm3,Fata,Euro 6b,Automata,SUV,Germania,,Da
+740,Dacia Duster,5999,Dacia,Duster,2013,126 000 km,Benzina,105 CP,1 598 cm3,,Euro 5,Manuala,SUV,Belgia,Da,Da
+741,Skoda Octavia Combi Diesel 1.6 TDI DSG Style,11721,Skoda,Octavia,2018,224 000 km,Diesel,116 CP,1 598 cm3,Fata,Euro 6,Automata,Combi,Belgia,,Da
+742,Hyundai Santa Fe 2.2 DSL VGT 7 SEATS 4WD FULL,3900,Hyundai,Santa Fe,2007,213 998 km,Diesel,150 CP,2 188 cm3,4x4 (manual),Euro 4,Manuala,SUV,Romania,Da,Da
+743,Mercedes-Benz C 200 d 9G-TRONIC AMG Line,23980,Mercedes-Benz,C,2017,163 800 km,Diesel,160 CP,1 598 cm3,Spate,Euro 6b,Automata,Sedan,Belgia,,
+744,Hyundai ix35 2.0 CRDI High 4WD GLS Aut. Premium+,10900,Hyundai,ix35,2011,129 000 km,Diesel,184 CP,1 995 cm3,4x4 (automat),Euro 5,Automata,SUV,Romania,,Da
+745,Volkswagen Passat Variant 2.0 TDI BlueMotion Technology DSG Highline,9250,Volkswagen,Passat,2013,210 000 km,Diesel,140 CP,1 968 cm3,Fata,Euro 5,Automata,Combi,Germania,Da,Da
+746,Volkswagen up!,6990,Volkswagen,up!,2013,49 700 km,Benzina,75 CP,999 cm3,Fata,Euro 5,Automata,Masina mica,Romania,,
+747,Audi A5 Coupe 2.0 TFSI Multitronic,9990,Audi,A5,2011,217 000 km,Benzina,211 CP,1 984 cm3,Fata,Euro 5,Automata,Coupe,,,Da
+748,Renault Grand Scenic,3720,Renault,Grand Scenic,2010,219 000 km,Diesel,106 CP,1 461 cm3,Fata,,Manuala,Monovolum,Germania,,
+749,Renault Grand Scenic ENERGY dCi 160 EDC BOSE EDITION,14390,Renault,Grand Scenic,2017,120 509 km,Diesel,160 CP,1 598 cm3,Fata,Euro 6,Automata,Monovolum,Germania,Da,Da
+750,Volvo XC 60 D3 Kinetic,10990,Volvo,XC 60,2012,279 000 km,Diesel,163 CP,1 984 cm3,Fata,Euro 5,Manuala,SUV,,Da,Da
+751,Mercedes-Benz C,7299,Mercedes-Benz,C,2009,226 000 km,Diesel,170 CP,2 148 cm3,,,Manuala,Sedan,,Da,
+752,Mercedes-Benz CLA,22500,Mercedes-Benz,CLA,2016,103 500 km,Benzina,156 CP,1 595 cm3,Fata,Euro 6,Automata,Coupe,Romania,,
+753,Opel Astra 1.7 CDTI Cosmo,2900,Opel,Astra,2010,212 046 km,Diesel,100 CP,1 686 cm3,Fata,,Manuala,Masina mica,,,
+754,Audi A5 2.0 TDI Sportback DPF (clean diesel),17199,Audi,A5,2017,99 000 km,Diesel,150 CP,1 968 cm3,Fata,,Manuala,Sedan,,,
+755,Volkswagen Polo 1.2 Comfortline,3200,Volkswagen,Polo,2007,131 461 km,Benzina,60 CP,1 198 cm3,Fata,,Manuala,Masina de oras,,,
+756,BMW Seria 4 420d Gran Coupe Sport-Aut. Luxury Line,21000,BMW,Seria 4,2015,160 860 km,Diesel,190 CP,1 995 cm3,Spate,,Automata,Coupe,Olanda,,Da
+757,Ford Focus 1.6 TDCi ECOnetic 88g Start-Stopp-System Titanium,6800,Ford,Focus,2012,280 000 km,Diesel,105 CP,1 560 cm3,,,Manuala,Compacta,,,
+758,Mazda 6,2000,Mazda,6,2007,162 173 km,Diesel,120 CP,1 998 cm3,Fata,,Manuala,Sedan,,,
+759,Dacia Dokker 1.5 dCi 75 CP Ambiance,6800,Dacia,Dokker,2018,195 000 km,Diesel,75 CP,1 461 cm3,Fata,Euro 6,Manuala,Monovolum,Romania,Da,Da
+760,Mercedes-Benz GLC 250 4Matic 9G-TRONIC Exclusive,26000,Mercedes-Benz,GLC,2019,132 349 km,Benzina,211 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,SUV,Belgia,Da,Da
+761,Fiat 500 1.2 8V Anniversario,3999,Fiat,500,2011,115 000 km,Benzina,69 CP,1 242 cm3,Fata,Euro 5,Manuala,Masina de oras,Germania,,
+762,Fiat Tipo,7999,Fiat,Tipo,2019,60 700 km,Benzina,95 CP,1 368 cm3,Fata,Euro 6d,Manuala,Sedan,Romania,Da,
+763,Mercedes-Benz S 400 d 4MATIC Long Aut,126489,Mercedes-Benz,S,2021,23 480 km,Diesel,330 CP,2 925 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+764,Mercedes-Benz E 220 d 9G-TRONIC AMG Line,31700,Mercedes-Benz,E,2017,112 000 km,Diesel,194 CP,1 950 cm3,Spate,,Automata,Sedan,Germania,,Da
+765,Mazda BT-50 XL-Cab Topland,7699,Mazda,BT-50,2009,271 000 km,Diesel,143 CP,2 499 cm3,4x4 (manual),Euro 4,Manuala,SUV,Germania,,
+766,Skoda Octavia 1.6 MPI Classic,1850,Skoda,Octavia,2008,418 000 km,Benzina,102 CP,1 595 cm3,Fata,,Manuala,Compacta,,,
+767,Skoda Octavia 1.6 TDI Classic,6350,Skoda,Octavia,2014,403 000 km,Diesel,105 CP,1 598 cm3,,,Manuala,Sedan,,,
+768,Volkswagen Golf 1.2 TSI Comfortline,4300,Volkswagen,Golf,2011,217 000 km,Benzina,105 CP,1 197 cm3,,,Manuala,Compacta,,Da,
+769,Dacia Sandero 1.5 Blue dCi SL PLUS,8499,Dacia,Sandero,2017,136 000 km,Diesel,75 CP,1 461 cm3,,,Manuala,Compacta,,,
+770,Peugeot 5008,34900,Peugeot,5008,2021,64 000 km,Diesel,177 CP,1 997 cm3,Fata,Euro 6,Automata,SUV,Germania,Da,Da
+771,Renault 4,5690,Renault,4,2014,167 000 km,Diesel,90 CP,1 490 cm3,,,Manuala,Masina de oras,,,
+772,Opel Crossland X 1.2 ECOTEC Start/Stop Enjoy,9500,Opel,Crossland,2020,147 000 km,Benzina,110 CP,1 199 cm3,Fata,Euro 6,Manuala,SUV,,Da,
+773,BMW Seria 3 320d xDrive DPF Touring Edition Exclusive,7200,BMW,Seria 3,2010,240 000 km,Diesel,184 CP,1 995 cm3,,,Manuala,Combi,,,
+774,Volkswagen Transporter,4600,Volkswagen,Transporter,2001,374 300 km,Diesel,102 CP,2 461 cm3,Fata,,Manuala,Monovolum,,,
+775,Mercedes-Benz E,3990,Mercedes-Benz,E,2000,249 000 km,Diesel,143 CP,2 148 cm3,Spate,Euro 3,Automata,Sedan,Spania,,
+776,Mercedes-Benz A 160,1785,Mercedes-Benz,A,2002,635 000 km,Benzina,102 CP,1 598 cm3,Fata,,Manuala,Compacta,,,
+777,Mercedes-Benz GLC Coupe 250 d 4MATIC,38500,Mercedes-Benz,GLC Coupe,2018,143 000 km,Diesel,204 CP,2 143 cm3,4x4 (automat),,Automata,SUV,Romania,,
+778,BMW X3 xDrive20d Aut.,29990,BMW,X3,2018,178 000 km,Diesel,190 CP,1 995 cm3,4x4 (manual),Euro 6,Automata,SUV,Franta,Da,
+779,Maserati Levante S Q4,35000,Maserati,Levante,2017,147 000 km,Benzina,430 CP,2 979 cm3,4x4 (manual),,Automata,SUV,,,
+780,Volkswagen Passat CC 2.0 TDI DSG 4Motion BMT,13950,Volkswagen,Passat CC,2014,152 000 km,Diesel,177 CP,1 968 cm3,4x4 (automat),Euro 5,Automata,Sedan,Germania,,
+781,Skoda Octavia,22890,Skoda,Octavia,2020,33 614 km,Benzina,149 CP,1 498 cm3,Fata,Euro 6,Manuala,Sedan,Romania,,Da
+782,Rolls-Royce Cullinan Standard,439110,Rolls-Royce,Cullinan,2019,21 000 km,Benzina,571 CP,6 749 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+783,Citroën C3,11378,Citroën,C3,2022,1 km,Benzina,83 CP,1 199 cm3,Fata,Euro 6,Manuala,Masina de oras,,Da,Da
+784,Citroën Nemo Multispace HDi 75 Attraction,4490,Citroën,Nemo,2013,112 000 km,Diesel,75 CP,1 248 cm3,Fata,Euro 5,Manuala,Compacta,Italia,,Da
+785,Skoda Superb 2.0 TDI 4X4 DSG Laurin & Klement,23800,Skoda,Superb,2018,168 990 km,Diesel,190 CP,1 968 cm3,4x4 (automat),,Automata,Sedan,,,
+786,BMW Seria 5 520i MHEV,40300,BMW,Seria 5,2021,22 848 km,Benzina,184 CP,1 998 cm3,Spate,Euro 6d,Automata,Sedan,Germania,,Da
+787,Volkswagen Tiguan 2.0 TSI DSG 4Mot Highline,24029,Volkswagen,Tiguan,2019,129 907 km,Benzina,190 CP,1 984 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+788,Mercedes-Benz GLE 450 MHEV 4MATIC,97000,Mercedes-Benz,GLE,2023,2 438 km,Benzina,381 CP,2 999 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+789,Mercedes-Benz B,3750,Mercedes-Benz,B,2007,237 943 km,Diesel,140 CP,1 991 cm3,,,Automata,Masina mica,,,
+790,BMW M2 Competition Coupe DKG,56500,BMW,M2,2019,52 500 km,Benzina,410 CP,2 979 cm3,,,Automata,Masina mica,,,
+791,Audi R8,149999,Audi,R8,2019,45 000 km,Benzina,620 CP,5 204 cm3,4x4 (automat),Euro 6d-Temp,Automata,Coupe,,,
+792,Volvo XC 90 B5 D AWD Geartronic Momentum,31900,Volvo,XC 90,2017,169 950 km,Diesel,235 CP,1 969 cm3,4x4 (automat),Euro 6,Automata,SUV,Ungaria,,
+793,Mercedes-Benz A,18500,Mercedes-Benz,A,2018,100 000 km,Benzina,109 CP,1 595 cm3,,,Manuala,Compacta,Austria,,Da
+794,Volkswagen Passat,3300,Volkswagen,Passat,2007,227 159 km,Diesel,130 CP,1 896 cm3,,,Manuala,Compacta,,,
+795,Volkswagen Transporter,11500,Volkswagen,Transporter,2012,315 000 km,Diesel,102 CP,1 968 cm3,,,Manuala,Monovolum,,,
+796,Hyundai ix35,6950,Hyundai,ix35,2012,296 000 km,Diesel,136 CP,1 995 cm3,,,Manuala,SUV,,,
+797,Mercedes-Benz GLE 400 d 4MATIC,111638,Mercedes-Benz,GLE,2022,10 km,Diesel,330 CP,2 925 cm3,4x4 (automat),,Automata,Coupe,,,Da
+798,Nissan Qashqai 1.2 DIG-T Start/Stop Tekna,12450,Nissan,Qashqai,2015,125 884 km,Benzina,115 CP,1 197 cm3,Fata,,Manuala,SUV,,,Da
+799,Seat Leon 1.2 TSI Start&Stop Style,10300,Seat,Leon,2016,91 000 km,Benzina,110 CP,1 197 cm3,Fata,Euro 6,Manuala,Compacta,Romania,,
+800,Ford Transit Connect 1.5 TDCI Combi Commercial LWB(L2) N1 Trend,13950,Ford,Transit Connect,2017,110 000 km,Diesel,100 CP,1 498 cm3,Fata,Euro 6,Manuala,Monovolum,Romania,,
+801,Opel Astra,6950,Opel,Astra,2017,229 000 km,Diesel,136 CP,1 598 cm3,Fata,Euro 6,Manuala,Combi,Germania,,Da
+802,Volkswagen Touareg,24500,Volkswagen,Touareg,2017,105 000 km,Diesel,262 CP,2 967 cm3,4x4 (automat),,Automata,SUV,,,
+803,Peugeot 3008,33944,Peugeot,3008,2021,62 780 km,Hibrid,299 CP,1 598 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+804,Audi Q5 2.0 TDI Quattro,9990,Audi,Q5,2009,244 000 km,Diesel,170 CP,1 968 cm3,4x4 (automat),,Manuala,SUV,Franta,Da,Da
+805,Audi A4 2.0 TDI B8,6200,Audi,A4,2009,283 000 km,Diesel,136 CP,1 968 cm3,Fata,Euro 4,Manuala,Combi,Germania,,Da
+806,BMW Seria 5 520d,11250,BMW,Seria 5,2013,310 000 km,Diesel,184 CP,1 995 cm3,Spate,,Automata,Sedan,,,
+807,Toyota Avensis,2600,Toyota,Avensis,2008,252 896 km,Diesel,150 CP,2 231 cm3,,,Manuala,Compacta,,,
+808,Nissan Qashqai,9300,Nissan,Qashqai,2013,160 000 km,Diesel,110 CP,1 461 cm3,Fata,Euro 5,Manuala,SUV,Franta,,Da
+809,Mazda CX-5,15250,Mazda,CX-5,2017,99 000 km,Diesel,150 CP,2 191 cm3,,,Manuala,SUV,Italia,Da,Da
+810,Volvo V60,13600,Volvo,V60,2014,188 418 km,Hibrid,,,4x4 (automat),,Automata,Combi,,,Da
+811,Audi A4 Avant 2.0 TDI S tronic Sport,19249,Audi,A4,2018,138 968 km,Diesel,150 CP,1 968 cm3,Fata,,Automata,Combi,,,Da
+812,Ford Mondeo 2.0 TDCi Powershift Titanium,15950,Ford,Mondeo,2018,130 370 km,Diesel,150 CP,1 997 cm3,Fata,,Automata,Sedan,,,Da
+813,Nissan Qashqai 1.6 DCI Start/Stop X-TRONIC Acenta,15250,Nissan,Qashqai,2016,141 147 km,Diesel,130 CP,1 598 cm3,Fata,,Automata,SUV,,,Da
+814,BMW X5 xDrive30d AT MHEV,76900,BMW,X5,2021,29 800 km,Diesel,286 CP,2 993 cm3,4x4 (automat),,Automata,SUV,Germania,,Da
+815,Volkswagen Golf Variant 1.6 TDI DPF Style,5990,Volkswagen,Golf,2011,200 300 km,Diesel,105 CP,1 598 cm3,Fata,Euro 5,Manuala,Combi,Germania,,Da
+816,Audi A3 Sportback 1.4 TFSI Ambition,5800,Audi,A3,2009,145 000 km,Benzina,125 CP,1 390 cm3,Fata,Euro 5,Manuala,Combi,,,
+817,Mercedes-Benz GLC Coupe 250 4MATIC,36750,Mercedes-Benz,GLC Coupe,2019,123 000 km,Benzina,211 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+818,Audi Q5 2.0 TDI Quattro S tronic Sport,35000,Audi,Q5,2017,94 000 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+819,Mercedes-Benz ML 350 BlueTec 4MATIC Aut,27000,Mercedes-Benz,ML,2013,182 000 km,Diesel,258 CP,2 987 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+820,Ford Focus 1.5 EcoBlue Trend,15999,Ford,Focus,2021,28 560 km,Diesel,120 CP,1 499 cm3,Fata,,Manuala,Compacta,,,Da
+821,Ford Focus 1.5 EcoBlue Trend,15499,Ford,Focus,2021,44 839 km,Diesel,120 CP,1 499 cm3,Fata,,Manuala,Compacta,,,Da
+822,Land Rover Defender 110 3.0D 300 X,119487,Land Rover,Defender,2023,1 km,Diesel,300 CP,2 996 cm3,4x4 (automat),Euro 6,Automata,SUV,Slovacia,,Da
+823,Renault Clio V Blue dCi Life,11399,Renault,Clio,2020,98 655 km,Diesel,85 CP,1 461 cm3,Fata,,Manuala,Masina de oras,,,Da
+824,BMW X4 M M40d,40790,BMW,X4 M,2020,131 000 km,Diesel,326 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+825,Ford Mondeo 2.0 TDCi Aut. Titanium,20949,Ford,Mondeo,2021,44 438 km,Diesel,150 CP,1 997 cm3,Fata,,Automata,Compacta,,,Da
+826,Ford Focus 1.5 EcoBlue Trend,15699,Ford,Focus,2021,33 387 km,Diesel,120 CP,1 499 cm3,Fata,,Manuala,Compacta,,,Da
+827,Renault Clio V Blue dCi Life,11399,Renault,Clio,2020,98 655 km,Diesel,85 CP,1 461 cm3,Fata,,Manuala,Masina de oras,,,Da
+828,Ford Mondeo 2.0 TDCi Aut. Titanium,20949,Ford,Mondeo,2021,44 438 km,Diesel,150 CP,1 997 cm3,Fata,,Automata,Compacta,,,Da
+829,Ford Focus 1.5 EcoBlue Trend,15699,Ford,Focus,2021,33 387 km,Diesel,120 CP,1 499 cm3,Fata,,Manuala,Compacta,,,Da
+830,Volkswagen Polo 1.4 TDI CR BMT Comfortline,9299,Volkswagen,Polo,2017,64 368 km,Diesel,90 CP,1 422 cm3,Fata,,Manuala,Masina de oras,,,Da
+831,BMW Seria 3,10000,BMW,Seria 3,2011,161 000 km,Benzina,170 CP,1 995 cm3,Spate,Euro 5,Manuala,Sedan,Germania,,
+832,Opel Zafira 1.8i Elegance,2350,Opel,Zafira,2001,152 000 km,Benzina + GPL,125 CP,1 796 cm3,Fata,Euro 4,Manuala,Combi,,,
+833,Skoda RAPID 1.4 TDI Ambition,9999,Skoda,RAPID,2017,95 448 km,Diesel,90 CP,1 422 cm3,Fata,,Manuala,Sedan,,,Da
+834,Renault Clio V Blue dCi Life,11698,Renault,Clio,2020,84 002 km,Diesel,85 CP,1 461 cm3,Fata,,Manuala,Masina de oras,,,Da
+835,Renault Clio V Blue dCi Life,11698,Renault,Clio,2020,84 551 km,Diesel,85 CP,1 461 cm3,Fata,,Manuala,Masina de oras,,,Da
+836,Renault Clio V Blue dCi Life,11199,Renault,Clio,2020,109 256 km,Diesel,85 CP,1 461 cm3,Fata,,Manuala,Masina de oras,,,Da
+837,Dacia Duster 1.5 dCi 4WD Comfort,14548,Dacia,Duster,2019,134 510 km,Diesel,109 CP,1 461 cm3,4x4 (manual),,Manuala,SUV,,,Da
+838,Volvo V40 D2 94g Momentum,8950,Volvo,V40,2013,111 138 km,Diesel,115 CP,1 560 cm3,Fata,,Manuala,Compacta,Romania,,Da
+839,BMW Seria 1 120d xDrive Aut. M Sport,41033,BMW,Seria 1,2020,28 300 km,Diesel,190 CP,1 995 cm3,,Euro 6,Automata,Compacta,,,Da
+840,Mercedes-Benz EQS,129362,Mercedes-Benz,EQS,2022,5 km,Electric,333 CP,,4x4 (automat),Euro 6,Automata,Sedan,,,Da
+841,Mercedes-Benz EQS 450 4MATIC,148400,Mercedes-Benz,EQS,2023,5 km,Electric,360 CP,,4x4 (automat),Euro 6,Automata,SUV,,,Da
+842,Toyota Corolla 1.8 HSD Dynamic,29241,Toyota,Corolla,2023,10 km,Hibrid,98 CP,1 798 cm3,Fata,Euro 6,Automata,Combi,,Da,Da
+843,Toyota Auris 1.8 L VVT-i Hybrid Luna,16599,Toyota,Auris,2017,41 426 km,Hibrid,99 CP,1 798 cm3,Fata,,Automata,Compacta,Romania,Da,
+844,BMW Seria 3 318d GT Aut.,6499,BMW,Seria 3,2009,352 000 km,Diesel,143 CP,1 995 cm3,Spate,Euro 5,Automata,Sedan,Romania,Da,Da
+845,BMW X4,41990,BMW,X4,2019,92 000 km,Diesel,190 CP,1 995 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+846,Toyota Land Cruiser 2.8l Turbo D-4D AVS Aut. Luxury,49900,Toyota,Land Cruiser,2019,157 760 km,Diesel,177 CP,2 755 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+847,Renault Megane,13450,Renault,Megane,2021,69 000 km,Benzina,114 CP,999 cm3,,Euro 6,Manuala,Sedan,Romania,Da,Da
+848,Ford Galaxy,4500,Ford,Galaxy,2008,256 459 km,Diesel,115 CP,1 998 cm3,Fata,,Manuala,Monovolum,,,
+849,Hyundai Santa Fe,2790,Hyundai,Santa Fe,2003,299 000 km,Diesel,112 CP,1 991 cm3,,,Automata,SUV,,,
+850,Hyundai I30 1.4 100CP 5DR M/T Highway+,14400,Hyundai,I30,2019,16 000 km,Benzina,100 CP,1 368 cm3,,,Manuala,Compacta,,,
+851,Audi A6 2.7 TDI DPF Multitronic Avant,5950,Audi,A6,2010,386 700 km,Diesel,190 CP,2 698 cm3,Fata,,Automata,Combi,,,
+852,Mercedes-Benz E,6990,Mercedes-Benz,E,2005,262 000 km,Diesel,150 CP,2 200 cm3,,,Automata,Sedan,,,
+853,Dacia Duster 1.6 4x4 Ambiance,6950,Dacia,Duster,2011,167 000 km,Benzina,114 CP,1 598 cm3,4x4 (manual),Euro 5,Manuala,SUV,Germania,,Da
+854,Volkswagen Tiguan,22500,Volkswagen,Tiguan,2019,184 890 km,Diesel,150 CP,1 968 cm3,,,Manuala,SUV,,,
+855,Volkswagen Tiguan 2.0 TDI CR DPF 4Motion Sport&Style,8500,Volkswagen,Tiguan,2009,187 000 km,Diesel,170 CP,1 968 cm3,4x4 (manual),,Manuala,SUV,,,
+856,Mercedes-Benz G AMG 63 SW Long Aut.,250000,Mercedes-Benz,G,2023,2 000 km,Benzina,585 CP,3 982 cm3,4x4 (automat),Euro 6c,Automata,SUV,Romania,Da,Da
+857,Land Rover Range Rover Vogue,35300,Land Rover,Range Rover Vogue,2014,139 000 km,Diesel,258 CP,2 993 cm3,4x4 (automat),,Automata,SUV,,,Da
+858,Audi A8,51000,Audi,A8,2019,162 000 km,Diesel,286 CP,2 967 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+859,Opel Crossland 1.2 Start/Stop Edition,15990,Opel,Crossland,2022,7 156 km,Benzina,110 CP,1 199 cm3,Fata,Euro 6,Manuala,SUV,Romania,Da,Da
+860,Mercedes-Benz GLC 300 de 4MATIC,95113,Mercedes-Benz,GLC,2023,2 km,Hibrid,197 CP,1 993 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+861,Renault Megane,11750,Renault,Megane,2020,65 000 km,Benzina,116 CP,1 332 cm3,,Euro 6,Manuala,Compacta,Romania,Da,Da
+862,Renault Megane Energy dCi Intens,11950,Renault,Megane,2019,59 000 km,Diesel,110 CP,1 461 cm3,Fata,Euro 6,Manuala,Compacta,Romania,Da,Da
+863,Mercedes-Benz GLE AMG 53 MHEV 4MATIC+,112037,Mercedes-Benz,GLE,2021,28 500 km,Benzina,435 CP,2 999 cm3,4x4 (automat),Euro 6d,Automata,SUV,Germania,,Da
+864,BMW Seria 5 520d xDrive Aut. M Sport Edition,18250,BMW,Seria 5,2016,178 000 km,Diesel,190 CP,1 995 cm3,,,Automata,Sedan,,,
+865,Volkswagen Passat Variant 2.0 Blue TDI DSG SCR Comfortline,7790,Volkswagen,Passat,2011,230 000 km,Diesel,140 CP,1 968 cm3,Fata,,Automata,Combi,,,
+866,Dacia Duster,17000,Dacia,Duster,2018,47 000 km,Diesel,115 CP,1 461 cm3,4x4 (manual),Euro 6,Manuala,SUV,Romania,,Da
+867,Toyota Land Cruiser 2.8l Turbo D-4D Aut. Executive,25990,Toyota,Land Cruiser,2017,331 873 km,Diesel,177 CP,2 755 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+868,Ford Mondeo 2.0 TDCi Aut. Titanium,16489,Ford,Mondeo,2019,140 000 km,Diesel,150 CP,1 997 cm3,Fata,Euro 6d,Automata,Sedan,Romania,Da,Da
+869,BMW X6 xDrive40i AT MHEV,69950,BMW,X6,2021,96 700 km,Benzina,333 CP,2 998 cm3,4x4 (automat),,Automata,SUV,,Da,Da
+870,Citroën C4,7400,Citroën,C4,2017,202 000 km,Diesel,99 CP,1 560 cm3,,,Automata,Compacta,,,
+871,Audi A5 Sportback 2.0 TDI S tronic,27990,Audi,A5,2019,109 000 km,Diesel,190 CP,1 968 cm3,,,Automata,Sedan,,,
+872,BMW Seria 3 316i,1700,BMW,Seria 3,2000,236 482 km,Benzina,105 CP,1 895 cm3,Spate,,Manuala,Sedan,Germania,,
+873,Volkswagen Golf,13950,Volkswagen,Golf,2018,117 000 km,Diesel,115 CP,1 598 cm3,Fata,Euro 6,Manuala,Compacta,Romania,Da,Da
+874,Mercedes-Benz GLB 200 4MATIC Aut.,44900,Mercedes-Benz,GLB,2023,17 000 km,Benzina,163 CP,1 332 cm3,4x4 (automat),,Automata,SUV,,,
+875,Mercedes-Benz GLC 220 d 4Matic 9G-TRONIC AMG Line,45500,Mercedes-Benz,GLC,2020,50 000 km,Diesel,194 CP,1 950 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+876,Mercedes-Benz C 250 d 9G-TRONIC AMG Line,29980,Mercedes-Benz,C,2017,142 000 km,Diesel,204 CP,2 143 cm3,Spate,Euro 6,Automata,Sedan,Germania,,Da
+877,Audi Q5 2.0 TDI,12950,Audi,Q5,2013,243 000 km,Diesel,143 CP,1 968 cm3,,,Manuala,SUV,,,
+878,Renault Megane III Coupe 1.9 dCi,7289,Renault,Megane,2011,160 000 km,Diesel,130 CP,1 870 cm3,Fata,Euro 5,Manuala,Coupe,Belgia,Da,Da
+879,Bentley Bentayga,259994,Bentley,Bentayga,2021,12 430 km,Hibrid,551 CP,2 995 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+880,Mercedes-Benz E 200 4Matic Cabrio 9G-TRONIC AMG Line,51989,Mercedes-Benz,E,2021,45 000 km,Benzina,197 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,Coupe,,,
+881,Audi Q5,43480,Audi,Q5,2021,22 100 km,Diesel,204 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+882,Peugeot Traveller,17750,Peugeot,Traveller,2019,217 000 km,Diesel,120 CP,1 499 cm3,,Euro 6,Manuala,Monovolum,Romania,Da,Da
+883,Mercedes-Benz GLE Coupe 350 d 4Matic 9G-TRONIC AMG Line,78000,Mercedes-Benz,GLE Coupe,2021,50 000 km,Diesel,272 CP,2 925 cm3,,,Automata,SUV,,,Da
+884,Skoda Superb 2.0 TDI 4X4 DSG Style,22955,Skoda,Superb,2016,73 089 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Sedan,Austria,,
+885,Dacia Sandero Stepway,9950,Dacia,Sandero Stepway,2018,117 350 km,Diesel,95 CP,1 461 cm3,Fata,Euro 6,Manuala,Compacta,Romania,,
+886,BMW Seria 3 330i Aut. M Sport,37999,BMW,Seria 3,2019,45 200 km,Benzina,252 CP,1 998 cm3,Spate,Euro 6,Automata,Sedan,,,
+887,Mercedes-Benz GLA 200 d 4Matic 7G-DCT AMG Line,19799,Mercedes-Benz,GLA,2016,196 700 km,Diesel,136 CP,2 143 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+888,Volkswagen Taigo 1.0 TSI DSG Life,23800,Volkswagen,Taigo,2023,2 500 km,Benzina,110 CP,999 cm3,Fata,Euro 6d-Temp,Automata,SUV,,Da,Da
+889,Toyota Auris 1.8 L VVT-i TS Hybrid Luna,10489,Toyota,Auris,2012,100 000 km,Hibrid,99 CP,1 798 cm3,Fata,Euro 5,Automata,Compacta,Belgia,Da,Da
+890,BMW Seria 3 318d GT Aut. Sport Line,14990,BMW,Seria 3,2014,175 518 km,Diesel,143 CP,1 995 cm3,Spate,Euro 6,Automata,Sedan,,,
+891,Lexus CT 200h Aut. Executive,10989,Lexus,CT,2013,170 000 km,Hibrid,99 CP,1 798 cm3,Fata,Euro 5b,Automata,Compacta,Belgia,Da,Da
+892,Ford Mondeo 2.0 Duratorq TDCi Powershift,8489,Ford,Mondeo,2014,140 000 km,Diesel,140 CP,1 998 cm3,Fata,Euro 5,Automata,Sedan,Romania,Da,Da
+893,Peugeot 508 RXH Hybrid4,11489,Peugeot,508,2014,200 000 km,Hibrid,163 CP,1 997 cm3,4x4 (automat),Euro 5,Automata,Combi,Belgia,Da,Da
+894,Ford Mondeo 2.0 HEV Vignale,22989,Ford,Mondeo,2021,40 000 km,Hibrid,187 CP,1 999 cm3,Fata,Euro 6d,Automata,Sedan,Belgia,Da,Da
+895,Skoda Octavia 2.0 TDI (Green tec) DSG Ambition,13500,Skoda,Octavia,2019,198 000 km,Diesel,150 CP,1 968 cm3,Fata,,Automata,Sedan,,,
+896,Seat Ibiza 1.2 TDI Ecomotive,3950,Seat,Ibiza,2011,211 111 km,Diesel,75 CP,1 199 cm3,Fata,Euro 5a,Manuala,Masina de oras,,,
+897,Mercedes-Benz GLE 350 d 4MATIC,56989,Mercedes-Benz,GLE,2018,71 000 km,Diesel,258 CP,2 987 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+898,Land Rover Discovery Sport 2.0 D200 MHEV SE,55514,Land Rover,Discovery Sport,2022,2 400 km,Diesel,204 CP,1 997 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+899,Volvo XC 40 D3 AWD Momentum Pro,23989,Volvo,XC 40,2019,125 000 km,Diesel,150 CP,1 969 cm3,4x4 (automat),Euro 6d-Temp,Automata,SUV,Belgia,Da,Da
+900,Volvo XC 90 T8 eAWD Inscription,57120,Volvo,XC 90,2019,75 000 km,Hibrid,303 CP,1 969 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+901,Mercedes-Benz A 220 d Aut.,30345,Mercedes-Benz,A,2020,26 500 km,Diesel,190 CP,1 950 cm3,Fata,Euro 6,Automata,Compacta,,,Da
+902,Volkswagen Transporter,6900,Volkswagen,Transporter,2008,280 000 km,Diesel,102 CP,1 896 cm3,,,Manuala,Monovolum,,,
+903,Mercedes-Benz C 220 CDI Sportcoupe,2499,Mercedes-Benz,C,2005,232 069 km,Diesel,150 CP,2 148 cm3,Spate,,Manuala,Coupe,Spania,,Da
+904,Chevrolet Captiva 2.0 FWD 7XC LT,5499,Chevrolet,Captiva,2007,156 000 km,Diesel,150 CP,1 991 cm3,4x4 (automat),Euro 4,Manuala,SUV,Romania,,
+905,Jeep Compass 1.5 AT 2WD MHEV Limited,30309,Jeep,Compass,2023,1 km,Benzina,130 CP,1 469 cm3,Fata,Euro 6,Automata,SUV,Italia,,Da
+906,Volkswagen Tiguan 1.6 TDI SCR Comfortline,16889,Volkswagen,Tiguan,2017,172 600 km,Diesel,115 CP,1 598 cm3,Fata,Euro 6,Manuala,SUV,Italia,Da,
+907,Jeep Renegade,31445,Jeep,Renegade,2022,1 km,Hibrid,130 CP,1 332 cm3,Fata,Euro 6,Automata,SUV,Italia,,Da
+908,Volkswagen Golf 1.6 TDI DSG Comfortline,15988,Volkswagen,Golf,2018,23 762 km,Diesel,115 CP,1 598 cm3,Fata,Euro 6,Automata,Combi,Romania,Da,Da
+909,Fiat Tipo 1.0 Final City Life,11700,Fiat,Tipo,2020,21 080 km,Benzina,100 CP,999 cm3,Fata,Euro 6,Manuala,Compacta,Romania,,
+910,Mercedes-Benz A,21990,Mercedes-Benz,A,2018,102 677 km,Diesel,116 CP,1 461 cm3,Fata,Euro 6,Automata,Compacta,Romania,,
+911,Porsche Cayenne Hybrid 3.0 L S E,23990,Porsche,Cayenne,2013,130 389 km,Benzina,416 CP,2 995 cm3,4x4 (automat),Euro 6,Automata,SUV,Franta,,
+912,Volkswagen Transporter Multivan 4MOTION Comfortline,13500,Volkswagen,Transporter,2008,288 600 km,Diesel,130 CP,2 460 cm3,4x4 (automat),Euro 5,Manuala,Monovolum,,,Da
+913,Ford Focus 2.0 TDCi Powershift Titanium,9790,Ford,Focus,2017,198 000 km,Diesel,150 CP,1 997 cm3,Fata,Euro 6,Automata,Combi,Germania,,
+914,Alfa Romeo Tonale,39688,Alfa Romeo,Tonale,2022,1 km,Hibrid,160 CP,1 469 cm3,Fata,Euro 6,Automata,SUV,Italia,,Da
+915,Audi A5 Sportback 2.0 TDI S tronic quattro,30000,Audi,A5,2019,168 272 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,,Da
+916,Skoda Octavia 1.6 TDI (Green tec) Joy,13483,Skoda,Octavia,2017,112 495 km,Diesel,110 CP,1 598 cm3,Fata,Euro 6,Manuala,Combi,Germania,,
+917,Kia Sorento 2.2 DSL 8DCT 4x4 5P Activ,42868,Kia,Sorento,2021,36 895 km,Diesel,202 CP,2 151 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+918,Mercedes-Benz G AMG 63 SW Long Aut.,199325,Mercedes-Benz,G,2021,29 757 km,Benzina,585 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+919,Kia Sorento 2.2 DSL 8DCT 4x4 7P Premium+,49480,Kia,Sorento,2021,42 000 km,Diesel,202 CP,2 151 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+920,Mazda CX-7,6990,Mazda,CX-7,2010,166 080 km,Diesel,173 CP,2 184 cm3,4x4 (automat),Euro 5,Manuala,SUV,,,
+921,Jeep Compass 1.5 AT 2WD MHEV S,34874,Jeep,Compass,2023,2 km,Benzina,130 CP,1 469 cm3,Fata,Euro 6,Automata,SUV,Italia,,Da
+922,Jeep Renegade 1.0 Turbo 4x2 M6 Limited,22499,Jeep,Renegade,2022,1 km,Benzina,120 CP,999 cm3,Fata,Euro 6,Manuala,SUV,Italia,,Da
+923,Audi A4,8500,Audi,A4,2010,270 000 km,Diesel,143 CP,1 968 cm3,Fata,Euro 5,Manuala,Sedan,Belgia,Da,Da
+924,BMW Seria 4 420d Gran Coupe Aut. Advantage,21949,BMW,Seria 4,2019,127 995 km,Diesel,190 CP,1 995 cm3,Spate,Euro 6,Automata,Sedan,,,
+925,Land Rover Range Rover Evoque,18990,Land Rover,Range Rover Evoque,2015,138 755 km,Diesel,150 CP,2 179 cm3,4x4 (automat),Euro 5,Automata,SUV,Romania,,Da
+926,Opel Meriva 1.4 Edition,1690,Opel,Meriva,2006,180 000 km,Benzina,90 CP,1 364 cm3,Fata,Euro 4,Manuala,Monovolum,Germania,,Da
+927,BMW X6 M M50d,80000,BMW,X6 M,2020,56 000 km,Diesel,400 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+928,Mercedes-Benz GLC Coupe 200 4MATIC MHEV,82243,Mercedes-Benz,GLC Coupe,2023,5 km,Benzina,204 CP,1 999 cm3,4x4 (automat),,Automata,SUV,,Da,Da
+929,Ford Transit Custom Kombi 320 2.0 EcoBlue 130 CP L2H1 Trend,41055,Ford,Transit Custom,2023,750 km,Diesel,130 CP,1 995 cm3,Fata,Euro 6,Manuala,Monovolum,Romania,Da,Da
+930,Mercedes-Benz GLC 400 e 4MATIC,89726,Mercedes-Benz,GLC,2023,5 km,Hibrid,252 CP,1 999 cm3,4x4 (automat),,Automata,SUV,Germania,,Da
+931,Opel Astra,4599,Opel,Astra,2010,208 300 km,Diesel,110 CP,1 686 cm3,Fata,Euro 5,Manuala,Compacta,Germania,,Da
+932,Volkswagen Golf Plus,4290,Volkswagen,Golf Plus,2008,220 000 km,Diesel,140 CP,1 968 cm3,Fata,,Manuala,Compacta,Germania,Da,
+933,Mercedes-Benz GLC Coupe,85850,Mercedes-Benz,GLC Coupe,2023,,Benzina,258 CP,1 999 cm3,4x4 (automat),Euro 6b,Automata,SUV,,,Da
+934,Mercedes-Benz S 400 d 4MATIC Long Aut,129889,Mercedes-Benz,S,2023,8 000 km,Diesel,330 CP,2 925 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+935,Kia Ceed Cee'd 1.6 T-GDI GT,16499,Kia,Ceed,2018,79 000 km,Benzina,204 CP,1 591 cm3,Fata,Euro 6,Manuala,Compacta,Romania,,
+936,Toyota Proace Verso 1.5 D-4D 102CP 8+1 Base Compact,20500,Toyota,Proace,2022,490 km,Diesel,102 CP,1 499 cm3,Fata,Euro 6,Manuala,Monovolum,Romania,Da,
+937,Mercedes-Benz GLE Coupe 350 d 4Matic 9G-TRONIC AMG Line,44613,Mercedes-Benz,GLE Coupe,2015,188 000 km,Diesel,258 CP,2 987 cm3,4x4 (automat),Euro 6d,Automata,SUV,,,Da
+938,Ford Kuga,33799,Ford,Kuga,2021,4 672 km,Hibrid,225 CP,2 488 cm3,,Euro 6,Automata,SUV,,Da,Da
+939,Volkswagen Taigo 1.0 TSI Life,18564,Volkswagen,Taigo,2023,5 km,Benzina,95 CP,999 cm3,Fata,Euro 6,Manuala,SUV,,,Da
+940,Mercedes-Benz EQB 300 4MATIC,60511,Mercedes-Benz,EQB,2023,6 000 km,Electric,228 CP,,4x4 (automat),,Automata,SUV,,,Da
+941,Mercedes-Benz CLA AMG 45 S 4Matic+ Shooting B AMG Speedsh 8G-D,71281,Mercedes-Benz,CLA,2020,21 256 km,Benzina,421 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,Sedan,,,
+942,BMW X3 xDrive20d AT Advantage,29750,BMW,X3,2019,73 390 km,Diesel,190 CP,1 995 cm3,4x4 (automat),,Automata,SUV,Romania,,
+943,Volkswagen Polo 1.4 TDI CR BMT Trendline,7973,Volkswagen,Polo,2018,116 000 km,Diesel,75 CP,1 422 cm3,Fata,Euro 6,Manuala,Masina de oras,Romania,Da,Da
+944,Jeep Renegade,30899,Jeep,Renegade,2022,1 km,Hibrid,130 CP,1 332 cm3,Fata,Euro 6,Automata,Monovolum,Italia,Da,Da
+945,Volkswagen Golf,4999,Volkswagen,Golf,2010,258 000 km,Benzina,105 CP,1 197 cm3,,Euro 5,Manuala,Masina mica,Germania,,
+946,Toyota C-HR 2.0 HSD 184 CP 4x2 CVT Style,30500,Toyota,C-HR,2022,4 500 km,Hibrid,152 CP,1 987 cm3,Fata,,Automata,SUV,Romania,,Da
+947,Volkswagen Polo 1.4 TDI CR BMT Trendline,7973,Volkswagen,Polo,2018,116 000 km,Diesel,75 CP,1 422 cm3,Fata,Euro 6,Manuala,Masina de oras,Romania,Da,Da
+948,Volkswagen Golf,4999,Volkswagen,Golf,2010,258 000 km,Benzina,105 CP,1 197 cm3,,Euro 5,Manuala,Masina mica,Germania,,
+949,BMW Seria 5 530d xDrive Aut.,33903,BMW,Seria 5,2015,80 000 km,Diesel,258 CP,2 993 cm3,4x4 (manual),Euro 5,Automata,Sedan,,,Da
+950,Alfa Romeo GTV 2.0 JTS Medio,5490,Alfa Romeo,GTV,2004,181 960 km,Benzina,165 CP,1 970 cm3,Fata,Euro 4,Manuala,Coupe,Italia,,Da
+951,Toyota Corolla,23750,Toyota,Corolla,2020,70 848 km,Hibrid,122 CP,1 798 cm3,Fata,Euro 6,Automata,Sedan,,,
+952,Mercedes-Benz C 180 (BlueTEC) d 7G-TRONIC,17450,Mercedes-Benz,C,2016,100 000 km,Diesel,116 CP,1 598 cm3,Spate,Euro 6,Automata,Sedan,Belgia,,
+953,Volkswagen Golf 1.0 TSI Comfortline,14450,Volkswagen,Golf,2020,42 900 km,Benzina,115 CP,999 cm3,Fata,Euro 6,Manuala,Compacta,Romania,,Da
+954,BMW Seria 4 420d Gran Coupe Aut. Sport Line,15290,BMW,Seria 4,2014,179 990 km,Diesel,190 CP,1 995 cm3,Spate,Euro 6,Automata,Sedan,Germania,,Da
+955,Mercedes-Benz S 400 d 4MATIC Long Aut,65000,Mercedes-Benz,S,2019,100 000 km,Diesel,340 CP,2 925 cm3,4x4 (automat),Euro 6,Automata,Sedan,,Da,Da
+956,Peugeot 3008 BlueHDi 130 Stop & Start Allure Pack,16490,Peugeot,3008,2018,185 451 km,Diesel,131 CP,1 499 cm3,Fata,Euro 6,Manuala,SUV,,Da,Da
+957,BMW Seria 3 320d Sport Line,11100,BMW,Seria 3,2015,213 000 km,Diesel,190 CP,1 995 cm3,Spate,,Manuala,Combi,,,
+958,Mercedes-Benz C 200 T 9G-TRONIC,25900,Mercedes-Benz,C,2018,39 545 km,Benzina,184 CP,1 991 cm3,,,Automata,Sedan,,,
+959,Skoda RAPID 1.2 TSI Active,7591,Skoda,RAPID,2017,179 000 km,Benzina,90 CP,1 197 cm3,Fata,Euro 6,Manuala,Compacta,Romania,Da,Da
+960,Mercedes-Benz GLC 220 d 4MATIC,49500,Mercedes-Benz,GLC,2020,31 000 km,Diesel,194 CP,1 950 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+961,Volkswagen Tiguan 1.4 TSI 4Motion Trend&Fun,8500,Volkswagen,Tiguan,2010,177 200 km,Benzina,150 CP,1 390 cm3,4x4 (automat),,Manuala,SUV,,,
+962,Dacia Logan MCV 1.6 Laureate,5990,Dacia,Logan,2013,117 000 km,Benzina,84 CP,1 598 cm3,Fata,Euro 5,Manuala,Combi,Germania,Da,Da
+963,Toyota RAV4 2.5 Hybrid VVT-iE 4x4 Active,33500,Toyota,RAV4,2021,35 100 km,Hibrid,178 CP,2 487 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+964,Toyota Auris,4999,Toyota,Auris,2013,317 000 km,Benzina,99 CP,1 329 cm3,,,Manuala,Compacta,,,
+965,Tesla Model 3 Langstreckenbatterie Allradantrieb Dual Motor Performance,39800,Tesla,Model 3,2019,28 500 km,Electric,482 CP,,4x4 (automat),,Automata,Compacta,Romania,,
+966,Volkswagen T-ROC 1.0 TSI Life,23955,Volkswagen,T-ROC,2022,5 km,Benzina,110 CP,999 cm3,,,Manuala,SUV,,,Da
+967,Ford Kuga,35999,Ford,Kuga,2023,,Hibrid,190 CP,2 488 cm3,,Euro 6,Automata,SUV,,,Da
+968,Volkswagen Taigo 1.0 TSI DSG Style,24650,Volkswagen,Taigo,2023,5 km,Benzina,110 CP,999 cm3,Fata,,Automata,SUV,,,Da
+969,BMW X5 xDrive40i AT MHEV,116620,BMW,X5,2023,9 955 km,Benzina,381 CP,2 998 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+970,Nissan X-Trail,49700,Nissan,X-Trail,2023,4 800 km,Hibrid,211 CP,1 497 cm3,4x4 (automat),Euro 6d,Automata,SUV,Romania,Da,Da
+971,Opel Astra,4990,Opel,Astra,2011,258 000 km,Diesel,110 CP,1 686 cm3,,,Manuala,Combi,,,
+972,Volkswagen Tiguan,9990,Volkswagen,Tiguan,2011,204 000 km,Diesel,140 CP,1 968 cm3,,,Manuala,SUV,,,
+973,Mercedes-Benz GLE,112875,Mercedes-Benz,GLE,2023,1 km,Hibrid,388 CP,1 999 cm3,4x4 (automat),Euro 6b,Automata,SUV,,,Da
+974,Mercedes-Benz GLC 300 4MATIC MHEV,68663,Mercedes-Benz,GLC,2022,9 600 km,Benzina,258 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,Coupe,Germania,Da,Da
+975,Mercedes-Benz C 300 e 4Matic 9G-TRONIC AMG Line,67818,Mercedes-Benz,C,2022,9 500 km,Hibrid,204 CP,1 999 cm3,,Euro 6,Automata,Sedan,,Da,Da
+976,Tazzari Zerro City,14000,Tazzari,Zerro City,2020,20 394 km,Electric,21 CP,,Fata,,Automata,Masina de oras,,,
+977,Audi Q5,32000,Audi,Q5,2019,122 000 km,Diesel,191 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+978,Mercedes-Benz V 250 BlueTEC Aut. Long Avantgarde,36999,Mercedes-Benz,V,2016,223 000 km,Diesel,190 CP,2 143 cm3,4x4 (automat),Euro 6,Automata,Monovolum,Germania,Da,Da
+979,Peugeot 3008 1.2 PureTech Turbo S&S EAT6 Allure,14000,Peugeot,3008,2017,177 000 km,Benzina,130 CP,1 199 cm3,Fata,Euro 6,Automata,SUV,,,
+980,Mercedes-Benz GLA 250 e 8G-DCT AMG Line,54822,Mercedes-Benz,GLA,2022,4 000 km,Hibrid,160 CP,1 332 cm3,,Euro 6d,Automata,SUV,,Da,Da
+981,"Mitsubishi Pajero SWB 3.2 DI-D GLS M/T, Piele",12000,Mitsubishi,Pajero,2003,292 000 km,Diesel,160 CP,3 200 cm3,4x4 (manual),,Manuala,SUV,Romania,,Da
+982,Ford Transit Connect,28499,Ford,Transit Connect,2023,1 km,Diesel,100 CP,1 499 cm3,Fata,Euro 6,Manuala,Monovolum,,,Da
+983,BMW X5,79799,BMW,X5,2022,18 800 km,Hibrid,394 CP,2 998 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+984,Renault Clio (Energy) TCe 90 Start & Stop LIMITED,6990,Renault,Clio,2013,120 000 km,Benzina,90 CP,898 cm3,Fata,Euro 5,Manuala,Masina de oras,Franta,,
+985,Opel Insignia Sport Tourer 1.6 CDTI ecoTEC Start/Stop Innovation,13000,Opel,Insignia,2018,110 642 km,Diesel,136 CP,1 598 cm3,Fata,Euro 6,Manuala,Combi,Belgia,Da,Da
+986,Skoda Superb 2.0 TDI DSG Sportline,31000,Skoda,Superb,2020,73 000 km,Diesel,190 CP,1 968 cm3,,,Automata,Sedan,,,
+987,Ford Focus ver-2-3-ecoboost-s-s-st,29900,Ford,Focus,2021,26 969 km,Benzina,279 CP,2 300 cm3,,,Manuala,Compacta,,,
+988,Opel Astra 1.4 ECOFLEX Edition,5350,Opel,Astra,2011,221 000 km,Benzina,100 CP,1 398 cm3,,,Manuala,Masina de oras,,,
+989,Audi A3,3100,Audi,A3,2004,281 000 km,Diesel,140 CP,1 968 cm3,Fata,Euro 4,Manuala,Compacta,,,Da
+990,Opel Mokka 1.7 CDTI ecoFLEX Start/Stop Innovation,8490,Opel,Mokka,2013,140 000 km,Diesel,130 CP,1 686 cm3,Fata,Euro 5,Manuala,SUV,,,
+991,Audi A1 1.4 TFSI Sportback S tronic S line edition,10390,Audi,A1,2011,166 302 km,Benzina,122 CP,1 390 cm3,Fata,Euro 5,Automata,Masina de oras,Germania,Da,Da
+992,Volvo V60 D3 Geartronic Business Edition,9499,Volvo,V60,2013,236 000 km,Diesel,136 CP,1 984 cm3,Fata,Euro 5,Automata,Combi,Italia,,
+993,Audi Q5,47997,Audi,Q5,2020,64 500 km,Diesel,191 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+994,Audi Q5,51849,Audi,Q5,2020,48 500 km,Diesel,191 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+995,Toyota C-HR,26748,Toyota,C-HR,2021,29 367 km,Hibrid,123 CP,1 798 cm3,Fata,Euro 6,Automata,SUV,Germania,Da,Da
+996,Mercedes-Benz GLA 45 AMG 4MATIC Aut.,35900,Mercedes-Benz,GLA,2018,60 500 km,Benzina,381 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,,
+997,BMW Seria 3 320d Efficient Dynamic Edition Aut.,14999,BMW,Seria 3,2016,220 000 km,Diesel,163 CP,1 995 cm3,Spate,Euro 5b,Automata,Sedan,,Da,Da
+998,Audi A6 Allroad 3.0 TDI Quattro S tronic,17500,Audi,A6 Allroad,2016,270 000 km,Diesel,272 CP,2 967 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,,Da
+999,Ford Focus 1.0 EcoBoost MHEV Active X,29890,Ford,Focus,2023,2 714 km,Benzina,155 CP,999 cm3,Fata,Euro 6,Automata,Combi,,Da,Da
+1000,"Kia Sportage 2,0 CRDI AWD Aut. Platinum",24990,Kia,Sportage,2019,107 234 km,Diesel,185 CP,1 995 cm3,4x4 (manual),Euro 6,Automata,SUV,Germania,Da,Da
+1001,Volkswagen Tiguan 1.5 TSI OPF DSG Life,31200,Volkswagen,Tiguan,2022,5 800 km,Benzina,150 CP,1 498 cm3,Fata,Euro 6,Automata,SUV,Romania,Da,Da
+1002,Mercedes-Benz S 400 d 4MATIC Long Aut,147143,Mercedes-Benz,S,2021,37 500 km,Diesel,330 CP,2 925 cm3,4x4 (automat),Euro 6d,Automata,Sedan,Germania,,Da
+1003,Mercedes-Benz A 150 BlueEFFICIENCY,4000,Mercedes-Benz,A,2008,198 563 km,Benzina,95 CP,1 498 cm3,,,Manuala,Masina de oras,,,
+1004,BMW M4 Coupe DKG Competition,57999,BMW,M4,2019,52 000 km,Benzina,450 CP,2 979 cm3,Spate,Euro 6,Automata,Coupe,Romania,,
+1005,Opel Astra Plug-In-Hybrid GSe,39043,Opel,Astra,2023,5 km,Hibrid,225 CP,1 598 cm3,Fata,Euro 6,Automata,Combi,,,
+1006,Mercedes-Benz GLA 200 4MATIC Aut.,47600,Mercedes-Benz,GLA,2022,10 700 km,Benzina,163 CP,1 332 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1007,Peugeot 5008 BlueHDI 180 EAT8 GT,21899,Peugeot,5008,2018,190 300 km,Diesel,177 CP,1 997 cm3,Fata,Euro 6,Automata,SUV,Italia,Da,Da
+1008,Skoda Superb 2.0 TDI DSG Style,41084.45,Skoda,Superb,2023,7 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,,,Da
+1009,Audi A6 Avant 2.0 TDI Ultra DPF S tronic,31600,Audi,A6,2018,185 000 km,Diesel,190 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Germania,,Da
+1010,Renault Clio Estate 0.9 TCe,10900,Renault,Clio,2017,124 822 km,Benzina,90 CP,898 cm3,Fata,Euro 6,Manuala,Combi,Romania,,
+1011,Mercedes-Benz E 250 CDI 4Matic,15999,Mercedes-Benz,E,2014,192 000 km,Diesel,204 CP,2 143 cm3,4x4 (automat),Euro 5,Automata,Sedan,,,
+1012,Mazda 6,6999,Mazda,6,2008,191 000 km,Benzina,120 CP,1 798 cm3,Fata,Euro 4,Manuala,Sedan,Germania,Da,
+1013,Volkswagen Passat 2.0 TDI DSG Highline,17250,Volkswagen,Passat,2016,163 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Belgia,,
+1014,Audi A3,24157,Audi,A3,2022,29 834 km,Hibrid,110 CP,999 cm3,Fata,Euro 6,Manuala,Compacta,Romania,Da,
+1015,BMW Seria 4 430d Gran Coupe xDrive Aut. M Sport,19700,BMW,Seria 4,2015,192 000 km,Diesel,258 CP,2 993 cm3,,,Automata,Masina de oras,,,
+1016,BMW X5,78897,BMW,X5,2022,23 400 km,Hibrid,394 CP,2 998 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+1017,Volkswagen Touareg 3.0 V6 TDI BMT,11000,Volkswagen,Touareg,2012,157 000 km,Diesel,204 CP,2 967 cm3,,,Automata,SUV,,,
+1018,Kia Sportage 2.0 CRDI 184 4WD Automatik Spirit,13400,Kia,Sportage,2016,230 000 km,Diesel,184 CP,1 995 cm3,4x4 (automat),Euro 5,Automata,SUV,Germania,,Da
+1019,BMW Seria 7 740d xDrive MHEV,147999,BMW,Seria 7,2023,26 000 km,Diesel,300 CP,2 993 cm3,4x4 (automat),,Automata,Sedan,Germania,Da,Da
+1020,Mazda 3,5499,Mazda,3,2007,145 000 km,Benzina,105 CP,1 598 cm3,Fata,Euro 4,Automata,Compacta,Germania,Da,Da
+1021,Skoda Octavia Combi 1.6 TDI Ambition,4770,Skoda,Octavia,2009,277 000 km,Diesel,115 CP,1 598 cm3,Fata,Euro 5,Manuala,Combi,Finlanda,,Da
+1022,BMW Seria 3,3890,BMW,Seria 3,2006,269 000 km,Diesel,163 CP,1 995 cm3,,,Manuala,Combi,,,Da
+1023,Mercedes-Benz CLA 200 Shooting Brake 7G-DCT AMG Line,41000,Mercedes-Benz,CLA,2022,36 280 km,Benzina,163 CP,1 332 cm3,Fata,,Automata,Coupe,,,
+1024,Audi A4 2.0 TDI B8,10800,Audi,A4,2013,254 000 km,Diesel,143 CP,1 968 cm3,Fata,Euro 5,Manuala,Sedan,,,
+1025,Volkswagen Passat CC 2.0 TDI BlueMotion Technology,9790,Volkswagen,Passat CC,2011,198 200 km,Diesel,170 CP,1 968 cm3,Fata,Euro 5,Manuala,Sedan,,,
+1026,Mercedes-Benz G 63 AMG SW Long,96021,Mercedes-Benz,G,2017,135 000 km,Benzina,571 CP,5 461 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+1027,Daihatsu Sirion 1.0,1850,Daihatsu,Sirion,2008,120 000 km,Benzina,70 CP,998 cm3,Fata,,Manuala,Masina mica,,,
+1028,Mercedes-Benz E 220 d 9G-TRONIC Avantgarde,24500,Mercedes-Benz,E,2018,155 000 km,Diesel,194 CP,1 950 cm3,,,Automata,Sedan,,,
+1029,Mercedes-Benz A 200 4MATIC Aut.,28322,Mercedes-Benz,A,2019,71 500 km,Benzina,163 CP,1 332 cm3,Fata,Euro 6d,Automata,Compacta,,Da,Da
+1030,Toyota Yaris GR,33499,Toyota,Yaris,2020,19 711 km,Benzina,261 CP,1 618 cm3,4x4 (automat),Euro 6,Manuala,Masina de oras,,,
+1031,Ford Focus 2.3 EcoBoost ST X,35224,Ford,Focus,2023,,Benzina,280 CP,2 261 cm3,Fata,Euro 6,Automata,Compacta,,,Da
+1032,Volkswagen Multivan 2.0 TDI DSG 110KW,41989,Volkswagen,Multivan,2019,165 543 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Monovolum,Germania,Da,Da
+1033,SsangYong Korando,29520,SsangYong,Korando,2023,1 km,Electric,190 CP,,Fata,Euro 6d-Temp,Automata,SUV,,Da,Da
+1034,BMW Seria 2 220i AT Luxury Line,17731,BMW,Seria 2,2019,210 686 km,Benzina,192 CP,1 998 cm3,Fata,Euro 6,Automata,Sedan,,,
+1035,Mercedes-Benz GLA 220 d 4MATIC Aut.,27499,Mercedes-Benz,GLA,2017,96 832 km,Diesel,170 CP,2 143 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+1036,Mercedes-Benz S 580 4Matic L 9G-TRONIC,172300,Mercedes-Benz,S,2022,10 000 km,Benzina,503 CP,3 982 cm3,4x4 (automat),Euro 6d,Automata,Sedan,Germania,,Da
+1037,Toyota Land Cruiser V8 4.5 Aut Executive,27500,Toyota,Land Cruiser,2008,260 000 km,Diesel,286 CP,4 462 cm3,4x4 (automat),,Automata,SUV,Romania,,
+1038,Opel Astra 1.2 Turbo Edition,20993,Opel,Astra,2022,5 km,Benzina,130 CP,1 199 cm3,Fata,Euro 6,Manuala,Compacta,,,Da
+1039,Mercedes-Benz S 580 4Matic L 9G-TRONIC,172300,Mercedes-Benz,S,2022,10 000 km,Benzina,503 CP,3 982 cm3,4x4 (automat),Euro 6d,Automata,Sedan,Germania,,Da
+1040,Volkswagen Passat,4299,Volkswagen,Passat,2009,349 900 km,Diesel,140 CP,1 968 cm3,,Euro 5,Manuala,Combi,,Da,Da
+1041,Toyota Land Cruiser V8 4.5 Aut Executive,27500,Toyota,Land Cruiser,2008,260 000 km,Diesel,286 CP,4 462 cm3,4x4 (automat),,Automata,SUV,Romania,,
+1042,Audi e-tron 50 quattro S-Line,67900,Audi,e-tron,2020,50 250 km,Electric,215 CP,,4x4 (automat),,Automata,SUV,,,
+1043,Mercedes-Benz ML 250 BlueTEC 4MATIC 7G-TRONIC,16499,Mercedes-Benz,ML,2012,259 000 km,Diesel,204 CP,2 143 cm3,,,Automata,SUV,,,
+1044,Mercedes-Benz AMG,95000,Mercedes-Benz,AMG,2019,65 000 km,Benzina,435 CP,2 999 cm3,4x4 (automat),Euro 6,Automata,Sedan,Romania,Da,Da
+1045,Mercedes-Benz E 200 CDI BlueEfficiency Aut.,6950,Mercedes-Benz,E,2010,321 000 km,Diesel,136 CP,2 143 cm3,,,Automata,Sedan,,,
+1046,Volkswagen Passat CC 2.0 TDI DSG Blue TDI,13499,Volkswagen,Passat CC,2013,242 000 km,Diesel,140 CP,1 968 cm3,Fata,Euro 5,Automata,Sedan,Germania,Da,Da
+1047,Audi RS6 Avant performance,69020,Audi,RS6,2018,115 509 km,Benzina,605 CP,3 993 cm3,4x4 (automat),Euro 6,Automata,Combi,Germania,Da,Da
+1048,Fiat 500 500e Icon,23500,Fiat,500,2021,8 373 km,Electric,118 CP,,Fata,Non-euro,Automata,Masina mica,Romania,Da,Da
+1049,Skoda Octavia,19500,Skoda,Octavia,2020,170 031 km,Diesel,184 CP,1 968 cm3,4x4 (automat),,Automata,Combi,,,
+1050,Skoda Karoq 1.5 TSI DSG Ambition,17770,Skoda,Karoq,2019,177 110 km,Benzina,150 CP,1 498 cm3,Fata,Euro 6,Automata,SUV,,Da,
+1051,BMW Seria 4 420d Gran Coupe Sport-Aut. Sport Line,16799,BMW,Seria 4,2015,189 452 km,Diesel,184 CP,1 995 cm3,Spate,Euro 6,Automata,Sedan,Germania,Da,Da
+1052,Toyota Avensis 1.8 Multidrive S Executive,14500,Toyota,Avensis,2016,70 000 km,Benzina,147 CP,1 798 cm3,Fata,Euro 5,Automata,Sedan,Romania,Da,
+1053,Fiat 500 1.3 Multijet,5890,Fiat,500,2012,249 000 km,Diesel,95 CP,1 248 cm3,,Euro 5,Manuala,Masina mica,Olanda,Da,Da
+1054,Volkswagen Golf Plus,6750,Volkswagen,Golf Plus,2010,265 000 km,Diesel,110 CP,1 968 cm3,Fata,,Manuala,Monovolum,,,
+1055,Volvo XC 90 D5 AWD Inscription,40000,Volvo,XC 90,2018,93 000 km,Diesel,235 CP,1 969 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+1056,Dacia Dokker 1.5 Blue dCi Ambiance,7700,Dacia,Dokker,2019,82 000 km,Diesel,75 CP,1 461 cm3,Fata,,Manuala,Monovolum,Romania,Da,
+1057,BMW X5 M M50d,54499,BMW,X5 M,2019,133 600 km,Diesel,400 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,
+1058,Mercedes-Benz GLC Coupe 300 d 4MATIC,72205,Mercedes-Benz,GLC Coupe,2023,5 km,Diesel,245 CP,1 950 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1059,Skoda Kodiaq 2.0 TDI 4X4 DSG Style,30849,Skoda,Kodiaq,2019,70 510 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1060,BMW Seria 3 320i AT,29899,BMW,Seria 3,2019,91 183 km,Benzina,184 CP,1 998 cm3,Spate,Euro 6,Automata,Sedan,Danemarca,Da,
+1061,Peugeot 301 1.6 BlueHDI FAP Active,7950,Peugeot,301,2018,138 000 km,Diesel,99 CP,1 560 cm3,Fata,,Manuala,Sedan,,,
+1062,Audi e-tron Sportback 55 quattro,82979,Audi,e-tron,2021,15 000 km,Electric,408 CP,,4x4 (automat),,Automata,SUV,Germania,Da,Da
+1063,Volkswagen Jetta,8790,Volkswagen,Jetta,2013,208 250 km,Hibrid,150 CP,1 395 cm3,,,Automata,Sedan,,,
+1064,Mercedes-Benz EQB 300 4Matic Edition 1,65438,Mercedes-Benz,EQB,2022,7 500 km,Electric,228 CP,,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+1065,BMW Seria 4 420i Gran Coupe Aut. M Sport,20347,BMW,Seria 4,2017,197 000 km,Benzina,184 CP,1 998 cm3,Spate,Euro 6,Automata,Sedan,Belgia,Da,Da
+1066,Honda CR-V,21950,Honda,CR-V,2019,85 000 km,Diesel,160 CP,1 597 cm3,,,Automata,SUV,,Da,Da
+1067,Jeep Compass 1.4 M-Air 4x2 Longitude,17900,Jeep,Compass,2017,70 459 km,Benzina,140 CP,1 368 cm3,Fata,Euro 6,Manuala,SUV,Olanda,Da,
+1068,Dacia Duster 1.6 4x2 Laureate,6800,Dacia,Duster,2011,187 482 km,Benzina,105 CP,1 598 cm3,Fata,,Manuala,SUV,,,
+1069,Skoda Octavia 2.0 TDI DSG Drive,14799,Skoda,Octavia,2018,59 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Combi,Germania,,
+1070,Mercedes-Benz GLB 220 d 4MATIC Aut.,58759,Mercedes-Benz,GLB,2022,6 100 km,Diesel,190 CP,1 950 cm3,4x4 (automat),,Automata,SUV,,,
+1071,Volkswagen Polo,3499,Volkswagen,Polo,2005,164 000 km,Benzina,75 CP,1 390 cm3,Fata,Euro 4,Manuala,Compacta,Germania,Da,Da
+1072,Lexus UX 250h 2.0L HEV 20H- (178 HP) 4X2 CVT Executive,29452,Lexus,UX,2021,73 000 km,Hibrid,152 CP,1 987 cm3,Fata,Euro 6d,Automata,SUV,,Da,Da
+1073,BMW X3 xDrive20d,11499,BMW,X3,2011,238 000 km,Diesel,177 CP,1 995 cm3,4x4 (automat),Euro 5,Manuala,SUV,Olanda,Da,Da
+1074,Mercedes-Benz C,26489,Mercedes-Benz,C,2019,110 150 km,Diesel,122 CP,1 598 cm3,Spate,Euro 6,Automata,Sedan,Belgia,Da,Da
+1075,Honda Civic,8650,Honda,Civic,2010,159 000 km,Hibrid,95 CP,1 339 cm3,,Euro 4,Automata,Compacta,Romania,,Da
+1076,Audi A4 Allroad 2.0 40 TDI quattro S tronic,42245,Audi,A4 Allroad,2020,73 000 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Combi,Germania,,Da
+1077,"Dacia Duster 1.5 dCi 4WD Prestige jante 16""",12950,Dacia,Duster,2017,107 068 km,Diesel,109 CP,1 461 cm3,4x4 (automat),,Manuala,SUV,,,
+1078,Audi e-tron,81989,Audi,e-tron,2022,16 558 km,Electric,503 CP,,4x4 (automat),Euro 6d-Temp,Automata,SUV,Romania,Da,Da
+1079,Mercedes-Benz GLB 200 d 4MATIC Aut.,35900,Mercedes-Benz,GLB,2020,78 973 km,Diesel,150 CP,1 950 cm3,4x4 (automat),,Automata,SUV,,,
+1080,Mercedes-Benz GLE,101710,Mercedes-Benz,GLE,2022,,Benzina,367 CP,2 999 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1081,Volkswagen T-ROC 1.5 TSI DSG Design,29131,Volkswagen,T-ROC,2022,22 400 km,Benzina,150 CP,1 498 cm3,Fata,Euro 6,Automata,SUV,,,
+1082,Skoda Kodiaq 2.0 TDI 4X4 DSG Style,41000,Skoda,Kodiaq,2020,34 000 km,Diesel,200 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+1083,Mercedes-Benz EQA 250,56745,Mercedes-Benz,EQA,2023,6 000 km,Electric,190 CP,,Fata,Euro 6d,Automata,SUV,,Da,Da
+1084,Volkswagen Tiguan 2.0 TDI 4Mot DSG,25950,Volkswagen,Tiguan,2018,59 000 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+1085,Dacia Duster dCi 110 FAP 4x4 Prestige,7750,Dacia,Duster,2011,163 500 km,Diesel,109 CP,1 461 cm3,4x4 (manual),Euro 5,Manuala,SUV,Germania,Da,Da
+1086,Skoda Octavia 1.9TDI Classic,3980,Skoda,Octavia,2007,359 000 km,Diesel,105 CP,1 896 cm3,Fata,Euro 3,Manuala,Sedan,,,
+1087,Skoda Karoq 1.6 TDI SCR DSG Style,17990,Skoda,Karoq,2020,150 860 km,Diesel,115 CP,1 598 cm3,Fata,,Automata,SUV,,,
+1088,Ford Mustang,24999,Ford,Mustang,2015,165 862 km,Benzina,305 CP,3 726 cm3,Spate,Euro 6,Automata,Cabrio,Germania,,Da
+1089,Skoda Octavia 1.6 TDI AMBITION,7000,Skoda,Octavia,2015,203 000 km,Diesel,105 CP,1 598 cm3,Fata,Euro 5,Manuala,Combi,Germania,Da,Da
+1090,Dacia Sandero Stepway TCe 90 Prestige,5500,Dacia,Sandero Stepway,2013,142 000 km,Benzina,90 CP,898 cm3,Fata,Euro 5,Manuala,Masina de oras,Belgia,Da,Da
+1091,Land Rover Range Rover Sport 3.0 SDV6 Autobiography,12000,Land Rover,Range Rover Sport,2012,245 600 km,Diesel,256 CP,2 993 cm3,4x4 (automat),,Automata,SUV,,,
+1092,Volkswagen Touareg V6 TDI Elegance,50890,Volkswagen,Touareg,2019,84 842 km,Diesel,286 CP,2 967 cm3,4x4 (automat),,Automata,SUV,Germania,,
+1093,Skoda RAPID 1.6 TDI (Green tec) Style,8990,Skoda,RAPID,2014,139 400 km,Diesel,90 CP,1 598 cm3,Fata,Euro 5,Automata,Compacta,Germania,Da,
+1094,Volkswagen Golf,4500,Volkswagen,Golf,2007,260 000 km,Benzina + GPL,102 CP,1 595 cm3,,,Manuala,Compacta,,,
+1095,Ford F150,91630,Ford,F150,2020,10 km,Benzina,370 CP,3 490 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+1096,Mercedes-Benz CLA 220 d Coupe Aut.,43800,Mercedes-Benz,CLA,2022,32 570 km,Diesel,190 CP,1 950 cm3,Fata,,Automata,Sedan,,,
+1097,BMW Seria 5 520d AT,27400,BMW,Seria 5,2018,126 763 km,Diesel,190 CP,1 995 cm3,Spate,Euro 6,Automata,Sedan,Romania,,
+1098,Honda Civic,34255,Honda,Civic,2022,30 000 km,Electric,184 CP,,Fata,Euro 6,Automata,Masina de oras,,,Da
+1099,Volkswagen Touareg V6 TSI eHybrid R,79900,Volkswagen,Touareg,2023,9 500 km,Hibrid,340 CP,2 995 cm3,4x4 (automat),,Automata,SUV,,,Da
+1100,Audi Q3,32440,Audi,Q3,2019,48 900 km,Diesel,191 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+1101,Mercedes-Benz EQB 350 4MATIC,65474,Mercedes-Benz,EQB,2022,6 100 km,Electric,292 CP,,4x4 (automat),,Automata,SUV,,,
+1102,Mercedes-Benz EQB 300 4MATIC,60643,Mercedes-Benz,EQB,2023,2 km,Electric,228 CP,,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1103,Volkswagen Passat 2.0 TDI SCR DSG Comfortline,16490,Volkswagen,Passat,2019,191 955 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Combi,,,Da
+1104,Mini Countryman Cooper,9790,Mini,Countryman,2015,128 054 km,Benzina,122 CP,1 598 cm3,Fata,Euro 6,Manuala,Compacta,Romania,,
+1105,Mercedes-Benz EQA 250,52389,Mercedes-Benz,EQA,2023,2 km,Electric,190 CP,,Fata,Euro 6,Automata,SUV,,,Da
+1106,Toyota C-HR Hybrid Lounge,22900,Toyota,C-HR,2019,60 000 km,Hibrid,98 CP,1 798 cm3,Fata,Euro 6,Automata,SUV,Italia,,
+1107,Volkswagen Tiguan 2.0 TDI DPF 4Motion,7999,Volkswagen,Tiguan,2009,233 000 km,Diesel,170 CP,1 968 cm3,4x4 (automat),Euro 4,Manuala,SUV,Romania,Da,Da
+1108,Skoda Octavia 2.0 TDI DSG Style,16875,Skoda,Octavia,2018,177 855 km,Diesel,149 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Romania,,
+1109,Mercedes-Benz AMG,89500,Mercedes-Benz,AMG,2019,119 500 km,Benzina,435 CP,2 990 cm3,,,Automata,Sedan,,,
+1110,Peugeot 5008 HDI FAP 110 EGS6 Business-Line,4999,Peugeot,5008,2013,202 000 km,Diesel,109 CP,1 560 cm3,Fata,Euro 5,Automata,SUV,Belgia,Da,Da
+1111,BMW M3 M340i xDrive AT MHEV,55900,BMW,M3,2020,11 085 km,Benzina,374 CP,2 998 cm3,4x4 (automat),Euro 6d,Automata,Sedan,Romania,,
+1112,Toyota Hilux 4x4 Double Cab A/T Invincible,29738,Toyota,Hilux,2017,191 000 km,Diesel,150 CP,2 393 cm3,4x4 (manual),,Automata,SUV,Romania,,Da
+1113,Nissan X-Trail 1.6 DCi Xtronic Tekna,12800,Nissan,X-Trail,2014,208 400 km,Diesel,130 CP,1 598 cm3,,,Automata,SUV,,,
+1114,"Dacia Duster 1.5 Blue dCi 4WD Prestige jante 17""",16790,Dacia,Duster,2019,101 757 km,Diesel,115 CP,1 461 cm3,4x4 (automat),Euro 6,Manuala,SUV,Romania,Da,Da
+1115,Dacia Duster 1.6 16V 4x2 Prestige,8300,Dacia,Duster,2013,132 000 km,Benzina + GPL,105 CP,1 598 cm3,Fata,Euro 5,Manuala,SUV,Germania,,Da
+1116,Mercedes-Benz G 270 CDI Aut,33000,Mercedes-Benz,G,2006,232 522 km,Diesel,156 CP,2 688 cm3,4x4 (automat),Euro 3,Automata,SUV,Germania,,
+1117,Audi A6 2.0 TDI DPF Avant,4650,Audi,A6,2008,242 000 km,Diesel,140 CP,1 968 cm3,,,Manuala,Combi,,,
+1118,BMW X6 xDrive40d Edition Exclusive,17290,BMW,X6,2011,280 000 km,Diesel,306 CP,2 993 cm3,4x4 (manual),,Automata,SUV,,,
+1119,Mercedes-Benz Vito 114 CDI Tourer Lang HA Aut. SELECT,29900,Mercedes-Benz,Vito,2021,81 000 km,Diesel,136 CP,1 950 cm3,,,Automata,Monovolum,,,
+1120,Renault Laguna 2.0dCi BOSE,5290,Renault,Laguna,2012,280 880 km,Diesel,150 CP,1 995 cm3,Fata,,Manuala,Sedan,Franta,,Da
+1121,BMW X1 sDrive16d Aut.,12990,BMW,X1,2016,170 000 km,Diesel,116 CP,1 995 cm3,,,Automata,SUV,,,
+1122,Mercedes-Benz C,9300,Mercedes-Benz,C,2011,170 000 km,Benzina,156 CP,1 796 cm3,Fata,Euro 5,Manuala,Masina de oras,Germania,Da,Da
+1123,Dacia Sandero,9000,Dacia,Sandero,2019,18 537 km,Benzina,73 CP,998 cm3,Fata,Euro 6,Manuala,Combi,,Da,Da
+1124,Skoda Superb 2.0 TDI DSG Ambition,15500,Skoda,Superb,2018,177 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Romania,,Da
+1125,Mercedes-Benz GLA 200 d 4Matic 8G-DCT,31450,Mercedes-Benz,GLA,2019,63 000 km,Diesel,150 CP,1 950 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,
+1126,BMW X1 sDrive16d Aut.,12990,BMW,X1,2016,170 000 km,Diesel,116 CP,1 995 cm3,,,Automata,SUV,,,
+1127,Dacia Sandero,9000,Dacia,Sandero,2019,18 537 km,Benzina,73 CP,998 cm3,Fata,Euro 6,Manuala,Combi,,Da,Da
+1128,Ford Focus Turnier 1.0 EcoBoost Start-Stopp-System,4000,Ford,Focus,2014,182 300 km,Benzina,100 CP,998 cm3,Fata,,Manuala,Combi,,,
+1129,Ford Focus 1.5 EcoBlue Start-Stopp-System Aut. COOL&CONNECT,14988,Ford,Focus,2019,126 800 km,Diesel,120 CP,1 499 cm3,Fata,Euro 6,Automata,Combi,Germania,Da,
+1130,Audi SQ8,104699,Audi,SQ8,2020,84 600 km,Diesel,435 CP,3 956 cm3,,Euro 6,Automata,SUV,,,Da
+1131,BMW Seria 5 530d xDrive,11500,BMW,Seria 5,2012,330 000 km,Diesel,258 CP,2 993 cm3,4x4 (automat),,Automata,Sedan,,,
+1132,Land Rover Freelander 2.2 TD4 HSE,5200,Land Rover,Freelander,2009,313 000 km,Diesel,160 CP,2 179 cm3,,,Manuala,SUV,,,
+1133,Opel Astra,5999,Opel,Astra,2011,244 000 km,Diesel,110 CP,1 686 cm3,Fata,Euro 5,Manuala,Combi,,Da,Da
+1134,Skoda Superb 2.0 TDI 4x4 DSG Premium Edition,28389,Skoda,Superb,2020,138 542 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Combi,,,
+1135,Dacia Duster 1.5 Blue dCi 4WD Comfort,19490,Dacia,Duster,2022,30 605 km,Diesel,115 CP,1 461 cm3,4x4 (automat),Euro 6,Manuala,SUV,Romania,Da,
+1136,Dacia Duster 1.5 Blue dCi 4WD,17700,Dacia,Duster,2019,120 613 km,Diesel,115 CP,1 461 cm3,4x4 (manual),Euro 6,Manuala,SUV,Romania,,
+1137,Ford Focus 1.0 EcoBoost Trend,7900,Ford,Focus,2016,95 910 km,Benzina,100 CP,999 cm3,Fata,Euro 6,Manuala,Combi,Romania,,Da
+1138,Suzuki Vitara 1.5 Strong-Hybrid AllGrip Passion,24490,Suzuki,Vitara,2022,5 400 km,Benzina,115 CP,1 462 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+1139,BMW Seria 3 320i AT,38294,BMW,Seria 3,2022,7 608 km,Benzina,184 CP,1 998 cm3,Spate,Euro 6,Automata,Sedan,,,
+1140,Dacia Duster 1.5 Blue dCi 4WD SL Orange,19218,Dacia,Duster,2021,71 300 km,Diesel,115 CP,1 461 cm3,4x4 (automat),Euro 6,Manuala,SUV,Romania,Da,Da
+1141,Maybach S 560 4Matic,99990,Maybach,S 560 4Matic,2018,43 400 km,Benzina,469 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,Sedan,,Da,Da
+1142,Mercedes-Benz GLE 350 d 4Matic 9G-TRONIC AMG Line,37564,Mercedes-Benz,GLE,2016,149 000 km,Diesel,258 CP,2 987 cm3,4x4 (manual),Euro 6b,Automata,SUV,,,Da
+1143,Ford Kuga,29500,Ford,Kuga,2023,,Hibrid,190 CP,2 488 cm3,,Euro 6,Automata,SUV,,,Da
+1144,Peugeot 408 PureTech 130 S&S EAT8 Allure Pack,26477,Peugeot,408,2023,4 158 km,Benzina,130 CP,1 199 cm3,Fata,Euro 6,Automata,Sedan,,Da,Da
+1145,Mercedes-Benz C 200 4Matic 9G-TRONIC Avantgarde,40650,Mercedes-Benz,C,2021,30 000 km,Benzina,204 CP,1 496 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+1146,Skoda Karoq 1.5 TSI DSG Sportline,23000,Skoda,Karoq,2018,124 000 km,Benzina,149 CP,1 498 cm3,Fata,Euro 6,Automata,SUV,,,Da
+1147,Mercedes-Benz GLC 200 4MATIC MHEV,65900,Mercedes-Benz,GLC,2022,12 180 km,Benzina,204 CP,1 999 cm3,4x4 (automat),,Automata,SUV,,,
+1148,Abarth 695,31990,Abarth,695,2018,41 630 km,Benzina,180 CP,1 368 cm3,Fata,Euro 6,Manuala,Compacta,,,Da
+1149,BMW X6 xDrive30d,74990,BMW,X6,2019,45 400 km,Diesel,265 CP,2 993 cm3,4x4 (automat),Euro 6d,Automata,SUV,Germania,Da,Da
+1150,Audi Q3,33849,Audi,Q3,2019,76 900 km,Diesel,191 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+1151,Lamborghini URUS,299979,Lamborghini,URUS,2021,45 420 km,Benzina,650 CP,3 996 cm3,4x4 (manual),,Automata,SUV,,,
+1152,Hyundai IONIQ,39585,Hyundai,IONIQ,2023,1 km,Electric,229 CP,,Spate,,Automata,SUV,,,
+1153,Skoda Octavia 1.0 TSI Ambition,15529,Skoda,Octavia,2018,37 016 km,Benzina,115 CP,999 cm3,Fata,Euro 6,Manuala,Sedan,Romania,Da,Da
+1154,Mercedes-Benz C AMG 63 Coupe S AMG Speedshift 7G-MCT,73408,Mercedes-Benz,C,2016,99 500 km,Benzina,510 CP,3 982 cm3,Spate,Euro 6,Automata,Coupe,,,Da
+1155,Mercedes-Benz GLE AMG 53 MHEV 4MATIC+,79990,Mercedes-Benz,GLE,2020,22 400 km,Benzina,435 CP,2 999 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1156,BMW M4 Competition M xDrive AT,85840,BMW,M4,2022,5 350 km,Benzina,510 CP,2 993 cm3,4x4 (automat),,Automata,Coupe,Germania,Da,Da
+1157,Volkswagen Tiguan 2.0 TDI 4Motion DSG Track & Style,13999,Volkswagen,Tiguan,2015,210 000 km,Diesel,140 CP,1 968 cm3,4x4 (automat),Euro 5,Automata,SUV,Germania,Da,Da
+1158,Peugeot 308 e-HDi FAP 110 Stop&Start ESG6 Allure,5890,Peugeot,308,2012,165 000 km,Diesel,112 CP,1 560 cm3,,Euro 5,Automata,Combi,Germania,,Da
+1159,Volkswagen Transporter,17500,Volkswagen,Transporter,2018,99 000 km,Diesel,90 CP,1 968 cm3,,,Manuala,Monovolum,,,
+1160,Ford Ranger Pick-Up 2.0 EcoBlue 170 CP 4x4 Cabina Dubla Limited Aut.,28900,Ford,Ranger,2019,52 900 km,Diesel,170 CP,1 996 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+1161,Volkswagen Golf,6000,Volkswagen,Golf,2007,175 000 km,Benzina,200 CP,1 984 cm3,Fata,Euro 4,Automata,Masina de oras,Germania,Da,Da
+1162,Kia Sportage,9990,Kia,Sportage,2012,143 388 km,Diesel,115 CP,1 685 cm3,Fata,Euro 5,Manuala,SUV,,,
+1163,Seat Alhambra 2.0 TDI Start&Stop DSG Style Advanced,25500,Seat,Alhambra,2017,172 000 km,Diesel,184 CP,1 968 cm3,Fata,Euro 6,Automata,Monovolum,Germania,Da,Da
+1164,Nissan Qashqai 1.5 DCI Start/Stop N-Connecta,11990,Nissan,Qashqai,2016,170 000 km,Diesel,110 CP,1 461 cm3,Fata,,Manuala,SUV,Germania,,Da
+1165,Skoda Superb 2.0 TDI DSG Ambition,20899,Skoda,Superb,2018,108 530 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Romania,,
+1166,Mercedes-Benz EQS 580 4MATIC,148398,Mercedes-Benz,EQS,2021,14 700 km,Electric,523 CP,,4x4 (automat),Euro 6,Automata,Sedan,Romania,Da,Da
+1167,Mercedes-Benz S Maybach Mercedes-Maybach 580 4MATIC MHEV Long,189210,Mercedes-Benz,S Maybach,2021,11 500 km,Benzina,503 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,,Da
+1168,Audi Q7 3.0 50 TDI quattro Tiptronic,59849,Audi,Q7,2019,87 000 km,Diesel,,,,Euro 6,Automata,SUV,,,Da
+1169,Mercedes-Benz GLE 350 de 4MATIC,97500,Mercedes-Benz,GLE,2023,6 000 km,Hibrid,194 CP,1 950 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+1170,Mercedes-Benz GLE 350 d 4MATIC,59381,Mercedes-Benz,GLE,2019,87 000 km,Diesel,258 CP,2 987 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,,Da
+1171,Mercedes-Benz EQS 580 4MATIC,172924,Mercedes-Benz,EQS,2023,5 km,Electric,544 CP,,4x4 (automat),,Automata,SUV,,,Da
+1172,Mercedes-Benz GLA 200 d 4Matic 7G-DCT,23999,Mercedes-Benz,GLA,2018,24 500 km,Diesel,136 CP,2 143 cm3,,,Automata,SUV,,,
+1173,Citroën C3 AIRCROSS 1.5 BlueHDi S&S BVM6 Feel,11290,Citroën,C3 AIRCROSS,2019,145 750 km,Diesel,100 CP,1 499 cm3,Fata,Euro 6,Manuala,SUV,Romania,Da,Da
+1174,Mercedes-Benz C 180 MHEV,39800,Mercedes-Benz,C,2021,55 095 km,Benzina,170 CP,1 496 cm3,Spate,,Automata,Sedan,,,
+1175,Volkswagen Passat Variant 2.0 TDI DSG Comfortline,10590,Volkswagen,Passat,2016,310 000 km,Diesel,150 CP,1 968 cm3,Fata,,Automata,Combi,,,
+1176,BMW Seria 3 320d GT Aut. Luxury Line,17500,BMW,Seria 3,2013,224 000 km,Diesel,184 CP,1 995 cm3,,,Automata,Sedan,,,
+1177,Ford Focus 1.5 EcoBlue Start-Stopp-System Aut. TITANIUM,18699,Ford,Focus,2019,62 801 km,Diesel,120 CP,1 499 cm3,Fata,Euro 6,Automata,Compacta,Italia,Da,Da
+1178,Volkswagen Caddy 2.0 TDI,16799,Volkswagen,Caddy,2018,65 000 km,Diesel,75 CP,1 968 cm3,Fata,Euro 6,Manuala,Monovolum,,Da,Da
+1179,Mazda CX-30,26240,Mazda,CX-30,2023,2 km,Benzina,150 CP,1 998 cm3,Fata,Euro 6,Manuala,SUV,,,Da
+1180,Dacia Duster 1.5 dCi 4WD Comfort,14600,Dacia,Duster,2017,123 835 km,Diesel,109 CP,1 461 cm3,4x4 (automat),Euro 6,Manuala,SUV,Romania,,
+1181,Mercedes-Benz CLA 200 7G-DCT AMG Line,39949,Mercedes-Benz,CLA,2022,18 881 km,Benzina,163 CP,1 332 cm3,Fata,Euro 6,Automata,Sedan,Germania,,Da
+1182,Skoda Karoq 1.6 TDI DSG Style,21999,Skoda,Karoq,2018,99 579 km,Diesel,116 CP,1 598 cm3,Fata,Euro 6,Automata,SUV,Romania,,
+1183,Skoda Octavia,15999,Skoda,Octavia,2017,92 878 km,Benzina,115 CP,999 cm3,Fata,Euro 6,Manuala,Sedan,,Da,Da
+1184,Ford Kuga 1.5 EcoBoost FWD Titanium,24335,Ford,Kuga,2022,1 km,Benzina,150 CP,1 499 cm3,Fata,Euro 6,Manuala,SUV,Romania,,Da
+1185,Volkswagen Golf 1.5 TSI ACT Style,20990,Volkswagen,Golf,2020,20 725 km,Benzina,130 CP,1 498 cm3,Fata,Euro 6,Manuala,Compacta,Germania,Da,Da
+1186,Smart Fortwo,69900,Smart,Fortwo,2018,30 890 km,Benzina,109 CP,898 cm3,Spate,Euro 6,Automata,Masina de oras,Germania,,Da
+1187,Skoda Octavia 1.6 TDI Ambiente,5799,Skoda,Octavia,2010,239 000 km,Diesel,105 CP,1 598 cm3,Fata,Euro 5,Manuala,Sedan,,,
+1188,Mercedes-Benz EQB 300 4MATIC,62951,Mercedes-Benz,EQB,2022,11 000 km,Electric,228 CP,,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1189,Volkswagen Jetta 2.0 TDI BlueMotion Technologie,13999,Volkswagen,Jetta,2017,87 300 km,Diesel,110 CP,1 968 cm3,Fata,Euro 6,Manuala,Sedan,,Da,
+1190,Volkswagen Tiguan 2.0 TDI 4Mot DSG Comfortline,22149,Volkswagen,Tiguan,2017,180 000 km,Diesel,150 CP,1 968 cm3,4x4 (automat),,Automata,SUV,Romania,Da,Da
+1191,Audi A7 3.0 50 TDI quattro Tiptronic,42785,Audi,A7,2019,98 000 km,Diesel,286 CP,2 967 cm3,4x4 (automat),,Automata,Sedan,,,
+1192,Suzuki Baleno 1.0 BOOSTERJET Automatik Comfort,10790,Suzuki,Baleno,2018,163 250 km,Benzina,111 CP,998 cm3,Fata,Euro 6,Automata,Masina de oras,Franta,,Da
+1193,Mercedes-Benz W124,2850,Mercedes-Benz,W124,1995,299 000 km,Diesel,113 CP,2 500 cm3,Spate,,Manuala,Combi,Belgia,,
+1194,Volkswagen ID. Buzz,51828,Volkswagen,ID. Buzz,2023,20 km,Electric,204 CP,,Spate,,Automata,Monovolum,,,Da
+1195,Jeep Compass ver-1-3t-m6-2wd-longitude,27499,Jeep,Compass,2022,20 km,Benzina,130 CP,1 332 cm3,Fata,,Manuala,SUV,,,Da
+1196,Volkswagen Tiguan 2.0 TDI 4Motion DSG Track & Style,10499,Volkswagen,Tiguan,2012,239 786 km,Diesel,140 CP,1 968 cm3,4x4 (automat),,Automata,SUV,Romania,,Da
+1197,BMW X1 xDrive18d Aut. Advantage,22300,BMW,X1,2019,171 000 km,Diesel,150 CP,1 995 cm3,4x4 (automat),Euro 6b,Automata,SUV,,Da,Da
+1198,Opel Corsa 1.3 CDTI Enjoy,3200,Opel,Corsa,2008,147 000 km,Diesel,90 CP,1 248 cm3,Fata,,Manuala,Compacta,,,
+1199,Mercedes-Benz GLE Coupe 350 d 4Matic 9G-TRONIC AMG Line,52955,Mercedes-Benz,GLE Coupe,2017,59 000 km,Diesel,258 CP,2 987 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1200,Volkswagen Tiguan 2.0 TDI DPF 4Motion BlueMotion Technology Sport & Style,8990,Volkswagen,Tiguan,2012,331 892 km,Diesel,140 CP,1 968 cm3,4x4 (manual),,Manuala,SUV,,,
+1201,Mercedes-Benz EQA 250 Electric Art,57680,Mercedes-Benz,EQA,2023,6 km,Electric,190 CP,,Fata,Euro 6d,Automata,SUV,,Da,Da
+1202,Mazda CX-5,9990,Mazda,CX-5,2013,150 000 km,Diesel,150 CP,2 191 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,,Da
+1203,BMW Seria 5,45300,BMW,Seria 5,2017,76 000 km,Benzina,340 CP,2 998 cm3,,,Automata,Sedan,,,
+1204,Jeep Compass 2.0 M-Jet 4x4 AT Longitude,22981,Jeep,Compass,2019,91 500 km,Diesel,140 CP,1 956 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+1205,Skoda Kodiaq 2.0 TDI 4X4 DSG Sportline,21500,Skoda,Kodiaq,2019,209 000 km,Diesel,190 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+1206,Lamborghini Huracan,238500,Lamborghini,Huracan,2019,22 385 km,Benzina,639 CP,5 204 cm3,4x4 (automat),Euro 6,Automata,Coupe,Romania,Da,Da
+1207,Mercedes-Benz C 180 T BlueEFFICIENCY Avantgarde,7100,Mercedes-Benz,C,2008,291 000 km,Benzina + GPL,156 CP,1 796 cm3,Spate,,Manuala,Combi,,,
+1208,Hyundai ix35 2.0 CRDI High 4WD GLS Style HEAT+,11490,Hyundai,ix35,2012,57 600 km,Diesel,184 CP,1 995 cm3,4x4 (manual),Euro 5,Manuala,SUV,Romania,,
+1209,Opel Astra 1.8i Sport,2650,Opel,Astra,2006,220 000 km,Benzina,125 CP,1 796 cm3,Fata,,Manuala,Coupe,Germania,,Da
+1210,Honda Civic 1.5 VTEC Turbo Sport Plus,23400,Honda,Civic,2021,59 900 km,Benzina,182 CP,1 498 cm3,Fata,,Manuala,Coupe,Anglia,Da,Da
+1211,Skoda Superb 2.0 TDI DSG Ambition,22900,Skoda,Superb,2018,77 672 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Romania,,
+1212,Peugeot 308 1.6 BlueHDi FAP STT Active,7290,Peugeot,308,2014,150 000 km,Diesel,120 CP,1 560 cm3,Fata,,Manuala,Combi,Franta,,
+1213,Volkswagen Polo 1.0 TSI Comfortline,13490,Volkswagen,Polo,2021,69 158 km,Benzina,95 CP,999 cm3,Fata,Euro 6,Manuala,Masina de oras,Romania,Da,
+1214,BMW Seria 3 318d,7200,BMW,Seria 3,2010,350 000 km,Diesel,143 CP,1 995 cm3,Spate,,Manuala,Sedan,,,
+1215,Mercedes-Benz GLC 300 e 4MATIC,87000,Mercedes-Benz,GLC,2023,6 000 km,Hibrid,204 CP,1 999 cm3,4x4 (automat),Euro 6,Automata,SUV,,,
+1216,Mercedes-Benz S 400 d 4MATIC Aut,120623,Mercedes-Benz,S,2022,22 400 km,Diesel,330 CP,2 925 cm3,4x4 (automat),,Automata,Sedan,,,
+1217,Skoda Octavia,15900,Skoda,Octavia,2018,80 243 km,Benzina,150 CP,1 495 cm3,Fata,,Manuala,Sedan,,,
+1218,BMW Seria 3 320i xDrive AT,32779,BMW,Seria 3,2021,66 983 km,Benzina,184 CP,1 998 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+1219,Mercedes-Benz A,32130,Mercedes-Benz,A,2021,28 636 km,Hibrid,160 CP,1 332 cm3,Fata,Euro 6b,Automata,Compacta,,,Da
+1220,Audi Q5,63600,Audi,Q5,2023,11 km,Benzina,251 CP,1 984 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1221,Audi A4,7250,Audi,A4,2010,277 770 km,Diesel,163 CP,1 968 cm3,,,Manuala,Combi,,,
+1222,Hyundai I30 1.4 CRDi Classic,5650,Hyundai,I30,2013,170 000 km,Diesel,90 CP,1 396 cm3,,,Manuala,Compacta,Germania,,Da
+1223,Volkswagen Passat,8999,Volkswagen,Passat,2013,297 000 km,Diesel,105 CP,1 598 cm3,Fata,Euro 5,Automata,Sedan,Finlanda,Da,Da
+1224,Renault Fluence,2950,Renault,Fluence,2011,298 000 km,Diesel,90 CP,1 461 cm3,Fata,Euro 5,Manuala,Sedan,Romania,,
+1225,Mercedes-Benz CLA,27953,Mercedes-Benz,CLA,2018,79 860 km,Benzina,122 CP,1 595 cm3,Fata,Euro 6,Automata,Coupe,,Da,Da
+1226,Audi Q5,63600,Audi,Q5,2023,11 km,Benzina,251 CP,1 984 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1227,Dacia Sandero Stepway dCi 90 Prestige,6790,Dacia,Sandero Stepway,2016,260 000 km,Diesel,90 CP,1 461 cm3,Fata,Euro 6,Manuala,Masina de oras,Germania,,Da
+1228,Volkswagen Golf Plus 1.4 TSI DSG Highline,7550,Volkswagen,Golf Plus,2010,120 000 km,Benzina,160 CP,1 390 cm3,,,Automata,Monovolum,,,
+1229,Audi A8,53979,Audi,A8,2019,93 943 km,Diesel,286 CP,2 967 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+1230,Volkswagen Passat,8999,Volkswagen,Passat,2013,297 000 km,Diesel,105 CP,1 598 cm3,Fata,Euro 5,Automata,Sedan,Finlanda,Da,Da
+1231,Audi A4 40 TDI quattro S tronic S Line,44799,Audi,A4,2022,28 800 km,Diesel,204 CP,1 968 cm3,,Euro 6,Automata,Sedan,,,Da
+1232,Volkswagen Touran,2800,Volkswagen,Touran,2005,30 000 km,Diesel,105 CP,1 896 cm3,Fata,,Automata,Monovolum,,,Da
+1233,Mercedes-Benz SL AMG 63 4MATIC+,226999,Mercedes-Benz,SL,2022,6 000 km,Benzina,585 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,Cabrio,,,Da
+1234,Volkswagen Golf 1.4 Trendline,6250,Volkswagen,Golf,2010,150 000 km,Benzina,80 CP,1 390 cm3,,,Manuala,Compacta,,,
+1235,Skoda Octavia Tour 1.9 TDI,4100,Skoda,Octavia,2010,247 539 km,Diesel,110 CP,1 896 cm3,Fata,,Manuala,Sedan,,,
+1236,Volvo XC 60 T8 Twin Engine AWD Inscription,41849,Volvo,XC 60,2020,127 192 km,Hibrid,303 CP,1 969 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+1237,Volkswagen Golf 1.4 TSI Comfortline,6750,Volkswagen,Golf,2010,201 062 km,Benzina,122 CP,1 390 cm3,Fata,Euro 5,Manuala,Masina de oras,Germania,,Da
+1238,BMW X7 M60i xDrive AT MHEV,134999,BMW,X7,2023,12 600 km,Benzina,530 CP,4 395 cm3,,,Automata,SUV,Germania,Da,Da
+1239,Ford Kuga 2.0 TDCi 4WD Powershift ST-Line,19750,Ford,Kuga,2018,68 561 km,Diesel,150 CP,1 997 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+1240,Hyundai Santa Fe,4400,Hyundai,Santa Fe,2006,29 000 km,Diesel,150 CP,2 188 cm3,4x4 (automat),,Automata,SUV,,,Da
+1241,Hyundai KONA Electric 136CP Highway,23600,Hyundai,KONA,2023,1 525 km,Electric,136 CP,,Fata,Euro 6d,Automata,SUV,Cehia,Da,Da
+1242,Skoda Superb Combi 2.0 TDI DSG Style,18350,Skoda,Superb,2020,220 000 km,Diesel,150 CP,1 968 cm3,,,Automata,Combi,,,
+1243,Volkswagen Passat CC,9200,Volkswagen,Passat CC,2011,234 000 km,Diesel,140 CP,1 968 cm3,Fata,Euro 5,Automata,Coupe,Germania,Da,Da
+1244,Mercedes-Benz GLE 350 d 4MATIC,37899,Mercedes-Benz,GLE,2016,114 600 km,Diesel,258 CP,2 987 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+1245,BMW Seria 3 320d Touring Sport-Aut. Luxury Line,7399,BMW,Seria 3,2011,315 000 km,Diesel,184 CP,1 995 cm3,,,Automata,Combi,,,
+1246,Hyundai IONIQ Elektro,22998,Hyundai,IONIQ,2020,42 000 km,Electric,136 CP,,Fata,Euro 6d,Automata,Compacta,Germania,,
+1247,Audi Q7 3.0 TDI Quattro Tiptronic,40900,Audi,Q7,2018,150 000 km,Diesel,272 CP,2 967 cm3,,,Automata,SUV,Romania,Da,Da
+1248,Ford F150,32000,Ford,F150,2014,190 790 km,Benzina,465 CP,3 490 cm3,,,Automata,SUV,,,
+1249,Volkswagen ARTEON 2.0 TDI DSG Elegance,24500,Volkswagen,ARTEON,2019,104 000 km,Diesel,190 CP,1 968 cm3,Fata,Euro 6,Automata,Sedan,Romania,Da,Da
+1250,Volkswagen Golf 1.0 TSI Comfortline,12852,Volkswagen,Golf,2017,87 000 km,Benzina,110 CP,999 cm3,Fata,Euro 6,Manuala,Compacta,Romania,,
+1251,Volkswagen Polo 1.0 TSI Comfortline,13490,Volkswagen,Polo,2021,52 273 km,Benzina,95 CP,999 cm3,Fata,Euro 6,Manuala,Masina de oras,Romania,Da,
+1252,Volvo V90 D4 Geartronic Momentum,21990,Volvo,V90,2019,216 034 km,Diesel,190 CP,1 969 cm3,Fata,,Automata,Combi,,,
+1253,Opel Astra,29291,Opel,Astra,2023,2 km,Hibrid,180 CP,1 598 cm3,,Euro 6,Automata,Masina mica,,,Da
+1254,Kia Ceed,7499,Kia,Ceed,2013,227 000 km,Diesel,115 CP,1 582 cm3,Fata,Euro 5,Manuala,Combi,Germania,Da,Da
+1255,Audi A4 Avant 2.0 TDI quattro S tronic,29300,Audi,A4,2019,73 101 km,Diesel,190 CP,1 968 cm3,4x4 (automat),,Automata,Combi,,,
+1256,Dacia Logan,8900,Dacia,Logan,2017,97 311 km,Benzina,90 CP,898 cm3,Fata,Euro 6,Manuala,Sedan,Romania,,
+1257,Mercedes-Benz GLA 250 4MATIC Aut.,46767,Mercedes-Benz,GLA,2020,40 438 km,Benzina,224 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1258,Mercedes-Benz GLC 200 4MATIC MHEV,60999,Mercedes-Benz,GLC,2022,9 000 km,Benzina,204 CP,1 999 cm3,4x4 (automat),Euro 6,Automata,SUV,,Da,Da
+1259,Audi A4 Avant 2.0 TDI Multitronic,10490,Audi,A4,2013,249 719 km,Diesel,177 CP,1 968 cm3,Fata,Euro 5,Automata,Sedan,Germania,,Da
+1260,Dacia Duster,15700,Dacia,Duster,2018,94 639 km,Diesel,109 CP,1 461 cm3,4x4 (automat),Euro 6,Manuala,SUV,Romania,,
+1261,Mercedes-Benz GLA 250 4MATIC Aut.,47005,Mercedes-Benz,GLA,2020,42 139 km,Benzina,224 CP,1 991 cm3,4x4 (automat),Euro 6,Automata,SUV,,,Da
+1262,Mercedes-Benz C,45499,Mercedes-Benz,C,2021,34 248 km,Benzina,204 CP,1 496 cm3,4x4 (automat),Euro 6,Automata,Sedan,,,Da
+1263,Mercedes-Benz G AMG 63 SW Long Aut.,174930,Mercedes-Benz,G,2019,81 000 km,Benzina,585 CP,3 982 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+1264,Skoda Octavia Combi 2.0 TDI Soleil,14289,Skoda,Octavia,2019,188 000 km,Diesel,150 CP,1 968 cm3,Fata,Euro 6d,Manuala,Combi,Germania,Da,
+1265,Volkswagen Caddy 2.0 TDI 75 kW,28625,Volkswagen,Caddy,2023,3 000 km,Diesel,102 CP,1 968 cm3,Fata,Euro 6,Manuala,Monovolum,Germania,Da,Da
+1266,BMW X6 xDrive30d AT MHEV,103200,BMW,X6,2023,9 000 km,Diesel,286 CP,2 993 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,Da,Da
+1267,Volkswagen Polo 1.0 TSI Comfortline,13490,Volkswagen,Polo,2021,51 325 km,Benzina,95 CP,999 cm3,Fata,Euro 6,Manuala,Masina de oras,Romania,Da,
+1268,Renault Clio 1.2 16V 75 Yahoo!,3499,Renault,Clio,2012,214 000 km,Benzina,75 CP,1 149 cm3,Fata,Euro 5,Manuala,Coupe,Germania,Da,Da
+1269,BMW Seria 5 520d Aut.,38913,BMW,Seria 5,2021,58 000 km,Diesel,190 CP,1 995 cm3,Spate,Euro 6,Automata,Sedan,Germania,Da,Da
+1270,Jeep Wrangler,9290,Jeep,Wrangler,1994,197 000 km,Benzina,125 CP,2 464 cm3,,,Manuala,SUV,,,
+1271,Volvo XC 90,50563,Volvo,XC 90,2019,121 970 km,Hibrid,390 CP,1 969 cm3,4x4 (automat),,Automata,SUV,,,
+1272,BMW Seria 3 330e xDrive AT,38420,BMW,Seria 3,2021,30 398 km,Hibrid,184 CP,1 998 cm3,4x4 (automat),Euro 6,Automata,Sedan,Germania,Da,Da
+1273,Volkswagen Polo 1.0 TSI Life,19800,Volkswagen,Polo,2023,1 km,Benzina,95 CP,999 cm3,Fata,,Manuala,Masina de oras,,,Da
+1274,BMW Seria 4 435d Gran Coupe xDrive Aut. M Sport,24900,BMW,Seria 4,2016,164 900 km,Diesel,313 CP,2 993 cm3,4x4 (manual),,Automata,Sedan,,,
+1275,BMW Seria 3,26490,BMW,Seria 3,2019,61 300 km,Diesel,150 CP,1 995 cm3,Spate,Euro 6,Automata,Sedan,,,Da
+1276,Skoda RAPID Spaceback 1.4 TDI Green tec DSG Edition,10450,Skoda,RAPID,2017,233 000 km,Diesel,90 CP,1 400 cm3,Fata,Euro 6,Automata,Combi,,,
+1277,Renault Talisman,12980,Renault,Talisman,2017,185 000 km,Diesel,130 CP,1 598 cm3,Fata,Euro 6,Automata,Sedan,,,
+1278,Land Rover Range Rover Evoque 2.0 D200 MHEV S,49500,Land Rover,Range Rover Evoque,2021,27 000 km,Diesel,204 CP,1 999 cm3,4x4 (automat),Euro 6,Automata,SUV,Romania,Da,Da
+1279,Audi A6 2.0 40 TDI quattro S tronic Sport,51000,Audi,A6,2021,17 150 km,Diesel,204 CP,1 968 cm3,4x4 (automat),Euro 6,Automata,Sedan,,,
+1280,Mercedes-Benz GLC 250 d 4MATIC,27500,Mercedes-Benz,GLC,2019,220 000 km,Diesel,204 CP,2 143 cm3,4x4 (automat),Euro 6,Automata,SUV,Germania,,Da
+1281,Audi A4 Allroad quattro 2.0 TDI,26900,Audi,A4 Allroad,2018,112 000 km,Diesel,190 CP,1 968 cm3,,,Manuala,Combi,,,
+1282,BMW Seria 1 123d Coupe,7250,BMW,Seria 1,2007,176 000 km,Diesel,204 CP,1 995 cm3,Spate,,Manuala,Coupe,,,Da
+1283,Toyota Land Cruiser,16490,Toyota,Land Cruiser,1994,252 000 km,Diesel,149 CP,2 982 cm3,4x4 (manual),,Manuala,SUV,Germania,,Da
+1284,Mazda 5,2500,Mazda,5,2007,253 054 km,Diesel,110 CP,1 998 cm3,,,Manuala,Monovolum,,,
+1285,Mercedes-Benz GLE 450 d 4MATIC,120692,Mercedes-Benz,GLE,2023,1 km,Diesel,367 CP,2 989 cm3,4x4 (automat),,Automata,SUV,,,Da
+1286,BMW Seria 3 320d Aut.,15990,BMW,Seria 3,2016,190 000 km,Diesel,190 CP,1 995 cm3,Spate,,Automata,Sedan,,,
+1287,BMW X7 xDrive40d MHEV,133500,BMW,X7,2023,10 km,Diesel,340 CP,2 993 cm3,4x4 (automat),,Automata,SUV,,,
+1288,Mercedes-Benz Sprinter 516 CDI 906.253,10500,Mercedes-Benz,Sprinter,2011,520 000 km,Diesel,163 CP,2 143 cm3,,,Manuala,Monovolum,,,
+1289,Volvo V90,64317,Volvo,V90,2023,50 km,Hibrid,211 CP,1 969 cm3,4x4 (automat),Euro 6d,Automata,Combi,Suedia,,Da
+1290,Fiat 500 1.2 Color Therapy,8000,Fiat,500,2013,88 000 km,Benzina,69 CP,1 242 cm3,Fata,Euro 5b,Manuala,Compacta,Belgia,Da,Da
+1291,Volvo V60,13000,Volvo,V60,2014,295 000 km,Hibrid,303 CP,2 387 cm3,4x4 (automat),Euro 5,Automata,Combi,Olanda,,Da
