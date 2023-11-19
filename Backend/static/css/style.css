@@ -1,0 +1,27 @@
+body {
+    background-color: #000;
+}
+
+a {
+    color: #ffffff;
+    font-style: italic;
+}
+
+.tab {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.content {
+    background-color: #323232;
+    color: #ffffff;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 25px 50px;
+    border: thin solid black;
+    font-family: "Times New Roman", Times, serif;
+    
+    display: flexbox;
+    flex-direction: column;
+
+}   

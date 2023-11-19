@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
+
+{% load static%}
+
 <head>
+
+    <link rel="stylesheet" href="{% static "css/style.css" %}">
     <title>
         Car Recommendation System
     </title>
@@ -8,9 +13,17 @@
     <h1>Hello World!</h1>
 </head>
 <body>
-
-<h1>Hello World!</h1>
-<p>Welcome to my first Django project!</p>
-
+<div class="content">
+    <h1>Hello World!</h1>
+    <p>Welcome to my first Django project!</p>
+    <div>
+        <form action = "" mehtod = "POST">
+            {% csrf_token %}
+            <label for="Cerere"> Ce cauti la o masina?: </label>
+            <input id="Cerere" type='text' name='recomandare' placeholder="Ce cauti la o masina?" required>
+            <input type='submit' value='OK' />
+        </form>
+    </div>
+</div>
 </body>
 </html>
