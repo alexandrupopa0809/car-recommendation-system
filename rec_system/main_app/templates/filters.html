@@ -1,0 +1,26 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Filters</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'styles.css' %}">
+</head>
+<body>
+    <form method="post" action="{% url 'recommendations' %}">
+        {% csrf_token %}
+        <label for="mileage">Max mileage:</label>
+        <input type="text" name="mileage" id="mileage">
+        <br>
+        <label for="price">Max price:</label>
+        <input type="text" name="price" id="price">
+        <br>
+        <label for="horsepower">Min engine HP:</label>
+        <input type="text" name="horsepower" id="horsepower">
+        <br>
+        <label for="description">Car description:</label>
+        <input type="text" name="description" id="description">
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
