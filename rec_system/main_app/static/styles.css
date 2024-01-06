@@ -1,0 +1,134 @@
+/* styles.css */
+
+/* Basic styles for body and headings */
+body {
+    /*background-image: url('/static/images/cars.jpeg');*/ /* Replace 'path_to_your_image.jpg' with your image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This keeps the background fixed while scrolling */
+    padding: px; /* Set your desired padding */
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+/* Styles for the home page */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Style for the START button */
+.btn {
+    display: block;
+    width: 120px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #2980b9;
+}
+
+/* Styles for the filters page */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+input[type="text"] {
+    width: calc(100% - 12px);
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+input[type="submit"]:hover {
+    background-color: #2980b9;
+}
+
+.members-container {
+    text-align: center;
+}
+
+.team-members {
+    list-style: none;
+    padding: 0;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.team-members li {
+    display: inline-block;
+    margin: 5px;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.red-button {
+    background-color: red;
+    color: white;
+}
+
+.blue-button {
+    background-color: blue;
+    color: white;
+}

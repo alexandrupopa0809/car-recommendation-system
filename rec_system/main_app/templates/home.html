@@ -1,5 +1,21 @@
-<form method="post">
-    {% csrf_token %}
-    <input type="text" name="user_input" placeholder="Enter your input">
-    <button type="submit">Submit</button>
-</form>
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'styles.css' %}">
+
+</head>
+<body>
+    <h1>Car recommendation system</h1>
+    <h2>{{ team_name }}</h2>
+    <div class="members-container">
+        <ul class="team-members">
+            {% for member in team_members %}
+                <li>{{ member }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <a href="{% url 'filters' %}" class="btn">START</a>
+</body>
+</html>
