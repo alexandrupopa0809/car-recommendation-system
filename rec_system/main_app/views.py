@@ -1,10 +1,15 @@
 from django.shortcuts import render
 
+from .cache import get_cached_dataframe
+from .ml_computations import get_bert_recommendations
+
 
 def home(request):
     team_name = "Auto Advise Team"
     team_members = ["Popa Alexandru-Matei", "Varzaru Mihnea-Gabriel"]
-    return render(request, 'home.html', {'team_name': team_name, 'team_members': team_members})
+    return render(
+        request, "home.html", {"team_name": team_name, "team_members": team_members}
+    )
 
 
 def filters(request):
@@ -17,14 +22,20 @@ def process_filters(request):
         price = request.POST.get("price")
         horsepower = request.POST.get("horsepower")
         description = request.POST.get("description")
-
-        results = {
+        inputs = {
             "mileage": mileage,
             "price": price,
             "horsepower": horsepower,
             "description": description,
         }
 
-        return render(request, "recommendations.html", results)
+        df = get_cached_dataframe()
+        bert_results = get_bert_recommendations(df, inputs["description"], 5)
+
+        return render(
+            request,
+            "recommendations.html",
+            context={"inputs": inputs, "bert_results": bert_results},
+        )
 
     return render(request, "filters.html")
