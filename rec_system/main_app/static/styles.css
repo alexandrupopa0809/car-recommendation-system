@@ -11,6 +11,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 80vh;
@@ -18,6 +19,7 @@ body {
 
 h1, h2 {
     text-align: center;
+    margin: auto;
 }
 
 /* Styles for the home page */
@@ -128,7 +130,58 @@ th {
     color: white;
 }
 
+.red-button:hover {
+    background-color: #8B0000;
+}
+
 .blue-button {
     background-color: blue;
     color: white;
+}
+
+.blue-button:hover {
+    background-color: #00008B; 
+}
+
+.results-container {
+    text-align: center;
+}
+
+.results-table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 140%;
+}
+
+.results-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.results-table th {
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.home-button {
+    display: block;
+    width: 120px; /* Adjust the width as needed */
+    margin: 0 auto; /* Centers the button */
+    text-align: center;
+    padding: 10px;
+    background-color: #0000FF; /* Blue */
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the home button */
+.home-button:hover {
+    background-color: #3333FF; /* Darker blue on hover */
 }

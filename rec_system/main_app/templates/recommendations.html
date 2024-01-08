@@ -1,24 +1,60 @@
-{% load static %}
+{%load static%}
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Results</title>
     <link rel="stylesheet" type="text/css" href="{% static 'styles.css' %}">
+    <script src="{% static 'utils.js' %}"></script>
 </head>
-<body>
-    <h2>Form Results</h2>
 
-    <table>
-        <tr>
-            <td>Max Mileage: {{ mileage }}km</td>
-            <td><button class="button red-button">Autovit</button></td>
-            <td><button class="button blue-button">Similar</button></td>
-        </tr>
-        <tr>
-            <td>Max Price: {{ price }}$</td>
-            <td><button class="button red-button">Autovit</button></td>
-            <td><button class="button blue-button">Similar</button></td>
-        </tr>
-    </table>
+<body>
+    <div class="results-container">
+        <a href="/" class="home-button">Home</a><br><br><br>
+        <h2 style="text-align: center;">Inputs</h2>
+        <table class="results-table">
+            <tr>
+                <td>Max Mileage</td>
+                <td>{{ inputs.mileage }}km</td>
+            </tr>
+            <tr>
+                <td>Max Price</td>
+                <td>{{ inputs.price }}$</td>
+            </tr>
+            <tr>
+                <td>Min HP</td>
+                <td>{{ inputs.horsepower }}</td>
+            </tr>
+            <tr>
+                <td>Car description</td>
+                <td>{{ inputs.description }}</td>
+            </tr>
+        </table>
+        <br><br>
+
+        <h2 style="text-align: center;">BERT recommendations</h2>
+        <table class="results-table">
+            <thead>
+                <tr>
+                    <th>Vehicle Title</th>
+                    <th>Review</th>
+                    <th>Similarity Score</th>
+                </tr>
+            </thead>
+            {% for key, value in bert_results.items %}
+            <tr>
+                <td>{{ key.0 }}</td>
+                <td>{{ key.1 }}</td>
+                <td>{{ value }}</td>
+                <td><button class="button red-button"
+                        onclick="openAutovitPage('{{ key.0 }}', '{{ inputs.mileage }}','{{ inputs.price }}','{{ inputs.horsepower }}')">Autovit</button>
+                </td>
+                <td><button class="button blue-button">Similar</button></td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+
 </body>
+
 </html>
